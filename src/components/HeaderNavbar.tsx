@@ -106,7 +106,7 @@ const HEADER_MENU: HeaderMenu[] = [
 const LogoWordmark: React.FC = () => {
   const { language } = useLanguage();
   return (
-    <span className="ml-2 flex flex-col leading-none whitespace-nowrap sm:ml-3 xl:hidden 2xl:flex">
+    <span className="ml-2 flex min-w-0 flex-col leading-none whitespace-nowrap overflow-hidden sm:ml-3 xl:hidden 2xl:flex">
       <span className="font-extrabold tracking-[0.18em] text-[11px] text-slate-900 sm:tracking-[0.22em] sm:text-[13px]">{language === 'en' ? 'HOSPITAL' : 'RUMAH SAKIT'}</span>
       <span className="mt-1 font-extrabold tracking-tight text-sm text-lime-600 sm:text-base">MEDISTRA HORIZON MEDAN</span>
     </span>
@@ -133,7 +133,7 @@ const LogoLockup: React.FC<{
       <img
         src={typeof hospitalLogo === 'string' ? hospitalLogo : (hospitalLogo as any).src || hospitalLogo}
         alt={`${label} logo`}
-        className={`w-auto object-contain ${tinggiImg}`}
+        className={`w-auto shrink-0 object-contain ${tinggiImg}`}
       />
       <LogoWordmark />
     </>
@@ -320,7 +320,7 @@ const HeaderNavbar: React.FC = () => {
           className="flex w-full items-center justify-between gap-4 px-4 py-6 sm:px-6 xl:px-8 2xl:px-12 xl:pr-4 2xl:pr-6"
         >
           {/* LOGO */}
-          <LogoLockup statik={logoStatik} className="flex shrink-0 items-center" tinggiImg="h-11 sm:h-12" />
+          <LogoLockup statik={logoStatik} className="flex min-w-0 items-center" tinggiImg="h-11 sm:h-12" />
 
           {/* MENU UTAMA (desktop xl+) -- grup merapat ke kanan (ml-auto), jarak antar menu
               dirapatkan ke gap-4 (xl) / gap-6 (2xl) supaya baris tidak terlalu melebar. */}
@@ -492,7 +492,7 @@ const HeaderNavbar: React.FC = () => {
               <LogoLockup
                 statik={logoStatik}
                 onClick={() => setMobileOpen(false)}
-                className="flex items-center"
+                className="flex min-w-0 items-center"
                 tinggiImg="h-10"
               />
               <button

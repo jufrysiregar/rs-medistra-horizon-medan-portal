@@ -38,7 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </head>
-      <body className="bg-slate-50 text-slate-800 antialiased selection:bg-cyan-500 selection:text-white">
+      <body className="overflow-x-hidden bg-slate-50 text-slate-800 antialiased selection:bg-cyan-500 selection:text-white">
         <Providers initialLanguage={lang}>{children}</Providers>
       </body>
     </html>
