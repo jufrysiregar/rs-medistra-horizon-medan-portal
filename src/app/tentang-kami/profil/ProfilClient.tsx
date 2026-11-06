@@ -584,6 +584,14 @@ const FeedbackSection: FC<{ lang: Language }> = ({ lang }) => {
             >
               {tp(lang, 'Kirim', 'Send')}
             </button>
+
+            <p className="mt-4 text-center text-xs text-slate-500">
+              {tp(
+                lang,
+                'Dengan mengirimkan pesan ini, Anda menyetujui bahwa seluruh data yang ditampilkan pada website ini bersifat simulasi.',
+                'By sending this message, you agree that all data displayed on this website is simulation data.',
+              )}
+            </p>
           </motion.form>
           )}
         </div>

@@ -438,7 +438,7 @@ export default function FaqPage() {
       <div className="mx-auto w-full max-w-7xl px-6 py-20 lg:px-12">
         {/* ============ HERO: JUDUL RATA KIRI + PENCARIAN ============ */}
         <h1 className="text-5xl font-extrabold text-slate-900">
-          {tp(language, 'Pusat Bantuan', 'FAQs')}
+          {tp(language, 'Pusat Bantuan', 'FAQ')}
         </h1>
         <p className="mt-4 max-w-3xl text-lg text-slate-600 leading-relaxed">
           {tp(

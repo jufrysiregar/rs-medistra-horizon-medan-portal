@@ -90,7 +90,7 @@ const CONTACT: { Icon: React.ComponentType<{ className?: string }>; text: { id: 
  * tipis, dipisahkan bullet.
  */
 const LEGAL_LINKS = [
-  { key: 'faq', label: { id: 'Pusat Bantuan', en: 'FAQs' }, href: '/faq' },
+  { key: 'faq', label: { id: 'Pusat Bantuan', en: 'FAQ' }, href: '/faq' },
   { key: 'terms', label: { id: 'Syarat dan Ketentuan', en: 'Terms and Conditions' }, href: '/syarat-ketentuan' },
   { key: 'privacy', label: { id: 'Kebijakan Perlindungan', en: 'Privacy Policy' }, href: '/kebijakan-privasi' },
 ];
