@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, MapPin } from 'lucide-react';
+import { MapPin } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 
 /** Alamat fisik dipakai apa adanya oleh pencarian Google Maps, jadi tidak diterjemahkan. */
@@ -33,8 +33,6 @@ const ALAMAT = {
   en: 'No. 15 Pangeran Diponegoro St., Madras Hulu, Medan Polonia, North Sumatra 20152',
 };
 
-const TOMBOL = { id: 'Informasi Selengkapnya', en: 'Learn More' };
-
 /** Judul aksesibel iframe: kalimat penunjuknya bilingual, alamat search tetap apa adanya. */
 const JUDUL_PETA = {
   id: (alamat: string) => `Peta lokasi Rumah Sakit Medistra Horizon Medan, ${alamat}`,
@@ -45,9 +43,6 @@ const JUDUL_PETA = {
  * LOKASI & KUNJUNGI KAMI - split 50:50 full-width (lebar 1400px), teks rata kiri di
  * kiri, peta berbingkai putih ala bingkai foto di kanan. Section terakhir beranda,
  * jadi letaknya tepat di atas footer.
- *
- * Tombolnya sengaja MATI (native <button disabled>, tanpa href maupun onClick) karena
- * halaman profil lokasi belum tersedia.
  */
 export const LokasiSection: React.FC = () => {
   const { language } = useLanguage();
@@ -56,7 +51,7 @@ export const LokasiSection: React.FC = () => {
     <section className="w-full bg-white">
       <div className="mx-auto w-full max-w-[1400px] px-6 py-12 sm:py-16 lg:px-16 lg:py-24">
         <div className="grid grid-cols-1 items-center gap-10 lg:grid-cols-2 lg:gap-24">
-          {/* KOLOM KIRI: judul, deskripsi, alamat, tombol */}
+          {/* KOLOM KIRI: judul, deskripsi, alamat */}
           <div>
             <motion.h2
               initial={{ opacity: 0, y: 40 }}
@@ -93,18 +88,6 @@ export const LokasiSection: React.FC = () => {
                 <span>{ALAMAT[language]}</span>
               </p>
             </motion.div>
-
-            {/* MATI SENGAJA: halaman detail lokasi belum ada. Tanpa href & tanpa onClick. */}
-            <button
-              type="button"
-              disabled
-              aria-disabled="true"
-              title={language === 'id' ? 'Halaman sedang dalam pengembangan' : 'Page under development'}
-              className="mt-10 inline-flex min-h-[44px] w-full cursor-not-allowed items-center justify-center gap-2 rounded-xl border border-slate-300 bg-slate-200 px-8 py-4 font-bold text-slate-400 sm:w-auto sm:justify-start"
-            >
-              {TOMBOL[language]}
-              <ArrowRight className="h-5 w-5" />
-            </button>
           </div>
 
           {/* KOLOM KANAN: peta berbingkai. Bingkai = border putih tebal + shadow lembut,
