@@ -1,0 +1,329 @@
+{
+  "profil": {
+    "nama_rs": "RS Medistra Horizon Medan",
+    "sejarah": [
+      "RS Medistra Horizon memulai operasionalnya pada 26 Oktober 2026 sebagai rumah sakit umum swasta tipe B di jantung kota Medan, dengan misi menghadirkan layanan rujukan berkelas internasional dengan harga yang tetap terjangkau bagi keluarga Sumatera Utara."
+    ],
+    "gedung": [
+      {
+        "id": "twin-wing",
+        "judul": "Gedung Twin Wing 10 Lantai",
+        "ket": "Dua sayap gedung, North dan South, terhubung koridor utama pada setiap lantai."
+      },
+      {
+        "id": "kapasitas",
+        "judul": "300+ Tempat Tidur",
+        "ket": "Rawat inap standar KRIS, bangsal VIP, hingga suite VVIP presidential."
+      },
+      {
+        "id": "unggulan",
+        "judul": "Unggulan Jantung & Onkologi",
+        "ket": "Poli Jantung & Penyakit Dalam menempati Lt 7 North Wing, Pusat Kemoterapi terintegrasi di Lt 5, terhubung lewat tumor board dan rujukan satu pintu."
+      },
+      {
+        "id": "zonasi",
+        "judul": "Zonasi Steril Bertekanan Negatif",
+        "ket": "Ruang isolasi bertekanan negatif dengan sirkulasi udara dan lift terpisah."
+      }
+    ],
+    "visi": "Menjadi rumah sakit rujukan terdepan dan terpercaya di wilayah Barat Indonesia dengan standar pelayanan berkelas dunia.",
+    "misi": "Memberikan pelayanan kesehatan yang aman dan bermutu tinggi, mengutamakan keselamatan pasien, serta menyediakan fasilitas medis dan penunjang yang modern.",
+    "misi_poin": [
+      "Menyelenggarakan pelayanan kesehatan yang paripurna, aman, dan berorientasi pada keselamatan pasien.",
+      "Mengembangkan kompetensi tenaga medis dan keperawatan secara berkelanjutan dengan standar internasional.",
+      "Menyediakan fasilitas, teknologi medis, dan penunjang diagnostik yang modern serta presisi.",
+      "Membangun kemitraan strategis dengan masyarakat dan pemangku kepentingan untuk meningkatkan derajat kesehatan regional."
+    ],
+    "nilai": [
+      {
+        "kode": "I",
+        "nama": "Integrity",
+        "ket": "Jujur, transparan, dan konsisten menjalankan tata kelola klinis yang benar."
+      },
+      {
+        "kode": "C",
+        "nama": "Compassion",
+        "ket": "Merawat setiap pasien dan keluarganya dengan empati serta rasa kemanusiaan."
+      },
+      {
+        "kode": "A",
+        "nama": "Accountability",
+        "ket": "Bertanggung jawab atas setiap tindakan medis, waktu tanggap, dan mutu hasil."
+      },
+      {
+        "kode": "R",
+        "nama": "Respect",
+        "ket": "Menghargai privasi, latar belakang, dan hak pasien pada setiap layanan."
+      },
+      {
+        "kode": "E",
+        "nama": "Excellence",
+        "ket": "Terus menaikkan mutu lewat edukasi berkelanjutan dan teknologi terkini."
+      }
+    ]
+  },
+  "akreditasi": [
+    {
+      "id": "kars",
+      "nama": "Akreditasi KARS",
+      "peringkat": "Paripurna",
+      "tahun": "2024",
+      "inisial": "KARS",
+      "aksen": "bg cyan 100 text cyan 700"
+    },
+    {
+      "id": "iso27001",
+      "nama": "ISO 27001",
+      "peringkat": "Security Manajemen Data RM",
+      "tahun": "2025",
+      "inisial": "ISO",
+      "aksen": "bg indigo 100 text indigo 700"
+    },
+    {
+      "id": "iso9001",
+      "nama": "ISO 9001:2015",
+      "peringkat": "Mutu Pelayanan",
+      "tahun": "2023",
+      "inisial": "9001",
+      "aksen": "bg emerald 100 text emerald 700"
+    },
+    {
+      "id": "stei",
+      "nama": "Sertifikat Standar Tata Kelola Klinis",
+      "peringkat": "Kemenkes RI",
+      "tahun": "2024",
+      "inisial": "STK",
+      "aksen": "bg amber 100 text amber 700"
+    },
+    {
+      "id": "kris",
+      "nama": "Kerja Sama KRIS",
+      "peringkat": "Terkelas Kemenkes",
+      "tahun": "2025",
+      "inisial": "KRIS",
+      "aksen": "bg teal 100 text teal 700"
+    },
+    {
+      "id": "jci",
+      "nama": "Roadmap Accreditation JCI",
+      "peringkat": "In Progress",
+      "tahun": "2026",
+      "inisial": "JCI",
+      "aksen": "bg violet 100 text violet 700"
+    }
+  ],
+  "lowongan": [
+    {
+      "id": "lok-perawat-igd",
+      "posisi": "Perawat IGD 24 Jam",
+      "departemen": "Unit Gawat Darurat",
+      "tipe": "Full time · Shift",
+      "lokasi": "Lt G, North Wing",
+      "jumlah": 4,
+      "deskripsi": "Menangani triase dan tindakan kegawatdaruratan sesuai kode biru, kuning, hijau bersama Tim Code Stroke & Trauma.",
+      "kualifikasi": [
+        "D3/S1 Keperawatan + Ners",
+        "STR aktif",
+        "Sertifikat BTCLS/ATLS diutamakan",
+        "Bersedia kerja shift"
+      ]
+    },
+    {
+      "id": "lok-apoteker",
+      "posisi": "Apoteker Instalasi Farmasi",
+      "departemen": "Instalasi Farmasi",
+      "tipe": "Full time",
+      "lokasi": "Lt G & Lt 3 (Racik Steril)",
+      "jumlah": 2,
+      "deskripsi": "Mengelola peracikan steril IVRS, kontrol stok obat esensial, dan edukasi rasionalisasi penggunaan obat poliklinik.",
+      "kualifikasi": [
+        "Profesi Apoteker",
+        "STRAP aktif",
+        "Pengalaman PICRA/IVRS diutamakan"
+      ]
+    },
+    {
+      "id": "lok-staf-it",
+      "posisi": "Staf IT Sistem Rumah Sakit",
+      "departemen": "IT & Rekam Medis Elektronik",
+      "tipe": "Full time",
+      "lokasi": "Lt 9, Management Office",
+      "jumlah": 2,
+      "deskripsi": "Memelihara SIMRS, interoperabilitas BPJS V Claim, keamanan data ISO 27001, dan dukungan aplikasi klinis.",
+      "kualifikasi": [
+        "S1 Teknik Informatika/SI",
+        "Menguasai SQL Server & jaringan medis",
+        "Memahami HL7/FHIR diutamakan"
+      ]
+    },
+    {
+      "id": "lok-radiografer",
+      "posisi": "Radiografer CT Scan & MRI",
+      "departemen": "Radiologi 128 Slice",
+      "tipe": "Full time · Shift",
+      "lokasi": "Lt G, Radiologi",
+      "jumlah": 2,
+      "deskripsi": "Melaksanakan tindakan imaging lanjutan termasuk CTA jantung dan MRI neuro dengan protokol radiasi seminimal mungkin.",
+      "kualifikasi": [
+        "D4 Radiologi + STR aktif",
+        "Sertifikat proteksi radiasi",
+        "Berpengalaman modalitas CT/MRI"
+      ]
+    },
+    {
+      "id": "lok-admin-rm",
+      "posisi": "Admin Rekam Medis",
+      "departemen": "Rekam Medis & Informasi Kesehatan",
+      "tipe": "Kontrak 1 Tahun (opsi perpanjangan)",
+      "lokasi": "Lt G, North Wing",
+      "jumlah": 3,
+      "deskripsi": "Verifikasi kelengkapan RM elektronik, koding INA CBG BPJS, dan pelayanan permintaan resume medis pasien.",
+      "kualifikasi": [
+        "D3 Perekam Medis (RMIK)",
+        "Terampil koding ICD 10 & INA CBG",
+        "Teliti & komunikatif"
+      ]
+    }
+  ],
+  "denah": {
+    "catatan_lift": "4 Sistem Lift (Publik, Bed/Stretcher, VIP, Servis)",
+    "lantai": [
+      {
+        "id": "G",
+        "zona": "Zona Darurat, Diagnostik & Servis",
+        "north_wing": [
+          { "nama": "UGD 24 Jam & Trauma Center", "jenis": "darurat" },
+          { "nama": "Farmasi UGD", "jenis": "publik" },
+          { "nama": "Laboratorium Sentral 24 Jam", "jenis": "publik" },
+          { "nama": "Radiologi 128 Slice", "jenis": "publik" },
+          { "nama": "Bank Darah", "jenis": "publik" },
+          { "nama": "Pospol Security & CCTV", "jenis": "servis" }
+        ],
+        "south_wing": [
+          { "nama": "Kantin & Dapur Kitchen", "jenis": "servis" },
+          { "nama": "Laundry & Linen", "jenis": "servis" },
+          { "nama": "Ruang Teknisi", "jenis": "servis" },
+          { "nama": "Kantor IT & Server", "jenis": "administrasi" },
+          { "nama": "Ruang Staf", "jenis": "administrasi" }
+        ]
+      },
+      {
+        "id": "1",
+        "zona": "Zona Pendaftaran & Poliklinik Dasar",
+        "north_wing": [
+          { "nama": "Pendaftaran Utama", "jenis": "publik" },
+          { "nama": "Poli Umum", "jenis": "publik" },
+          { "nama": "Poli Gigi", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Farmasi Rawat Jalan", "jenis": "publik" },
+          { "nama": "Kasir & Rekam Medis", "jenis": "publik" },
+          { "nama": "Ruang Serbaguna & Meeting", "jenis": "administrasi" },
+          { "nama": "Auditorium & Ruang Seminar", "jenis": "publik" }
+        ]
+      },
+      {
+        "id": "2",
+        "zona": "Rawat Inap Reguler / KRIS",
+        "north_wing": [
+          { "nama": "Bangsal KRIS Sayap Utara", "jenis": "publik" },
+          { "nama": "Nurse Station & Ruang Tunggu Keluarga", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Bangsal KRIS Sayap Selatan", "jenis": "publik" },
+          { "nama": "Nurse Station & Pantry Bersih", "jenis": "servis" }
+        ]
+      },
+      {
+        "id": "3",
+        "zona": "Zona Bedah & Perawatan Kritis",
+        "north_wing": [
+          { "nama": "Kamar Bedah (OK) 6 Theatr", "jenis": "steril" },
+          { "nama": "ICU", "jenis": "steril" },
+          { "nama": "HDU", "jenis": "steril" },
+          { "nama": "Unit Endoskopi", "jenis": "steril" }
+        ],
+        "south_wing": [
+          { "nama": "Central Sterile Supply Dept. (CSSD)", "jenis": "steril" },
+          { "nama": "Laundry Steril & Gudang Instrumen", "jenis": "steril" }
+        ]
+      },
+      {
+        "id": "4",
+        "zona": "Lantai 4 Tidak Dioperasikan",
+        "north_wing": [],
+        "south_wing": []
+      },
+      {
+        "id": "5",
+        "zona": "Pusat Kemoterapi & Rehabilitasi Medik",
+        "north_wing": [
+          { "nama": "Rawat Inap Anak", "jenis": "publik" },
+          { "nama": "Poli Anak & Tumbuh Kembang", "jenis": "publik" },
+          { "nama": "Pusat Kemoterapi Terpadu", "jenis": "steril" },
+          { "nama": "Ruang Tumor Board & Konseling", "jenis": "administrasi" },
+          { "nama": "Taman Bermain Anak", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Instalasi Fisioterapi & Rehabilitasi Medik", "jenis": "publik" }
+        ]
+      },
+      {
+        "id": "6",
+        "zona": "Zona Ibu, Bayi & Bersalin",
+        "north_wing": [
+          { "nama": "NICU & Perinatologi", "jenis": "steril" },
+          { "nama": "Ruang Laktasi", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "VK & Bersalin Terpadu", "jenis": "publik" },
+          { "nama": "Rawat Inap Ibu & Nifas", "jenis": "publik" }
+        ]
+      },
+      {
+        "id": "7",
+        "zona": "Zona Poli Spesialis & Rawat Inap Umum",
+        "north_wing": [
+          { "nama": "Poli Penyakit Dalam", "jenis": "publik" },
+          { "nama": "Poli Jantung", "jenis": "publik" },
+          { "nama": "Poli Saraf", "jenis": "publik" },
+          { "nama": "Poli Mata THT Kulit & Kelamin", "jenis": "publik" },
+          { "nama": "Laboratorium Kateterisasi Jantung", "jenis": "steril" },
+          { "nama": "Klinik Gagal Jantung & EKG Stress", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Rawat Inap Umum", "jenis": "publik" },
+          { "nama": "Farmasi Satelit Lt 7", "jenis": "publik" }
+        ]
+      },
+      {
+        "id": "8",
+        "zona": "Zona VIP & Pusat Manajemen",
+        "north_wing": [
+          { "nama": "Suite VIP Twin & Single", "jenis": "publik" },
+          { "nama": "Executive Suite & Honeymoon Room", "jenis": "publik" },
+          { "nama": "Nurse Station VIP", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Kantor Manajemen & Direksi", "jenis": "administrasi" },
+          { "nama": "Kantor HRD", "jenis": "administrasi" },
+          { "nama": "Boardroom & Ruang Komite Medik", "jenis": "administrasi" },
+          { "nama": "Depo Farmasi Pusat", "jenis": "steril" }
+        ]
+      },
+      {
+        "id": "9",
+        "zona": "Zona VVIP Eksklusif & Rooftop",
+        "north_wing": [
+          { "nama": "Suite VVIP Presiden", "jenis": "publik" },
+          { "nama": "VVIP Lounge", "jenis": "publik" }
+        ],
+        "south_wing": [
+          { "nama": "Private Chef & Butler Service", "jenis": "servis" },
+          { "nama": "Rooftop Garden Therapy", "jenis": "publik" },
+          { "nama": "Helipad Medevac (Sertifikat Kemenhub)", "jenis": "darurat" }
+        ]
+      }
+    ]
+  }
+}

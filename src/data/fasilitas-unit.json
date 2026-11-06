@@ -1,0 +1,401 @@
+{
+  "laboratorium-medis": {
+    "nama": "Laboratorium Medis",
+    "ikon": "FlaskConical",
+    "tagline": "Laboratorium sentral siaga 24 jam dengan otomatisasi penuh dan hasil terintegrasi rekam medis elektronik.",
+    "paragraf": [
+      "Laboratorium Medis RS Medistra Horizon memenuhi kebutuhan diagnostik in vitro pasien rawat jalan maupun rawat inap. Pada setiap giliran bertugas analis bersertifikat STR yang didukung sistem otomatisasi hematologi dan kimia klinik, sehingga waktu tunggu hasil dipercepat tanpa mengurangi akurasi.",
+      "Seluruh tahapan, pra analitik, analitik, hingga pasca analitik, berada di bawah kendali mutu internal dan evaluasi mutu eksternal. Nilai kritis dilaporkan langsung kepada dokter penanggung jawab kurang dari 15 menit setelah terverifikasi, dan hasil dapat diakses lewat aplikasi SIMRS."
+    ],
+    "fitur": [
+      "Hematologi lengkap & parameter koagulasi",
+      "Kimia klinik dan imuno serologi",
+      "Kultur & sensitivitas antibiotik",
+      "Urinalisis dan toksikologi dasar",
+      "Pemeriksaan darurat: troponin, D dimer, AGD",
+      "Panel skrining MCU & pemeriksaan pra bedah"
+    ],
+    "lokasi": "Lt G, Central Laboratory, North Wing",
+    "jam": "24 Jam",
+    "akreditasi": "ISO 15189",
+    "hero": true
+  },
+  "ugd": {
+    "nama": "Unit Gawat Darurat",
+    "ikon": "HeartPulse",
+    "tagline": "Instalasi gawat darurat siaga tanpa jeda, dengan triase terstandarisasi dan tim respons cepat.",
+    "paragraf": [
+      "Unit Gawat Darurat adalah pintu masuk layanan emergensi rumah sakit yang beroperasi sepanjang hari. Setiap pasien menjalani triase empat tingkat oleh perawat gawat darurat bersertifikat, sehingga prioritas penanganan ditentukan oleh keparahan kondisi, bukan oleh urutan kedatangan.",
+      "Ruang resusitasi dilengkapi dua bed emergensi, defibrilator, ventilator transport, dan pemeriksaan laboratorium cepat di tempat. Waktu tunggu dokter untuk kategori merah dijaga di bawah lima menit, dengan jalur komunikasi langsung ke dokter spesialis terkait agar keputusan lanjutan tidak tertunda."
+    ],
+    "fitur": [
+      "Triase 4 tingkat (merah, kuning, hijau, biru)",
+      "Ruang resusitasi trauma & kardio",
+      "Pemeriksaan lab dan citra cepat di tempat",
+      "Dokter jaga & tim code blue 24 jam",
+      "Jalur ambulans dengan area bongkar muat",
+      "Koordinasi rujukan masuk dan keluar"
+    ],
+    "lokasi": "Lt G, Sayap Utara, Akses Langsung dari Area Ambulans",
+    "jam": "24 Jam",
+    "akreditasi": "IGD Berstandar Kemenkes",
+    "hero": true
+  },
+  "radiologi": {
+    "nama": "Radiologi",
+    "ikon": "ScanLine",
+    "tagline": "Pencitraan diagnostik lanjutan dengan radiolog sub spesialis dan proteksi radiasi yang terukur.",
+    "paragraf": [
+      "Instalasi Radiologi menyediakan pemeriksaan pencitraan mulai dari rontgen digital dan USG hingga CT scan 128 slice serta MRI 1.5 Tesla. Seluruh alat dikalibrasi berkala dan dosis radiasi dioptimalkan mengikuti prinsip ALARA, dengan pemantauan dosis personel radiasi yang dilaporkan setiap tiga bulan.",
+      "Bacaan hasil tersedia pada hari yang sama untuk kasus rawat jalan, dan kurang dari 30 menit untuk kegawatdaruratan seperti stroke, trauma kepala, atau emboli paru. Pendapat kedua oleh sub spesialis neuroradiologi maupun radiologi muskuloskeletal dapat dijadwalkan sesuai permintaan dokter pengirim."
+    ],
+    "fitur": [
+      "CT Scan 128 Slice & CT Angiography",
+      "MRI 1.5 Tesla",
+      "USG 4D & pemeriksaan Doppler",
+      "Mamografi digital & densitometri DXA",
+      "Fluoroskopi dengan C Arm intraoperatif",
+      "Teleradiologi & hasil digital via SIMRS"
+    ],
+    "lokasi": "Lt G, Diagnostic Imaging Center, South Wing",
+    "jam": "Sen Sab 07:00 s.d. 21:00 · CT darurat 24 Jam",
+    "akreditasi": "Izin BAPETEN",
+    "hero": true
+  },
+  "fisioterapi": {
+    "nama": "Fisioterapi",
+    "ikon": "Activity",
+    "tagline": "Rehabilitasi medik bertahap untuk memulihkan gerak, fungsi, dan kemandirian pasien.",
+    "paragraf": [
+      "Unit Fisioterapi menempati ruang seluas 300 m² yang dibagi menjadi area latihan, terapi manual, modalitas listrik, dan kolam hidroterapi dengan suhu terkontrol. Program terapi disusun setelah evaluasi awal oleh dokter spesialis rehabilitasi medik bersama fisioterapis, lalu dievaluasi ulang setiap empat kali pertemuan.",
+      "Kami menangani pemulihan pasca operasi ortopedi, stroke, cedera olahraga, nyeri kronik, sampai rehabilitasi kardiorespirasi pasca penyakit berat. Fisioterapis juga menjalankan program kunjungan rumah dan kelas edukasi postur bagi pekerja, sehingga hasil terapi bertahan setelah sesi di klinik berakhir."
+    ],
+    "fitur": [
+      "Terapi manual & mobilisasi sendi",
+      "Electrotherapy: TENS, ultrasound, laser",
+      "Terapi air (hydrotherapy pool)",
+      "Latihan jalan, keseimbangan, dan fungsional",
+      "Rehab kardiorespirasi pasca rawat",
+      "Terapi wicara dan terapi okupasi"
+    ],
+    "lokasi": "Lt 5 South Wing, Instalasi Fisioterapi & Rehabilitasi Medik",
+    "jam": "Sen Sab 08:00 s.d. 20:00",
+    "akreditasi": "STR & SIP Fisioterapis",
+    "hero": true
+  },
+  "hemodialisa": {
+    "nama": "Hemodialisa",
+    "ikon": "Droplets",
+    "tagline": "Unit cuci darah dengan mesin individual, air olahan tersertifikasi, dan kontrol dokter nefrolog.",
+    "paragraf": [
+      "Unit Hemodialisa melayani pasien penyakit ginjal kronik maupun serangan ginjal akut dengan dua belas unit mesin dialisis berteknologi high flux. Seluruh air olahan melewati sistem reverse osmosis dua tahap yang diuji endotoksin dan parameter kimia setiap bulan, sesuai standar keselamatan dialisis.",
+      "Setiap pasien memiliki catatan berat keringan, akses vaskular yang dipantau, serta jadwal kontrol dengan dokter spesialis penyakit dalam konsultan ginjal hipertensi. Pemasangan selang dialisis dan pembuatan akses arteri vena dilakukan di ruang tindakan yang dikoordinasikan bersama bedah vaskular."
+    ],
+    "fitur": [
+      "12 unit mesin hemodialisis high flux",
+      "HDF (hemodiafiltrasi) untuk pasien terpilih",
+      "Water treatment reverse osmosis 2 tahap",
+      "Pemantauan tanda vital kontinu selama sesi",
+      "Pembuatan & perawatan akses AVF/AVG",
+      "Edukasi diet ginjal dan kontrol cairan"
+    ],
+    "lokasi": "Lt 2 South Wing, Kidney Center",
+    "jam": "Sen/Rab/Jum 06:00 s.d. 14:00 · Sel/Kam/Sab 13:00 s.d. 21:00",
+    "akreditasi": "Izin Penyelenggaraan HD",
+    "hero": true
+  },
+  "kemoterapi": {
+    "nama": "Kemoterapi",
+    "ikon": "Pill",
+    "tagline": "Perawatan onkologi terencana di ruang day care dengan penyiapan obat steril dan perawat onkologi.",
+    "paragraf": [
+      "Unit Kemoterapi memberikan obat antikanker, terapi target, dan imunoterapi secara rawat hari. Regimen disiapkan apoteker onkologi di ruang pencampuran steril dengan biological safety cabinet, lalu diverifikasi secara ganda sebelum sampai ke samping pasien oleh perawat yang tersertifikasi pemberian kemoterapi.",
+      "Sebelum setiap siklus, pasien dievaluasi dokter spesialis penyakit konsultan hematologi onkologi, termasuk pemeriksaan darah dan fungsi organ. Efek samping ditangani melalui jalur komunikasi 24 jam, sedangkan dukungan psikologi onkologi dan kelompok pendukung pasien tersedia tanpa biaya tambahan."
+    ],
+    "fitur": [
+      "8 recliner day care dengan privasi parsial",
+      "Peracikan steril oleh apoteker onkologi",
+      "Protokol keamanan sitotoksik & tumpahan",
+      "Pemantauan reaksi infus dan extravasasi",
+      "Konseling psikologi onkologi",
+      "Koordinasi tumor board multidisiplin"
+    ],
+    "lokasi": "Lt 5, Oncology Day Care",
+    "jam": "Sen Sab 08:00 s.d. 18:00",
+    "akreditasi": "Unit Onkologi Terakreditasi",
+    "hero": true
+  },
+  "endoskopi": {
+    "nama": "Endoskopi",
+    "ikon": "Video",
+    "tagline": "Pemeriksaan saluran cerna dan empedu dengan endoskop resolusi tinggi serta sedasi terpantau.",
+    "paragraf": [
+      "Unit Endoskopi melaksanakan tindakan diagnostik dan terapetik pada saluran cerna: gastroskopi, kolonoskopi, hingga ERCP. Peralatan video endoskopi dilengkapi mesin pencucian otomatis endoskop dengan uji kebocoran pada setiap siklus, sebagai standar pengendalian infeksi untuk tindakan invasif.",
+      "Tindakan dengan sedasi dipantau dokter spesialis anestesi dan dapat dihentikan bila parameter keselamatan tidak terpenuhi. Biopsi, polipektomi, ligasi varises, maupun pemasangan stent dikerjakan pada sesi yang sama, sehingga pasien tidak perlu mengulang prosedur persiapan."
+    ],
+    "fitur": [
+      "Gastroskopi & kolonoskopi diagnostik",
+      "Polipektomi dan biopsi langsung",
+      "ERCP & sfingterotomi",
+      "Ekstraksi benda asing emergensi",
+      "Ligasi varises esofagus",
+      "Sedasi dengan pemantauan anestesi"
+    ],
+    "lokasi": "Lt 3 North Wing, Endoscopy Suite",
+    "jam": "Sen Jum 07:30 s.d. 15:30 · Tindakan darurat sesuai jadwal",
+    "akreditasi": "Ruang Tindakan Endoskopi",
+    "hero": true
+  },
+  "ruang-operasi": {
+    "nama": "Ruang Operasi",
+    "ikon": "Scissors",
+    "tagline": "Instalasi bedah sentral dengan kamar operasi bertekanan positif dan tim anestesi siaga 24 jam.",
+    "paragraf": [
+      "Instalasi Bedah Sentral memiliki empat kamar operasi, termasuk satu kamar bedah ortopedi dengan C arm dan satu kamar bertekanan negatif untuk pasien penyakit menular. Lantai, dinding, serta sistem tata udara dipilih agar mudah dibersihkan dan dipelihara pada standar kebersihan kelas A.",
+      "Setiap tindakan didahului konfirmasi keselamatan bedah: verifikasi identitas, situs, dan prosedur operasi, disertai penilaian risiko anestesi oleh dokter spesialis anestesiologi. Pemantauan selama operasi mencakup EKG, saturasi oksigen, kapnografi, dan tekanan darah invasif pada kasus tertentu."
+    ],
+    "fitur": [
+      "4 kamar operasi bertekanan positif",
+      "Kamar isolasi bedah bertekanan negatif",
+      "Anestesi umum, regional, dan sedasi",
+      "C Arm & elektrokauter monopolar/bipolar",
+      "Checklist Keselamatan Bedah WHO",
+      "Ruang pemulihan dengan monitor individual"
+    ],
+    "lokasi": "Lt 3 North Wing, Central Operating Theatre",
+    "jam": "Tindakan terjadwal 24 Jam · Konsultasi pra bedah Sen Jum",
+    "akreditasi": "Higienitas Kelas A",
+    "hero": true
+  },
+  "nicu": {
+    "nama": "NICU",
+    "ikon": "Baby",
+    "tagline": "Perawatan intensif bayi baru lahir dengan inkubator terkontrol dan pendampingan keluarga.",
+    "paragraf": [
+      "Neonatal Intensive Care Unit menangani bayi lahir premature, bayi dengan berat lahir sangat rendah, serta bayi yang membutuhkan bantuan napas atau pemantauan pasca tindakan. Tersedia sepuluh inkubator dengan pengendalian suhu dan kelembapan, empat radiant warmer, serta CPAP dan ventilator neonatal.",
+      "Tim dijaga dokter spesialis anak konsultan neonatologi selama 24 jam bersama perawat bersertifikat perawatan intensif neonatal. Orang tua dilibatkan melalui perawatan berpusat pada keluarga, termasuk edukasi metode kanguru, dukungan laktasi, dan kontrol tumbuh kembang setelah pasien pulang."
+    ],
+    "fitur": [
+      "10 inkubator terkontrol suhu & kelembapan",
+      "CPAP dan ventilator neonatal",
+      "Skrining retinopati prematuritas (ROOP)",
+      "Pemeriksaan darah & bilirubin di tempat",
+      "Program metode kanguru & konseling laktasi",
+      "Rujukan ambulans neonatal tertransportasi"
+    ],
+    "lokasi": "Lt 6 North Wing, NICU & Perinatologi",
+    "jam": "24 Jam · Kunjungan sesuai jadwal 2x sehari",
+    "akreditasi": "Perinatologi Terpadu",
+    "hero": true
+  },
+  "icu-hdu": {
+    "nama": "ICU / HDU",
+    "ikon": "HeartPulse",
+    "tagline": "Perawatan kritis dan perawatan transisi dengan rasio perawat pasien ketat serta pemantauan hemodinamik.",
+    "paragraf": [
+      "Intensive Care Unit menyediakan dua belas tempat tidur bagi pasien yang mengancam nyawa dan membutuhkan dukungan organ, ventilasi mekanik, obat vasoaktif, atau pemantauan invasif. Dokter intensif menjaga putaran jaga 24 jam dan keputusan terapi diambil dalam tim bersama dokter penanggung jawab pasien.",
+      "High Dependency Unit menjadi tahap transisi antara ICU dan rawat inap biasa. Pasien HDU tetap berada di bawah pemantauan kontinu dengan intensitas intervensi yang lebih rendah, sehingga masa kritis dapat terlampaui tanpa menghabiskan kapasitas ICU yang terbatas."
+    ],
+    "fitur": [
+      "Tempat tidur isolasi bertekanan negatif",
+      "Ventilator invasif & non invasif",
+      "Monitor hemodinamik & infusion pump terkalibrasi",
+      "Terapi pengganti ginjal kontinu (CRRT)",
+      "Rasio perawat : pasien 1:2 (ICU) & 1:3 (HDU)",
+      "Pencegahan VAP, CLABSI, dan luka decubitus"
+    ],
+    "lokasi": "Lt 3 North Wing, Critical Care Center",
+    "jam": "24 Jam · Kunjungan 16:00 s.d. 17:30",
+    "akreditasi": "Critical Care Terstandar",
+    "hero": true
+  },
+  "kantin": {
+    "nama": "Kantin",
+    "ikon": "UtensilsCrossed",
+    "tagline": "Kantin karyawan dan pengunjung dengan menu bergizi, harga terjangkau, dan higienitas pangan yang diawasi.",
+    "paragraf": [
+      "Kantin rumah sakit melayani karyawan, dokter jaga, dan keluarga pasien sepanjang hari. Menu disusun bergilir oleh unit gizi agar pilihan rendah gula, rendah garam, dan sumber protein tetap tersedia, bukan hanya makanan cepat saji. Area makan memisahkan kantin karyawan dan kantin pengunjung sehingga antrean pada jam sibuk tidak menumpuk.",
+      "Penyajian dijalankan dengan prinsip higiene sanitasi makanan: peralatan tahan karat dibersihkan setelah setiap giliran saji, makanan panas dijaga di atas 60 °C, dan tiap batch disisihkan sebagai sampel uji selama 24 jam. Petugas pengolah makanan memiliki sertifikat pelatihan higiene serta mengikuti pemeriksaan kesehatan berkala."
+    ],
+    "fitur": [
+      "Menu bergilir yang disusun unit gizi",
+      "Kantin karyawan & kantin pengunjung terpisah",
+      "Pilihan diet rendah gula dan rendah garam",
+      "Makanan panas dijaga di atas 60 °C",
+      "Sampel penahan makanan 24 jam",
+      "Area makan terdesinfeksi tiap giliran saji"
+    ],
+    "lokasi": "Lt G South Wing, Area Kantin Utama",
+    "jam": "Sen Min 06:30 s.d. 20:00",
+    "akreditasi": "Sertifikat Higiene Sanitasi",
+    "hero": false
+  },
+  "staf-pastry": {
+    "nama": "Staf Pastry",
+    "ikon": "ChefHat",
+    "tagline": "Unit pastry dan bakery yang menangani roti diet, santapan acara institusi, dan pesanan khusus pasien.",
+    "paragraf": [
+      "Staf pastry memproduksi roti dan kue untuk kebutuhan kantin, acara resmi rumah sakit, serta pesanan khusus keluarga pasien. Karena bekerja di lingkungan kesehatan, formulinya disesuaikan: roti gandum rendah gula untuk pasien diabetes, pastry lunak bagi pasien yang pulih dari tindakan mulut dan tenggorokan, sampai kue tanpa kacang untuk pasien dengan riwayat alergi.",
+      "Produksi berjalan di ruang terpisah dengan tekanan positif dan rantai dingin yang terdokumentasi. Setiap bahan baku tercatat nomor batch dan tanggal kedaluwarsanya, permukaan kerja didesinfeksi sebelum serta sesudah produksi, dan pengiriman ke area pasien memakai wadah tertutup agar tidak bersentuhan dengan debu koridor."
+    ],
+    "fitur": [
+      "Roti & kue rendah gula untuk pasien diabetes",
+      "Pastry lunak untuk pasien pasca tindakan",
+      "Varian tanpa kacang dan bebas gluten atas permintaan",
+      "Rantai dingin dan tanggal produksi terdokumentasi",
+      "Ruang produksi terpisah bertekanan positif",
+      "Pengiriman wadah tertutup ke area pasien"
+    ],
+    "lokasi": "Lt G South Wing, Dapur Gizi & Pastry",
+    "jam": "Sen Sab 07:00 s.d. 17:00",
+    "akreditasi": "Sertifikat Higiene Pangan",
+    "hero": false
+  },
+  "sterilisasi": {
+    "nama": "Sterilisasi Peralatan Medis",
+    "ikon": "ShieldCheck",
+    "tagline": "CSSD beralur satu arah: instrumen kotor tidak pernah berpapasan dengan instrumen bersih.",
+    "paragraf": [
+      "Departemen Sterilisasi Sentral (CSSD) menerima, mencuci, mengemas, mensterilkan, dan mendistribusikan seluruh instrumen bedah serta peralatan pakai ulang rumah sakit. Alur ruangan dibuat satu arah dari zona kotor menuju zona bersih, dipisahkan oleh dinding dan perbedaan tekanan udara, sehingga kontaminasi silang dicegah secara struktural.",
+      "Setiap paket diberi kode batch dan tanggal kedaluwarsa. Efektivitas sterilisasi dipantau melalui indikator fisik, indikator kimia pada tiap paket, dan indikator biologi pada tiap siklus; seluruh hasil dicatat dan dapat ditelusuri kembali bila terjadi infeksi terkait tindakan. Instrumen yang tidak lolos uji dikarantina dan tidak pernah dikirim ke unit."
+    ],
+    "fitur": [
+      "Pencuci instrumen ultrasonik & washer disinfector",
+      "Autoklaf uap & sterilizer plasma",
+      "Sealing dan pelabelan batch yang telusur",
+      "Indikator kimia tiap paket, biologi tiap siklus",
+      "Zona kotor bersih steril terpisah ruang",
+      "Gudang instrumen steril dengan kendali kelembapan"
+    ],
+    "lokasi": "Lt 3 South Wing, Central Sterile Supply Department (CSSD)",
+    "jam": "24 Jam mengikuti jadwal instalasi bedah",
+    "akreditasi": "CSSD Terstandar",
+    "hero": false
+  },
+  "laundry": {
+    "nama": "Laundry",
+    "ikon": "Droplets",
+    "tagline": "Binatu medis terpisahkan: linen infeksius dicuci pada suhu tinggi dan didesinfeksi.",
+    "paragraf": [
+      "Instalasi Laundry mengolah linen kotor dari seluruh unit dengan pemisahan tegas antara linen umum, linen pasien, dan linen infeksius. Linen infeksius sudah dikantongkan dengan kantong larut air sejak di ruang perawatan, sehingga tidak ada kontak manual selama proses sortir dan pencucian.",
+      "Siklus pencucian memakai tunnel washer dengan tahap desinfeksi termal pada suhu minimal 71°C selama 25 detik, dilanjutkan penimbangan, pengeringan, dan penyetrikaan. Linen bersih disimpan di rak tertutup dan diantar dengan troli terpisah dari troli kotor agar jalur kotor dan bersih tidak bersilangan."
+    ],
+    "fitur": [
+      "Tunnel washer dengan desinfeksi termal",
+      "Kantong larut untuk linen infeksius",
+      "Pemisahan jalur antar troli kotor & bersih",
+      "Uji kualitas air dan residu klorin berkala",
+      "Penyimpanan linen pada rak tertutup",
+      "Penimbangan & pelacakan linen per unit"
+    ],
+    "lokasi": "Lt G South Wing, Laundry & Ruang Pilah",
+    "jam": "Sen Sab 06:00 s.d. 18:00",
+    "akreditasi": "Binatu Terstandar",
+    "hero": false
+  },
+  "staf-it": {
+    "nama": "Staf IT",
+    "ikon": "ClipboardCheck",
+    "tagline": "Tim yang menjaga SIMRS, rekam medis elektronik, dan keamanan data pasien tetap berjalan.",
+    "paragraf": [
+      "Unit Teknologi Informasi mengelola infrastruktur jaringan, server, dan aplikasi klinik rumah sakit, mulai dari sistem informasi manajemen (SIMRS), rekam medis elektronik, antarmuka laboratorium dan radiologi (PACS), sampai kanal pendaftaran daring. Ketersediaan sistem dipantau melalui dasbor, dengan target waktu pemulihan yang diuji lewat simulasi setiap kuartal.",
+      "Kerahasiaan data pasien dilindungi lewat hak akses berjenjang, enkripsi lalu lintas aplikasi, log audit, serta pelatihan keamanan informasi yang wajib diikuti seluruh staf. Unit ini juga menjalankan tata kelola teknologi dan kepatuhan perlindungan data pribadi di lingkungan rumah sakit."
+    ],
+    "fitur": [
+      "Helpdesk dukungan untuk seluruh unit",
+      "Pemantauan server & jaringan 24 jam",
+      "Integrasi LIS, RIS/PACS, dan sistem kasir",
+      "Hak akses berjenjang & log audit",
+      "Backup harian dengan uji pemulihan rutin",
+      "Edukasi keamanan data untuk staf"
+    ],
+    "lokasi": "Lt G South Wing, Kantor IT & SIMRS",
+    "jam": "Sen Sab 07:00 s.d. 19:00 · Dukungan emergensi 24 Jam",
+    "akreditasi": "ISO 27001",
+    "hero": false
+  },
+  "staf-operasional": {
+    "nama": "Staf Operasional Lainnya",
+    "ikon": "Users",
+    "tagline": "Roda administrasi, logistik, dan mutu yang membuat layanan klinik berjalan tepat waktu.",
+    "paragraf": [
+      "Kelompok staf operasional mencakup rekam medis, pengelolaan aset dan logistik medis, pengadaan, keuangan, penagihan asuransi dan BPJS, hingga unit manajemen mutu serta keselamatan pasien. Pekerjaan mereka jarang tampak bagi pasien, tetapi menentukan apakah obat tersedia, klaim tidak tertunda, dan peralatan selalu siap pakai.",
+      "Setiap proses dijalankan dengan prosedur tertulis dan indikator kinerja yang dievaluasi pada rapat tinjauan manajemen bulanan. Keluhan pasien maupun staf menjadi masukan perbaikan yang dilacak sampai benar benar tertutup pada sistem manajemen mutu rumah sakit."
+    ],
+    "fitur": [
+      "Rekam medis & pengodean diagnostik ICD 10",
+      "Pengadaan dan pergudangan logistik medis",
+      "Verifikasi penjaminan & klaim asuransi/BPJS",
+      "Manajemen mutu dan keselamatan pasien",
+      "Pemeliharaan sarana & manajemen aset",
+      "Pelaporan insiden dan analisis akar masalah"
+    ],
+    "lokasi": "Lt 8 South Wing, Kantor Manajemen & Operasional",
+    "jam": "Sen Jum 08:00 s.d. 16:00",
+    "akreditasi": "Tata Kelola Klinis & Admin",
+    "hero": false
+  },
+  "staf-keamanan": {
+    "nama": "Staf Keamanan Rumah Sakit",
+    "ikon": "ShieldCheck",
+    "tagline": "Pengamanan fisik, pengaturan lalu lintas ambulans, dan respons dini keadaan darurat.",
+    "paragraf": [
+      "Tim Keamanan menjaga seluruh area rumah sakit melalui pos terpadu, patroli terjadwal, dan pemantauan kamera di 64 titik. Fokus utamanya adalah menjamin jalur ambulans selalu bebas hambatan, mengawasi akses ke area kritis seperti ICU, NICU, dan instalasi bedah, serta mencegah potensi kekerasan di ruang tunggu.",
+      "Seluruh petugas terlatih pada prosedur tanggap bencana, evakuasi bangunan bertingkat, dan penanganan ancaman keamanan. Mereka pula titik layanan pertama bagi keluarga pasien yang kebingungan, sehingga langsung diarahkan ke unit yang tepat tanpa kehilangan waktu kritis."
+    ],
+    "fitur": [
+      "Pos terpadu & CCTV pemantauan 24 jam",
+      "Pengaturan akses kendaraan ambulans",
+      "Patroli area intensif & penyimpanan narkotika",
+      "Prosedur kode merah, kode biru, dan evakuasi",
+      "Pemeriksaan barang bawaan di gerbang utama",
+      "Simulasi penanggulangan bencana 2x setahun"
+    ],
+    "lokasi": "Pos Security, Gerbang & Lobi Utama",
+    "jam": "24 Jam, 3 giliran jaga",
+    "akreditasi": "Petugas Bersertifikat Gada Pratama",
+    "hero": false
+  },
+  "staf-housekeeping": {
+    "nama": "Staf Housekeeping Rumah Sakit",
+    "ikon": "Sparkles",
+    "tagline": "Kebersihan lingkungan, pengendalian infeksi, dan penanganan limbah medis di seluruh area.",
+    "paragraf": [
+      "Housekeeping menjalankan pembersihan rutin sekaligus pembersihan terminal pada ruang tindakan, kamar operasi, dan ruang isolasi. Sistem warna pada lap dan pel membedakan zona kotor dari zona bersih, sedangkan disinfektan dipilih sesuai karakteristik permukaan serta waktu kontak yang dianjurkan pabrik.",
+      "Limbah dipisahkan sejak titik timbulan: limbah medis infeksius, benda tajam, sitotoksik, dan limbah domestik masing masing masuk kontainer berlabel dan diangkut pada jam yang berbeda. Pengelolaan ini menurunkan risiko cedera jarum serta mencegah pencemaran lingkungan di sekitar rumah sakit."
+    ],
+    "fitur": [
+      "Pembersihan terminal kamar operasi & ruang isolasi",
+      "Kode warna alat pembersih per zona risiko",
+      "Penanganan limbah B3 medis & benda tajam",
+      "Desinfeksi permukaan dan udara sesuai pedoman",
+      "Kontrol vektor & sanitasi area kantin",
+      "Audit kebersihan dengan formulir checklist"
+    ],
+    "lokasi": "Unit Cleaning Service, Seluruh Lantai",
+    "jam": "24 Jam dengan pembersihan terminal terjadwal",
+    "akreditasi": "Pengendalian Infeksi Lingkungan",
+    "hero": false
+  },
+  "taman-bermain": {
+    "nama": "Taman Mini Bermain Anak",
+    "ikon": "Baby",
+    "tagline": "Ruang bermain ramah anak di area tunggu, dengan peralatan terdesinfeksi dan dalam jangkauan pengawasan.",
+    "paragraf": [
+      "Taman Mini Bermain Anak disediakan untuk mengurangi kecemasan anak sebelum pemeriksaan atau selama orang tua menyelesaikan administrasi. Lantai diberi karet peredam benturan, peralatan bermain dipilih tanpa sudut tajam, dan area ini berada dalam jangkauan pandang loket perawat sehingga mudah diawasi.",
+      "Peralatan dibersihkan dan didesinfeksi minimal dua kali sehari, disertai pemeriksaan keausan komponen setiap bulan. Kami menganjurkan anak tetap didampingi, melepas alas kaki, serta menggunakan penutup mulut saat batuk di area bermain agar kebersihan bersama terjaga."
+    ],
+    "fitur": [
+      "Lantai karet peredam benturan",
+      "Permainan edukatif & sudut baca anak",
+      "Desinfeksi peralatan 2 kali sehari",
+      "Ruang menyusui bersebelahan dengan area",
+      "Pengawasan visual dari loket perawat",
+      "Zona bebas alas kaki dan bebas rokok"
+    ],
+    "lokasi": "Lt 5 North Wing, Area Taman Bermain Anak",
+    "jam": "Setiap hari 08:00 s.d. 20:00",
+    "akreditasi": "Area Ramah Anak",
+    "hero": false
+  }
+}

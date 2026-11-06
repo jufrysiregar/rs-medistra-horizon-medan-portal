@@ -1,0 +1,30 @@
+[
+  {
+    "nama": "Prenatal Yoga & Lactation Education",
+    "jadwal": "Every Saturday, 08:00 to 10:00 WIB",
+    "lokasi": "Auditorium Lt 5 Building C",
+    "deskripsi": "Trimester 2 to 3 prenatal exercise class with a midwife, a delivery room tour and a breastfeeding class for expectant parents.",
+    "wa": "https://wa.me/62614567890?text=Hello%20RS%20Medistra%20Horizon%2C%20I%20would%20like%20to%20register%20for%20Prenatal%20Yoga"
+  },
+  {
+    "nama": "Monthly Blood Donation Drive",
+    "jadwal": "2nd Thursday, 09:00 to 13:00 WIB",
+    "lokasi": "Main Lobby Lt G",
+    "deskripsi": "In partnership with PMI North Sumatra. Limited to 150 donors, registration closes 3 days prior, bring your original ID.",
+    "wa": "https://wa.me/62614567890?text=Hello%20RS%20Medistra%20Horizon%2C%20I%20would%20like%20to%20register%20for%20the%20Blood%20Donation%20Drive"
+  },
+  {
+    "nama": "Free Health Webinar",
+    "jadwal": "Last Wednesday of every month, 15:00 WIB",
+    "lokasi": "Live on Zoom & YouTube (Hybrid)",
+    "deskripsi": "Live Q&A with specialists: cardiology, diabetes, pediatric nutrition, e certificate for every participant.",
+    "wa": "https://wa.me/62614567890?text=Hello%20RS%20Medistra%20Horizon%2C%20I%20would%20like%20to%20register%20for%20the%20Health%20Webinar"
+  },
+  {
+    "nama": "MCU & Mass Screening",
+    "jadwal": "Every month (corporate & individual packages)",
+    "lokasi": "MCU Center Lt 2",
+    "deskripsi": "Pre employment, corporate and umrah medical check up packages: full lab, ECG, radiography up to aeromedical examiner testing.",
+    "wa": "https://wa.me/62614567890?text=Hello%20RS%20Medistra%20Horizon%2C%20I%20would%20like%20to%20register%20for%20an%20MCU"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "paket": [
+    {
+      "nama": "Executive MCU Package",
+      "tagline": "Comprehensive organ function assessment & early heart detection",
+      "fasilitas": [
+        "All Basic MCU Package benefits",
+        "ECG & echocardiography",
+        "Liver (SGOT, SGPT) & kidney (urea, creatinine) function",
+        "Thyroid hormones (TSH, FT4)",
+        "Abdominal ultrasound",
+        "Tumor markers CEA & AFP",
+        "Electrolytes & ESR",
+        "Consultation with an internal medicine specialist",
+        "Digital & printed result certificate"
+      ]
+    },
+    {
+      "nama": "Basic MCU Package",
+      "tagline": "Annual basic health screening for adults",
+      "fasilitas": [
+        "Complete physical examination by a doctor",
+        "Full blood count (Hb, leukocytes, platelets)",
+        "Fasting blood glucose",
+        "Uric acid & cholesterol profile",
+        "Chest radiography",
+        "Printed results + doctor consultation"
+      ]
+    },
+    {
+      "nama": "Visa & Work MCU Package",
+      "tagline": "Medical requirements for work and study visas",
+      "fasilitas": [
+        "Physical examination, blood pressure, height & weight",
+        "Visual acuity, colour vision & eye examination",
+        "Complete blood and urine laboratory tests",
+        "Chest radiography, 2 views",
+        "Electrocardiogram (ECG)",
+        "Infectious disease screening per destination country",
+        "Official embassy medical forms accepted"
+      ]
+    },
+    {
+      "nama": "Umrah & Hajj MCU Package",
+      "tagline": "Health requirement for umrah & hajj pilgrims aged 45 and over",
+      "fasilitas": [
+        "Physical examination by a pilgrim medical examiner",
+        "Blood pressure, pulse & oxygen saturation",
+        "Fasting glucose & cholesterol profile",
+        "Liver, kidney function & hemoglobin",
+        "Electrocardiogram (ECG)",
+        "Mental health assessment (pilgrim readiness status)",
+        "Umrah pilgrim health certificate"
+      ]
+    }
+  ]
+}

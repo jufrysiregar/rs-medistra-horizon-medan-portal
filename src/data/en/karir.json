@@ -1,0 +1,181 @@
+[
+  {
+    "posisi": "Emergency Room Nurse",
+    "kategori": "Nursing & Midwifery",
+    "kualifikasi": [
+      "Minimum a D3 (Three-Year Diploma) in Nursing; a Bachelor of Nursing (S1 Ners) is preferred",
+      "Hold a valid, active Nurse Registration Certificate (STR)",
+      "At least 1 year of experience working in the Emergency Room (IGD)",
+      "Willing to work a shift-based schedule, including on public holidays",
+      "Hold a valid BTCLS or ACLS certificate",
+      "Able to act quickly and calmly in emergency situations"
+    ]
+  },
+  {
+    "posisi": "Inpatient Nurse",
+    "kategori": "Nursing & Midwifery",
+    "kualifikasi": [
+      "Minimum a D3 (Three-Year Diploma) in Nursing",
+      "Hold a valid, active Nurse Registration Certificate (STR)",
+      "At least 1 year of inpatient care experience is preferred",
+      "Willing to work morning, afternoon, and night shifts",
+      "Able to deliver nursing care with complete documentation",
+      "Communicate well with patients and their families"
+    ]
+  },
+  {
+    "posisi": "General Practitioner",
+    "kategori": "Medical & Specialists",
+    "kualifikasi": [
+      "General physician profession with a valid, active STR",
+      "Hold valid ACLS and ATLS certificates",
+      "Willing to take night shift duty and weekend rosters",
+      "Able to manage both outpatient and inpatient cases",
+      "Comfortable working with an electronic medical record system",
+      "A clear communicator, thorough, and focused on patient safety"
+    ]
+  },
+  {
+    "posisi": "Pharmacist",
+    "kategori": "Medical Support & Pharmacy",
+    "kualifikasi": [
+      "Pharmacist profession with a valid, active STRA",
+      "Understand regulations on hospital medical supplies",
+      "Willing to work a shift-based schedule according to the installation roster",
+      "Able to provide clinical pharmacy services and compounding",
+      "Meticulous in stock management and in reporting narcotic medicines",
+      "Have the leadership skills to supervise pharmacy assistants"
+    ]
+  },
+  {
+    "posisi": "Pharmacy Assistant",
+    "kategori": "Medical Support & Pharmacy",
+    "kualifikasi": [
+      "D3 in Pharmacy with a valid, active STRTTK",
+      "Able to compound and prepare medicines according to prescriptions",
+      "Willing to work a shift-based schedule",
+      "Careful in recording stock and medicine expiry dates",
+      "Understand the basics of hospital pharmacy services"
+    ]
+  },
+  {
+    "posisi": "Radiographer",
+    "kategori": "Medical Support & Pharmacy",
+    "kualifikasi": [
+      "D3/D4 in Radiography with a valid, active STR",
+      "Hold a BAPETEN certificate and an X-ray equipment license",
+      "Able to perform X-ray, CT-Scan, and basic MRI examinations",
+      "Willing to work a shift-based schedule, including on-call duty",
+      "Understand radiation protection principles for patients and staff",
+      "At least 1 year of experience in a hospital radiology installation"
+    ]
+  },
+  {
+    "posisi": "Laboratory Analyst",
+    "kategori": "Medical Support & Pharmacy",
+    "kualifikasi": [
+      "D3/D4 in Medical Laboratory Science with a valid, active STR",
+      "Able to operate hematology, clinical chemistry, and urinalysis equipment",
+      "Understand internal and external quality control",
+      "Willing to work a shift-based schedule, including early-morning sample collection",
+      "Careful in recording results and reporting critical values",
+      "Hospital laboratory experience is preferred"
+    ]
+  },
+  {
+    "posisi": "IT Staff",
+    "kategori": "General, IT & Operations",
+    "kualifikasi": [
+      "A Bachelor's degree in Informatics Engineering / Information Systems / Computer Science",
+      "Able to manage networks, servers, and operating systems",
+      "Familiarity with the SIMRS hospital application and databases (SQL) is an added value",
+      "Able to troubleshoot hardware, software, and medical printers",
+      "Willing to support incident handling outside working hours",
+      "Used to working with documentation and support tickets",
+      "Understand the basics of information security and patient data protection"
+    ]
+  },
+  {
+    "posisi": "HR Staff",
+    "kategori": "Management & Administration",
+    "kualifikasi": [
+      "A Bachelor's degree in Psychology / Management / Labor Law",
+      "At least 1 year of experience in recruitment and personnel administration",
+      "Understand the Job Creation Law as well as BPJS Ketenagakerjaan and BPJS Kesehatan",
+      "Proficient in Microsoft Excel and payroll applications",
+      "Skilled in handling STR/STRA documents and medical staff contract extensions",
+      "A good communicator, neat in filing, and committed to keeping data confidential"
+    ]
+  },
+  {
+    "posisi": "Cashier Staff",
+    "kategori": "General, IT & Operations",
+    "kualifikasi": [
+      "Minimum Senior High School (SMA/SMK); a D3 in Accounting is preferred",
+      "Honest and meticulous, and used to handling cash and cashless transactions",
+      "Able to operate EDC machines and cashier applications",
+      "Willing to work a shift-based schedule, including on weekends",
+      "Understanding the BPJS and insurance claim workflow is an added value"
+    ]
+  },
+  {
+    "posisi": "Marketing Staff",
+    "kategori": "General, IT & Operations",
+    "lokasi": "Medan & Surrounding Areas",
+    "kualifikasi": [
+      "Minimum a D3 in any major; Marketing/Management is preferred",
+      "Marketing experience, preferably in the hospital or healthcare industry",
+      "Able to build relationships with corporations, insurers, and communities",
+      "Willing to work in the field with client-visit targets",
+      "Able to manage social media and create simple content",
+      "A good communicator, well groomed, and holding a valid SIM A or SIM C driving licence"
+    ]
+  },
+  {
+    "posisi": "Midwife",
+    "kategori": "Nursing & Midwifery",
+    "kualifikasi": [
+      "D3/D4 in Midwifery with a valid, active STR",
+      "Hold valid PNPK and APN certificates",
+      "Willing to work a shift-based schedule, including midwifery on-call duty",
+      "Able to provide care during pregnancy, labour, and the postpartum period",
+      "At least 1 year of experience in a hospital delivery room",
+      "Ready to join maternal-neonatal competency development programs"
+    ]
+  },
+  {
+    "posisi": "Nutritionist (Dietitian)",
+    "kategori": "Medical Support & Pharmacy",
+    "kualifikasi": [
+      "D4/Bachelor's degree in Nutrition with the Dietitian title (S.Gz, Diet)",
+      "Hold a valid Dietitian STR",
+      "Able to conduct nutritional assessment and counselling for inpatients",
+      "Understand menu planning and food sanitation in the nutrition installation",
+      "Willing to work a shift-based schedule from morning to afternoon"
+    ]
+  },
+  {
+    "posisi": "Medical Equipment Technician",
+    "kategori": "General, IT & Operations",
+    "kualifikasi": [
+      "D3/D4 in Electromedical Engineering or Biomedical Engineering",
+      "Able to calibrate and maintain medical equipment",
+      "Familiar with Emergency Room (IGD), hemodialysis, radiology, and laboratory equipment",
+      "Willing to be called out for emergency equipment handling outside working hours",
+      "Able to prepare periodic reports and K3 (occupational health and safety) documents for medical devices",
+      "Meticulous, used to reading manual books, and safety-oriented",
+      "At least 1 year of experience in a hospital or a medical device company"
+    ]
+  },
+  {
+    "posisi": "Security Officer",
+    "kategori": "General, IT & Operations",
+    "kualifikasi": [
+      "Minimum Senior High School (SMA/SMK), maximum age 40 years",
+      "Hold a Gada Madya or Gada Utama security certificate",
+      "Free of narcotics and addictive substances (NAPZA), physically healthy, and no visible tattoos",
+      "Willing to work a shift-based schedule, including night shift duty",
+      "Able to direct ambulance traffic and keep visitors orderly"
+    ]
+  }
+]

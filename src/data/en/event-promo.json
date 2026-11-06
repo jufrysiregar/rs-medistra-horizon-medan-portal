@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Medical Check-Up Package Promo (The Best Investment for Your and Your Family's Health)",
+    "date": "Valid Throughout This Month",
+    "location": "MCU Center Level 2",
+    "description": "The best investment for your and your family's health. Three tiers of screening packages are available, from basic screening to a premium package including radiography and ultrasound. All promo prices already include doctor consultation and result explanation.",
+    "image_alt": "Medical check-up promo poster of Medistra Horizon Hospital Medan",
+    "cta_label": "Booking via WhatsApp",
+    "cta_link": "https://wa.me/6281280000911?text=Hello%20Medistra%20Horizon%20Hospital%2C%20I%20would%20like%20to%20book%20the%20Medical%20Check-Up%20package",
+    "rincian": [
+      {
+        "nama": "Basic Package",
+        "item": ["General practitioner consultation", "Fasting blood sugar", "Uric acid", "Total cholesterol", "Blood pressure & physical examination"]
+      },
+      {
+        "nama": "Cardiac & Metabolic Package",
+        "item": [
+          "All Basic Package benefits",
+          "ECG (heart recording)",
+          "Kidney function (urea/creatinine)",
+          "Liver function (SGOT/SGPT)",
+          "Complete cholesterol (HDL/LDL/triglycerides)"
+        ]
+      },
+      {
+        "nama": "Complete Package (Premium)",
+        "item": [
+          "All Cardiac & Metabolic Package benefits",
+          "Complete hematology",
+          "Complete urinalysis",
+          "Chest X-ray",
+          "Abdominal ultrasound"
+        ]
+      }
+    ],
+    "catatan": [
+      "General patients & personal coverage only",
+      "Fasting for 10-12 hours before the examination is mandatory",
+      "Promo prices apply while this month's package quota is still available"
+    ],
+    "kontak": "Booking & information: WhatsApp 0812-8000-0911 | Phone (061) 1500247"
+  },
+  {
+    "title": "Eye Health Check Packages (Early Detection for Clearer Eyesight)",
+    "date": "Available on Weekdays (Monday to Saturday)",
+    "location": "Ophthalmology Clinic, Level 2 North Wing",
+    "cta_link": "https://wa.me/62614567890?text=Hello%20Medistra%20Horizon%20Hospital%2C%20I%20would%20like%20to%20register%20for%20the%20Eye%20Health%20Check%20package",
+    "description": "Early detection for clearer eyesight. Three eye examination packages are available, from visual acuity testing to a comprehensive optic nerve and visual field examination, performed by an experienced ophthalmologist with modern equipment through a fast and comfortable process.",
+    "image_alt": "Eye health check package promo poster",
+    "cta_label": "Register via WhatsApp",
+    "rincian": [
+      {
+        "nama": "Basic Package",
+        "item": ["Visual acuity test", "General practitioner consultation", "Color blindness test"]
+      },
+      {
+        "nama": "Popular / Screening Package",
+        "item": [
+          "Visual acuity & refraction test",
+          "Ophthalmologist consultation",
+          "Intraocular pressure test (tonometry)",
+          "Color blindness test"
+        ]
+      },
+      {
+        "nama": "Complete Package (Comprehensive)",
+        "item": [
+          "All Screening Package services",
+          "Optic nerve examination (funduscopy)",
+          "Visual field examination",
+          "In-depth consultation with an ophthalmologist"
+        ]
+      }
+    ],
+    "catatan": [
+      "Handled by experienced specialists with modern and accurate medical equipment",
+      "Fast and comfortable examination process",
+      "Serving general patients, BPJS Kesehatan, and partner insurances"
+    ],
+    "kontak": "Location: Jl. Balai Kota No. 1, Kesawan, Medan"
+  },
+  {
+    "title": "Healthy Smile Promo: Special Discount for Dental Treatment & Cleaning",
+    "date": "Available Throughout November 2026",
+    "location": "Dental & Oral Clinic",
+    "cta_link": "https://wa.me/6281299887766?text=Hello%20Medistra%20Horizon%20Hospital%2C%20I%20would%20like%20to%20register%20for%20the%20Healthy%20Smile%20Promo%20(dental%20treatment%20%26%20cleaning)",
+    "description": "Dental treatment and cleaning handled directly by an experienced dental specialist (Sp.KG) and general dentists, using modern ultrasonic equipment that minimises discomfort.",
+    "image_alt": "Healthy smile promo poster for dental treatment and cleaning of Medistra Horizon Hospital Medan",
+    "cta_label": "Register via WhatsApp",
+    "rincian": [
+      {
+        "nama": "Scaling & Polishing Package (Tartar Removal)",
+        "item": [
+          "Ultrasonic tartar removal (scaling)",
+          "Tooth polishing",
+          "Carried out with modern ultrasonic equipment that minimises discomfort"
+        ]
+      },
+      {
+        "nama": "Bleaching / Whitening Package",
+        "item": ["Tooth whitening", "Handled by experienced dentists"]
+      },
+      {
+        "nama": "Filling / Aesthetic Restoration Package",
+        "item": ["20% discount for cavity filling", "Uses high quality composite material"]
+      }
+    ],
+    "catatan": [
+      "Handled directly by an experienced dental specialist (Sp.KG) and general dentists",
+      "Examination uses modern ultrasonic equipment that minimises discomfort",
+      "The 20% discount applies to fillings with composite material"
+    ],
+    "kontak": "Registration & information: WhatsApp 0812-9988-7766 | Phone (061) 1500247 (Jl. Balai Kota No. 1, Medan Barat)"
+  },
+  {
+    "title": "Family Health Webinar: \"The Role of Proper Nutrition in Child Growth & Development and Stunting Prevention\"",
+    "date": "Saturday, 07 November 2026",
+    "location": "Live on Zoom & YouTube (Online)",
+    "description": "An educational online seminar designed especially for parents and expectant mothers. A pediatrician and a clinical nutritionist discuss balanced nutrition guidelines and how to optimally monitor child growth and development in the modern era.",
+    "image_alt": "A doctor presenting family health material in a broadcast studio",
+    "rincian": [
+      {
+        "nama": "Session Topics",
+        "item": [
+          "Balanced nutrition guidelines for children and pregnant women",
+          "How to optimally monitor child growth and development",
+          "Stunting prevention stages from the first 1,000 days of life",
+          "Live Q&A with a pediatrician and a clinical nutritionist"
+        ]
+      }
+    ],
+    "catatan": [
+      "Participants: parents, expectant mothers, and caregivers",
+      "Attendance is recorded automatically by Zoom when logging in with your full name"
+    ],
+    "kontak": "Meeting ID: 842 6119 2076 | Passcode: Nutrisi2026"
+  },
+  {
+    "title": "Free Mass Circumcision Outreach with Medistra Horizon Hospital Medan",
+    "date": "Friday, 30 October 2026 (08.00 WIB until finished)",
+    "location": "Multipurpose Building, Medistra Horizon Hospital Medan",
+    "description": "A free mass circumcision outreach program with the professional medical team of Medistra Horizon Hospital Medan. Procedures are carried out sterilly in treatment rooms prepared by the committee. Participant quota is limited, so registration closes once the quota is filled.",
+    "image_alt": "Free mass circumcision outreach poster of Medistra Horizon Hospital Medan",
+    "cta_label": "Quota is limited, hurry and register now",
+    "rincian": [
+      {
+        "nama": "Free Facilities Provided",
+        "item": ["Circumcision procedure", "Medicines & follow-up control", "Gift package", "Pocket money", "Sarong & prayer cap"]
+      }
+    ],
+    "catatan": [
+      "For children aged 5-12 only",
+      "Must bring the Family Card (Kartu Keluarga)",
+      "Limited quota, registration closes once filled"
+    ]
+  }
+]

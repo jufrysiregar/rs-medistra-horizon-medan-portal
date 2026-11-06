@@ -1,0 +1,114 @@
+{
+  "nomor_wa": "6281267890123",
+  "cara_poin": [
+    {
+      "ikon": "stethoscope",
+      "aktivitas": "Medical Check Up (MCU)",
+      "poin": "+150 poin",
+      "keterangan": "Semua paket MCU Basic, Executive & Keluarga"
+    },
+    {
+      "ikon": "flask",
+      "aktivitas": "Tes Laboratorium Darah & Urin",
+      "poin": "+75 poin",
+      "keterangan": "Pemeriksaan rutin maupun atas rujukan dokter"
+    },
+    {
+      "ikon": "dna",
+      "aktivitas": "Tes DNA & Skrining Genetik",
+      "poin": "+300 poin",
+      "keterangan": "Termasuk konsultasi hasil bersama dokter"
+    },
+    {
+      "ikon": "bed",
+      "aktivitas": "Rawat Inap per Malam",
+      "poin": "+100 poin",
+      "keterangan": "Terkumpul otomatis dari data kepulangan pasien"
+    },
+    {
+      "ikon": "syringe",
+      "aktivitas": "Vaksinasi & Donor Darah",
+      "poin": "+60 poin",
+      "keterangan": "Program imunisasi dewasa dan aksi donor rutin"
+    }
+  ],
+  "tukar_poin": [
+    {
+      "ikon": "tumbler",
+      "item": "Tumbler Limited Edition Medistra",
+      "biaya": "400 poin"
+    },
+    {
+      "ikon": "jaket",
+      "item": "Jaket Hoodie Medistra Heritage",
+      "biaya": "900 poin"
+    },
+    {
+      "ikon": "diskon",
+      "item": "Diskon 20% Paket MCU Berikutnya",
+      "biaya": "800 poin"
+    },
+    {
+      "ikon": "potongan",
+      "item": "Potongan Biaya Rawat Inap Rp250.000",
+      "biaya": "1.200 poin"
+    },
+    {
+      "ikon": "hadiah",
+      "item": "Voucher Skrining Lab Dasar Gratis",
+      "biaya": "600 poin"
+    }
+  ],
+  "tier": [
+    {
+      "id": "silver",
+      "nama": "Silver",
+      "label_status": "Member Standar",
+      "iuran": "Gratis",
+      "catatan_iuran": "langsung aktif saat pendaftaran kunjungan",
+      "popular": false,
+      "poin_awal": "Poin 1x lipat",
+      "fasilitas": [
+        "Akumulasi poin dasar seluruh transaksi medis",
+        "Pengingat jadwal kontrol via WhatsApp",
+        "Akses hasil laboratorium online",
+        "Newsletter edukasi kesehatan bulanan"
+      ]
+    },
+    {
+      "id": "gold",
+      "nama": "Gold",
+      "label_status": "Member VIP",
+      "iuran": "Rp350.000",
+      "catatan_iuran": "per tahun · termasuk health kit sambutan",
+      "popular": true,
+      "poin_awal": "Poin 2x lipat",
+      "fasilitas": [
+        "Semua benefit membership Silver",
+        "Prioritas antrean poliklinik & laboratorium",
+        "Diskon 5% apotek & layanan penunjang",
+        "Undangan eksklusif seminar & talkshow medis",
+        "Saluran customer care khusus Gold",
+        "Merchandise tahunan edisi terbatas"
+      ]
+    },
+    {
+      "id": "platinum",
+      "nama": "Platinum",
+      "label_status": "Member VVIP",
+      "iuran": "Rp1.250.000",
+      "catatan_iuran": "per tahun · personal health consultant",
+      "popular": false,
+      "poin_awal": "Poin 3x lipat",
+      "fasilitas": [
+        "Semua benefit membership Gold",
+        "Bebas antrean, jalur fast track pendaftaran",
+        "Akses Lounge VVIP Lt 6 sebelum & sesudah konsultasi",
+        "Free MCU Executive tahunan untuk 1 orang",
+        "Diskon 10% seluruh layanan termasuk persalinan",
+        "Pendampingan pasien (patient escort) di hari rawat",
+        "Konsultasi telemedisin 24 jam tanpa batas"
+      ]
+    }
+  ]
+}

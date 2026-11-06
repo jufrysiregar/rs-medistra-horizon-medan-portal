@@ -1,0 +1,46 @@
+[
+  {
+    "id": "senam-hamil",
+    "nama": "Senam Hamil & Edukasi Laktasi",
+    "ikon": "Heart",
+    "jadwal": "Setiap Sabtu, 08:00 s.d. 10:00 WIB",
+    "lokasi": "Aula Lt 5 Gedung C",
+    "deskripsi": "Kelas senam Kehamilan trimester 2 s.d. 3 bersama bidan, tur ruang VK & kelas menyusui untuk calon orang tua.",
+    "warnaLatar": "#fce7f3",
+    "warnaTeks": "#9d174d",
+    "wa": "https://wa.me/62614567890?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20Senam%20Hamil"
+  },
+  {
+    "id": "donor-darah",
+    "nama": "Aksi Donor Darah Bulanan",
+    "ikon": "Droplets",
+    "jadwal": "Kamis Minggu ke 2, 09:00 s.d. 13:00 WIB",
+    "lokasi": "Lobby Utama Lt G",
+    "deskripsi": "Kerja sama dengan PMI Sumut. Slot terbatas 150 pendonor, pendaftaran ditutup H 3, bawa KTP asli.",
+    "warnaLatar": "#fee2e2",
+    "warnaTeks": "#991b1b",
+    "wa": "https://wa.me/62614567890?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20Donor%20Darah"
+  },
+  {
+    "id": "webinar-kesehatan",
+    "nama": "Webinar Kesehatan Gratis",
+    "ikon": "Video",
+    "jadwal": "Rabu Terakhir Setiap Bulan, 15:00 WIB",
+    "lokasi": "Live Zoom & YouTube (Hybrid)",
+    "deskripsi": "Sesi tanya jawab langsung dengan dokter spesialis: jantung, diabetes, gizi anak, e sertifikat untuk peserta.",
+    "warnaLatar": "#dbeafe",
+    "warnaTeks": "#1e40af",
+    "wa": "https://wa.me/62614567890?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20Webinar%20Kesehatan"
+  },
+  {
+    "id": "mck-screening",
+    "nama": "MCU & Screening Massal",
+    "ikon": "ClipboardCheck",
+    "jadwal": "Setiap Bulan (paket korporasi & perorangan)",
+    "lokasi": "Center MCU Lt 2",
+    "deskripsi": "Paket Medical Check Up prakerja, corporate, dan umroh: lab lengkap, EKG, rontgen, hingga dokter penerbang (test flight).",
+    "warnaLatar": "#d1fae5",
+    "warnaTeks": "#065f46",
+    "wa": "https://wa.me/62614567890?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20MCU"
+  }
+]

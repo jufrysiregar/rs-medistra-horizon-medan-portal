@@ -1,0 +1,68 @@
+{
+  "jam_besuk": {
+    "catatan": "Visitors must wear a visitor badge, limit the number of companions and keep the room quiet. Children under 12 are not allowed into inpatient rooms.",
+    "jadwal": [
+      {
+        "sesi": "Session I",
+        "keterangan": "All regular & VIP inpatient rooms"
+      },
+      {
+        "sesi": "Session II",
+        "keterangan": "All regular & VIP inpatient rooms"
+      },
+      {
+        "sesi": "ICU / HCU",
+        "keterangan": "Maximum 2 people, 15 minutes each"
+      },
+      {
+        "sesi": "Perinatology / NICU",
+        "keterangan": "Biological parents only, accompanied by a nurse"
+      }
+    ],
+    "aturan": [
+      "Carry your ID and wear the visitor badge at all times inside the hospital",
+      "Do not bring food or drinks into isolation rooms and the ICU",
+      "Please step out while nurses perform medical procedures",
+      "Smoking is prohibited throughout the hospital area"
+    ]
+  },
+  "alur_pendaftaran": {
+    "umum": {
+      "judul": "Self pay & Partner Insurance Patients",
+      "langkah": [
+        "Come to the Registration Counter on Level 1 (or book online via the Make Appointment button on this website)",
+        "Fill in the registration form / present your ID card and insurance card",
+        "Receive your polyclinic queue number from the officer",
+        "Confirm your next control visit schedule at the relevant polyclinic"
+      ]
+    },
+    "bpjs": {
+      "judul": "BPJS Health Participants (KRIS)",
+      "langkah": [
+        "Make sure your membership status is active (check via the Mobile JKN app)",
+        "Come to the Registration Counter with your KTP, KIS card and referral letter from your first level facility",
+        "The officer verifies your membership status online",
+        "Receive the polyclinic queue number according to your referral",
+        "BPJS zoned inpatient care is provided on Level 3 subject to KRIS class availability"
+      ]
+    }
+  },
+  "hak_kewajiban": {
+    "hak": [
+      "To receive humane medical care without discrimination",
+      "To know the care plan and costs transparently",
+      "Your diagnosis and treatment data are kept confidential by the hospital",
+      "To give or withhold consent for a medical procedure (informed consent)",
+      "To obtain a second opinion from another specialist",
+      "To submit complaints and feedback through the suggestion box & call center"
+    ],
+    "kewajiban": [
+      "To entrust your care to the doctors and health professionals",
+      "To provide honest and complete medical information",
+      "To follow treatment instructions and care regulations",
+      "To respect the rights of other patients and staff",
+      "To settle administrative and treatment costs",
+      "To maintain facilities and keep the hospital orderly"
+    ]
+  }
+}

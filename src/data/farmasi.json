@@ -1,0 +1,52 @@
+{
+  "utama": {
+    "nama": "Farmasi Utama",
+    "lantai": "Lt G",
+    "ikon": "Pill",
+    "jam": "24 Jam Nonstop",
+    "deskripsi": "Instalasi farmasi pusat sebagai gudang induk, peracikan steril (IV Chemotherapy & TPN), dan pengendalian stok seluruh satelit.",
+    "fitur": [
+      "Gudang Induk & Cold Chain Vaccine",
+      "Sterile Compounding (Clean Room Kelas C)",
+      "Dispensing Resep Rawat Jalan & Inap",
+      "Drug Information Service (DSL Farmasis)"
+    ]
+  },
+  "satelit": [
+    {
+      "nama": "Farmasi Satelit Poli",
+      "lantai": "Lt 1",
+      "ikon": "Stethoscope",
+      "jam": "07:00 s.d. 21:00",
+      "deskripsi": "Melayani penebusan resep seluruh poliklinik rawat jalan gedung utama."
+    },
+    {
+      "nama": "Farmasi Satelit Bedah",
+      "lantai": "Lt 3",
+      "ikon": "Scissors",
+      "jam": "24 Jam",
+      "deskripsi": "Stok obat anestesi, high alert medication, dan logistik kamar bedah (OK)."
+    },
+    {
+      "nama": "Farmasi Satelit ICU/HDU",
+      "lantai": "Lt 3",
+      "ikon": "HeartPulse",
+      "jam": "24 Jam",
+      "deskripsi": "Unit dose dispensing obat critical care langsung di samping bed pasien."
+    },
+    {
+      "nama": "Farmasi Satelit Rawat Inap",
+      "lantai": "Lt 6",
+      "ikon": "BedDouble",
+      "jam": "07:00 s.d. 22:00",
+      "deskripsi": "Pemenuhan obat rutin pasien rawat inap KRIS & VIP Suites."
+    },
+    {
+      "nama": "Farmasi Satelit VIP",
+      "lantai": "Lt 7",
+      "ikon": "Crown",
+      "jam": "07:00 s.d. 22:00",
+      "deskripsi": "Layanan privat one stop dispensing untuk pasien VIP & VVIP."
+    }
+  ]
+}

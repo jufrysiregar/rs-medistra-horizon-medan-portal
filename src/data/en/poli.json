@@ -1,0 +1,58 @@
+[
+  {
+    "nama": "General Clinic",
+    "deskripsi": "General complaints, first outpatient visits and official medical certificates."
+  },
+  {
+    "nama": "Pediatric Clinic",
+    "deskripsi": "Growth & development, IDAI immunization schedule and pediatric infection care."
+  },
+  {
+    "nama": "Obgyn Clinic",
+    "deskripsi": "Pregnancy control, fetomaternal ultrasound and women's reproductive health."
+  },
+  {
+    "nama": "Dental Clinic",
+    "deskripsi": "Scaling, fillings, root canal treatment through orthodontic braces."
+  },
+  {
+    "nama": "Physiotherapy",
+    "deskripsi": "Post stroke rehabilitation, sports injuries and musculoskeletal pain."
+  },
+  {
+    "nama": "Internal Medicine",
+    "deskripsi": "Diabetes, hypertension, infections, plus endocrine & kidney consultations."
+  },
+  {
+    "nama": "Eye Clinic",
+    "deskripsi": "Refraction, cataract, glaucoma and LASIK refractive surgery."
+  },
+  {
+    "nama": "ENT Clinic",
+    "deskripsi": "Hearing loss, sinus, nasal allergies and head & neck disorders."
+  },
+  {
+    "nama": "Neurology",
+    "deskripsi": "Stroke, epilepsy, neuropathy, vertigo and spine disorders."
+  },
+  {
+    "nama": "Pulmonology",
+    "deskripsi": "Asthma, COPD, tuberculosis and complete spirometry testing."
+  },
+  {
+    "nama": "Dermatology & Venereology",
+    "deskripsi": "Dermatitis, acne, fungal infections through dermatologic aesthetics."
+  },
+  {
+    "nama": "Surgery Clinic",
+    "deskripsi": "Digestive surgery, orthopaedics traumatology and surgical oncology."
+  },
+  {
+    "nama": "Cardiology",
+    "deskripsi": "ECG, treadmill, echocardiography and coronary intervention consult at Poli Lt 7 North Wing."
+  },
+  {
+    "nama": "Oncology",
+    "deskripsi": "Chemotherapy, radiation oncology and integrated palliative care at Pusat Kemoterapi Lt 5."
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "kelas": [
+    {
+      "nama": "KRIS Inpatient Ward",
+      "tarif": "BPJS KRIS Class 1 to 3",
+      "deskripsi": "Centralized Standard Inpatient Rooms as regulated by the Ministry of Health, with a nurse station per cluster and card access accompanying family.",
+      "fasilitas": [
+        "4 to 6 Beds per Room",
+        "Personal Call Bell",
+        "Ensuite Bathroom",
+        "Central Oxygen Support"
+      ]
+    },
+    {
+      "nama": "VIP Suites",
+      "tarif": "Self pay & Premium Insurance",
+      "deskripsi": "Private suite with a family waiting area, bathtub bathroom and a personal case manager throughout the stay.",
+      "fasilitas": [
+        "1 to 2 Beds + Family Sofa",
+        "Smart TV & Private Wi Fi",
+        "Bathtub Bathroom",
+        "Choice of Meal Menu"
+      ]
+    },
+    {
+      "nama": "Perinaud & Delivery",
+      "tarif": "Self pay & BPJS",
+      "deskripsi": "Obstetrics area: high risk antenatal care and a delivery room (VK) staffed 24/7 by obgyns and midwives.",
+      "fasilitas": [
+        "Private Delivery Room",
+        "Continuous Fetal Monitor",
+        "Lactation Room",
+        "Rooming in Mother Baby"
+      ]
+    }
+  ],
+  "intensif": {
+    "nama": "Sterile Zoning & Intensive Care",
+    "deskripsi": "Negative pressure and laminar airflow zones that break the chain of infection, monitored by the IPC (Infection Prevention Control) team every shift.",
+    "unit": [
+      {
+        "nama": "ICU / HDU",
+        "kapasitas": "20 ICU Beds + 12 HDU",
+        "kunci": "Mechanical Ventilators, Point of Care Ultrasound, 12 Lead Monitoring"
+      },
+      {
+        "nama": "NICU / PICU",
+        "kunci": "Infant Radiant Warmer, Isolation Incubator, Surfactant Therapy"
+      },
+      {
+        "nama": "Negative Pressure Isolation Room",
+        "kunci": "Airborne Infection Isolation Room (AIIR), HEPA Filter, Anteroom"
+      }
+    ]
+  }
+}

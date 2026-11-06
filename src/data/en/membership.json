@@ -1,0 +1,94 @@
+{
+  "cara_poin": [
+    {
+      "aktivitas": "Medical Check Up (MCU)",
+      "poin": "+150 pts",
+      "keterangan": "All Basic, Executive & Family MCU packages"
+    },
+    {
+      "aktivitas": "Blood & Urine Laboratory Tests",
+      "poin": "+75 pts",
+      "keterangan": "Routine checks as well as doctor referred tests"
+    },
+    {
+      "aktivitas": "DNA & Genetic Screening",
+      "poin": "+300 pts",
+      "keterangan": "Includes result consultation with a doctor"
+    },
+    {
+      "aktivitas": "Inpatient Stay per Night",
+      "poin": "+100 pts",
+      "keterangan": "Accrued automatically from discharge records"
+    },
+    {
+      "aktivitas": "Vaccination & Blood Donation",
+      "poin": "+60 pts",
+      "keterangan": "Adult immunisation programme and regular donation drives"
+    }
+  ],
+  "tukar_poin": [
+    {
+      "item": "Medistra Limited Edition Tumbler",
+      "biaya": "400 pts"
+    },
+    {
+      "item": "Medistra Heritage Hoodie",
+      "biaya": "900 pts"
+    },
+    {
+      "item": "20% Off Your Next MCU Package",
+      "biaya": "800 pts"
+    },
+    {
+      "item": "Rp250,000 Inpatient Cost Voucher",
+      "biaya": "1,200 pts"
+    },
+    {
+      "item": "Free Basic Lab Screening Voucher",
+      "biaya": "600 pts"
+    }
+  ],
+  "tier": [
+    {
+      "label_status": "Standard Member",
+      "iuran": "Free",
+      "catatan_iuran": "activated instantly at visit registration",
+      "poin_awal": "1x points",
+      "fasilitas": [
+        "Base point accrual on every medical transaction",
+        "Control visit reminders via WhatsApp",
+        "Online laboratory result access",
+        "Monthly health education newsletter"
+      ]
+    },
+    {
+      "label_status": "VIP Member",
+      "iuran": "IDR 350,000",
+      "catatan_iuran": "per year · welcome health kit included",
+      "poin_awal": "2x points",
+      "fasilitas": [
+        "All Silver membership benefits",
+        "Priority queue at polyclinics & laboratory",
+        "5% discount on pharmacy & support services",
+        "Exclusive invitations to medical seminars & talkshows",
+        "Dedicated Gold customer care channel",
+        "Annual limited edition merchandise"
+      ]
+    },
+    {
+      "label_status": "VVIP Member",
+      "iuran": "IDR 1,250,000",
+      "catatan_iuran": "per year · personal health consultant",
+      "poin_awal": "3x points",
+      "fasilitas": [
+        "All Gold membership benefits",
+        "Skip the queue, fast track registration lane",
+        "VVIP Lounge Lt 6 access before & after consultation",
+        "Free annual Executive MCU for one person",
+        "10% discount on all services including delivery",
+        "Patient escort on admission day",
+        "Unlimited 24 hour telemedicine consultation"
+      ]
+    }
+  ]
+}

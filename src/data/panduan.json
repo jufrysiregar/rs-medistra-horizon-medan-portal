@@ -1,0 +1,72 @@
+{
+  "jam_besuk": {
+    "catatan": "Pengunjung wajib memakai tanda pengenal pengunjung, membatasi jumlah pendamping, dan menjaga ketenangan ruangan. Anak di bawah 12 tahun tidak diperkenankan masuk ruang rawat inap.",
+    "jadwal": [
+      {
+        "sesi": "Sesi I",
+        "waktu": "12.00 s.d. 14.00 WIB",
+        "keterangan": "Seluruh ruang rawat inap reguler & VIP"
+      },
+      {
+        "sesi": "Sesi II",
+        "waktu": "17.00 s.d. 19.00 WIB",
+        "keterangan": "Seluruh ruang rawat inap reguler & VIP"
+      },
+      {
+        "sesi": "ICU / HCU",
+        "waktu": "13.00 & 18.00 WIB",
+        "keterangan": "Maksimal 2 orang, durasi 15 menit"
+      },
+      {
+        "sesi": "Perinatologi / NICU",
+        "waktu": "13.00 & 18.00 WIB",
+        "keterangan": "Ayah/ibu kandung dengan pendampingan perawat"
+      }
+    ],
+    "aturan": [
+      "Bawa kartu identitas dan pasang badge pengunjung selama berada di area rumah sakit",
+      "Tidak membawa makanan/minuman ke dalam ruang isolasi dan ICU",
+      "Harap keluar ruangan saat perawat melakukan tindakan medis",
+      "Dilarang merokok di seluruh area rumah sakit"
+    ]
+  },
+  "alur_pendaftaran": {
+    "umum": {
+      "judul": "Pasien Umum & Asuransi Rekanan",
+      "langkah": [
+        "Datang ke Counter Pendaftaran Lantai 1 (atau daftar online via tombol Buat Janji di website)",
+        "Isi formulir pendaftaran / tunjukkan kartu identitas dan kartu asuransi",
+        "Terima nomor antrean poliklinik dari petugas",
+        "Konfirmasi jadwal kontrol berikutnya di poliklinik terkait"
+      ]
+    },
+    "bpjs": {
+      "judul": "Peserta BPJS Kesehatan (KRIS)",
+      "langkah": [
+        "Pastikan status kepesertaan aktif (cek via aplikasi Mobile JKN)",
+        "Datang ke Counter Pendaftaran dengan KTP, kartu KIS, dan surat rujukan dari Faskes 1",
+        "Petugas melakukan verifikasi kepesertaan secara online",
+        "Terima nomor antrean poliklinik sesuai rujukan",
+        "Rawat inap zonasi BPJS dilayani di Lantai 3 sesuai ketersediaan kelas perawatan KRIS"
+      ]
+    }
+  },
+  "hak_kewajiban": {
+    "hak": [
+      "Mendapat pelayanan medis yang manusiawi tanpa diskriminasi",
+      "Mengetahui rencana dan biaya pelayanan kesehatan secara transparan",
+      "Kerahasiaan penyakit dan data perawatan dijaga oleh rumah sakit",
+      "Memberikan persetujuan atau penolakan tindakan medis (informed consent)",
+      "Mendapat second opinion dari dokter spesialis lain",
+      "Mengajukan keluhan dan masukan melalui kotak saran & call center"
+    ],
+    "kewajiban": [
+      "Mempercayakan perawatan kepada dokter dan tenaga kesehatan",
+      "Jujur memberikan informasi medis yang dibutuhkan",
+      "Mematuhi instruksi pengobatan dan tata tertib perawatan",
+      "Menghormati hak hak pasien dan petugas lainnya",
+      "Melaksanakan kewajiban biaya administrasi dan perawatan",
+      "Memelihara sarana, prasarana, dan menjaga ketertiban rumah sakit"
+    ]
+  }
+}

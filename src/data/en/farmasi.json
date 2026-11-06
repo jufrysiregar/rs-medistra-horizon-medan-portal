@@ -1,0 +1,40 @@
+{
+  "utama": {
+    "nama": "Main Pharmacy",
+    "jam": "24/7 Nonstop",
+    "deskripsi": "Central pharmacy installation acting as the master warehouse, sterile compounding (IV Chemotherapy & TPN) and stock control for every satellite unit.",
+    "fitur": [
+      "Master Warehouse & Vaccine Cold Chain",
+      "Sterile Compounding (Class C Clean Room)",
+      "Outpatient & Inpatient Prescription Dispensing",
+      "Drug Information Service (Pharmacist DLS)"
+    ]
+  },
+  "satelit": [
+    {
+      "nama": "Polyclinic Satellite Pharmacy",
+      "jam": "07:00 to 21:00",
+      "deskripsi": "Fills prescriptions for every outpatient polyclinic in the main building."
+    },
+    {
+      "nama": "Surgery Satellite Pharmacy",
+      "jam": "24/7",
+      "deskripsi": "Anaesthetic stock, high alert medication and operating theatre (OT) logistics."
+    },
+    {
+      "nama": "ICU/HDU Satellite Pharmacy",
+      "jam": "24/7",
+      "deskripsi": "Unit dose dispensing of critical care medication right beside the patient bed."
+    },
+    {
+      "nama": "Inpatient Satellite Pharmacy",
+      "jam": "07:00 to 22:00",
+      "deskripsi": "Routine medication for KRIS and VIP Suite inpatients."
+    },
+    {
+      "nama": "VIP Satellite Pharmacy",
+      "jam": "07:00 to 22:00",
+      "deskripsi": "Private one stop dispensing service for VIP & VVIP patients."
+    }
+  ]
+}

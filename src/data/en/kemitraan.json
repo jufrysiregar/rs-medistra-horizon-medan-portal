@@ -1,0 +1,64 @@
+{
+  "mitra": [
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Insurance & Guarantors"
+    },
+    {
+      "kategori": "Corporates & State Owned Enterprises"
+    },
+    {
+      "kategori": "Corporates & State Owned Enterprises"
+    },
+    {
+      "kategori": "Corporates & State Owned Enterprises"
+    },
+    {
+      "kategori": "Corporates & State Owned Enterprises"
+    }
+  ],
+  "alur": [
+    {
+      "judul": "Primary Care Referral",
+      "deskripsi": "BPJS participants receive a referral letter from their registered Primary Care Facility (community health centre or clinic), except for emergency cases which are handled directly in the ER."
+    },
+    {
+      "judul": "Registration & Verification",
+      "deskripsi": "Show your ID card, BPJS/KIS card and referral letter at the Registration counter on Level 1, or confirm them through the Mobile JKN app. Membership eligibility is verified in real time."
+    },
+    {
+      "judul": "BPJS Inpatient Zoning (Level 3)",
+      "deskripsi": "If inpatient care is required, the patient is placed in a KRIS standard room in the Level 3 zone according to medical indication, with no extra charge as long as the entitlement and guarantee class are met."
+    }
+  ],
+  "ketentuan": [
+    "A staged referral letter from the registered primary care facility (except in a medical emergency, which can be handled directly in the ER).",
+    "An active KIS / BPJS Kesehatan card in the patient's name, membership status is verified at registration.",
+    "Care follows the Clinical Pathway and the national INA CBG tariff standard, with no co payment in a KRIS standard room.",
+    "If certain essential medicines or medical devices are unavailable, the admission officer will explain the cross referral procedure.",
+    "Discharge on medical indication, or at the patient's own request (APS), must be signed by the family and the BPJS Care Center team."
+  ],
+  "kontak": {
+    "lokasi": "Partnership & Cooperation Director, Level 9, Administration Tower"
+  }
+}

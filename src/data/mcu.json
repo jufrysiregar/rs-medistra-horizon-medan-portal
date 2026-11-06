@@ -1,0 +1,71 @@
+{
+  "nomor_wa": "6281144415515",
+  "nomor_wa_tampil": "+62 811 4441 5515",
+  "paket": [
+    {
+      "id": "mcu-executive",
+      "nama": "Paket MCU Executive",
+      "tagline": "Evaluasi menyeluruh fungsi organ & deteksi dini jantung",
+      "harga": 1450000,
+      "popular": true,
+      "fasilitas": [
+        "Semua benefit Paket MCU Basic",
+        "Rekam jantung (EKG) & echocardiography",
+        "Fungsi hati (SGOT, SGPT) & ginjal (ureum, kreatinin)",
+        "Hormon tiroid (TSH, FT4)",
+        "USG abdomen",
+        "Tumor marker CEA & AFP",
+        "Elektrolit & LED",
+        "Konsultasi dokter spesialis penyakit dalam",
+        "Sertifikat hasil digital & cetak"
+      ]
+    },
+    {
+      "id": "mcu-basic",
+      "nama": "Paket MCU Basic",
+      "tagline": "Screening kesehatan tahunan dasar untuk dewasa",
+      "harga": 485000,
+      "popular": false,
+      "fasilitas": [
+        "Pemeriksaan fisik lengkap oleh dokter",
+        "Darah lengkap (Hb, leukosit, trombosit)",
+        "Gula darah puasa",
+        "Asam urat & profil kolesterol",
+        "Rontgen thorax",
+        "Hasil cetak + konsultasi dokter"
+      ]
+    },
+    {
+      "id": "mcu-visa",
+      "nama": "Paket MCU Visa & Kerja",
+      "tagline": "Persyaratan kesehatan untuk visa kerja dan studi",
+      "harga": 750000,
+      "popular": false,
+      "fasilitas": [
+        "Pemeriksaan fisik, tensi, tinggi & berat badan",
+        "Visus, buta warna & pemeriksaan mata",
+        "Laboratorium darah & urin lengkap",
+        "Rontgen thorax 2 posisi",
+        "Rekam jantung (EKG)",
+        "Skrining penyakit menular sesuai negara tujuan",
+        "Formulir medis resmi dari kedutaan dilayani"
+      ]
+    },
+    {
+      "id": "mcu-umroh",
+      "nama": "Paket MCU Umroh & Haji",
+      "tagline": "Syarat kesehatan jemaah umroh & haji usia 45 tahun ke atas",
+      "harga": 620000,
+      "popular": false,
+      "fasilitas": [
+        "Pemeriksaan fisik oleh dokter pemeriksa jemaah",
+        "Tekanan darah, nadi & saturasi oksigen",
+        "Gula darah puasa & profil kolesterol",
+        "Fungsi hati, ginjal & hemoglobin",
+        "Rekam jantung (EKG)",
+        "Pemeriksaan jiwa (status kesiapan jemaah)",
+        "Sertifikat kesehatan jemaah umroh"
+      ]
+    }
+  ]
+}

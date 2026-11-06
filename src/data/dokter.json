@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "doc-ahmad",
+    "nama": "dr. Ahmad Fauzi, Sp.PD-KKV",
+    "spesialis": "Spesialis Penyakit Dalam (Konsultan Jantung)",
+    "status": "Tetap",
+    "jabatan": "Direktur Medis",
+    "poli": [
+      "Penyakit Dalam",
+      "Jantung"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-surya",
+    "nama": "dr. Surya",
+    "spesialis": "Spesialis Anak",
+    "status": "Tetap",
+    "jabatan": "Kepala Pelayanan Medis",
+    "poli": [
+      "Anak"
+    ],
+    "lokasi": "Lt 5 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-dimas",
+    "nama": "dr. Dimas Aryo Wibowo, Sp.B",
+    "spesialis": "Spesialis Bedah Umum",
+    "status": "Tetap",
+    "jabatan": "Kepala Mutu & Akreditasi",
+    "poli": [
+      "Bedah Umum"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-kevin",
+    "nama": "dr. Kevin Wijaya",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "Kepala Instalasi IGD",
+    "poli": [
+      "IGD"
+    ],
+    "lokasi": "Lt Ground IGD",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-andi",
+    "nama": "dr. Andi Saputra",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD",
+      "Rawat Inap"
+    ],
+    "lokasi": "Lt Ground IGD · Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-bella",
+    "nama": "dr. Bella Anjani",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD",
+      "Rawat Inap"
+    ],
+    "lokasi": "Lt Ground IGD · Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Rabu",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Minggu",
+        "mulai": "07:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-candra",
+    "nama": "dr. Candra Wijaya",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD",
+      "Rawat Inap"
+    ],
+    "lokasi": "Lt Ground IGD · Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-dewi",
+    "nama": "dr. Dewi Sartika",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap",
+      "ICU"
+    ],
+    "lokasi": "Nurse Station Lt 2 / 7 / 8 · Lt 3 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-eko",
+    "nama": "dr. Eko Prasetyo",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap",
+      "ICU"
+    ],
+    "lokasi": "Nurse Station Lt 2 / 7 / 8 · Lt 3 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      },
+      {
+        "hari": "Minggu",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-fransiska",
+    "nama": "dr. Fransiska Lumban Gaol",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap",
+      "NICU"
+    ],
+    "lokasi": "Nurse Station Lt 5 / 6 · Lt 6 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-gilang",
+    "nama": "dr. Gilang Ramadhan",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD"
+    ],
+    "lokasi": "Lt Ground IGD",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-indah",
+    "nama": "dr. Indah Permata Sari",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Poli Umum",
+      "MCU"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "MCU rutin tidak ditanggung BPJS. Asuransi swasta hanya jika ada manfaat Wellness.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-joko",
+    "nama": "dr. Joko Susilo",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Poli Umum",
+      "MCU"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "MCU rutin tidak ditanggung BPJS. Asuransi swasta hanya jika ada manfaat Wellness.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "14:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-kartika",
+    "nama": "dr. Kartika Sari",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap"
+    ],
+    "lokasi": "Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-lukman",
+    "nama": "dr. Lukman Hakim",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD"
+    ],
+    "lokasi": "Lt Ground IGD",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "21:00",
+        "selesai": "07:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-mega",
+    "nama": "dr. Mega Wati",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap"
+    ],
+    "lokasi": "Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-nico",
+    "nama": "dr. Nico Fernando",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD"
+    ],
+    "lokasi": "Lt Ground IGD",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Minggu",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-oki",
+    "nama": "dr. Oki Setiana",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Poli Umum"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-putra",
+    "nama": "dr. Putra Pratama",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "IGD"
+    ],
+    "lokasi": "Lt Ground IGD",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "IGD dapat langsung tanpa rujukan untuk kondisi darurat",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      },
+      {
+        "hari": "Minggu",
+        "mulai": "14:00",
+        "selesai": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-qori",
+    "nama": "dr. Qori Amanda",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Rawat Inap"
+    ],
+    "lokasi": "Nurse Station Lt 2 / 7 / 8",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Rabu",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "14:00",
+        "selesai": "21:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-reza",
+    "nama": "dr. Reza Rahardian",
+    "spesialis": "Dokter Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Poli Umum"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-sarah",
+    "nama": "dr. Sarah Lubis, Sp.JP",
+    "spesialis": "Spesialis Jantung",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Jantung"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rizky",
+    "nama": "dr. Rizky Ramadan Harahap, Sp.S",
+    "spesialis": "Spesialis Saraf",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Saraf"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "10:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "10:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-faisal",
+    "nama": "dr. Faisal Daulay, Sp.P",
+    "spesialis": "Spesialis Paru",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Paru"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "13:00",
+        "selesai": "17:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "13:00",
+        "selesai": "17:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-agung",
+    "nama": "dr. Agung Hermansyah Manullang, Sp.OT",
+    "spesialis": "Spesialis Orthopedi",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Orthopedi"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "15:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-christopher",
+    "nama": "dr. Christopher Tan, Sp.An",
+    "spesialis": "Spesialis Anestesi",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Kamar Operasi",
+      "ICU"
+    ],
+    "lokasi": "Lt 3 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-zulham",
+    "nama": "dr. Zulham Effendi, Sp.Rad",
+    "spesialis": "Spesialis Radiologi",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Radiologi"
+    ],
+    "lokasi": "Lt G Radiologi",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-jonathan",
+    "nama": "dr. Jonathan Situmorang, Sp.PD",
+    "spesialis": "Spesialis Penyakit Dalam",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Penyakit Dalam"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:30",
+        "selesai": "12:30"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:30",
+        "selesai": "12:30"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:30",
+        "selesai": "12:30"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:30",
+        "selesai": "11:30"
+      }
+    ]
+  },
+  {
+    "id": "doc-tengku",
+    "nama": "dr. Tengku Ahmad Faisal, Sp.PD",
+    "spesialis": "Spesialis Penyakit Dalam",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Penyakit Dalam"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "12:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "13:00",
+        "selesai": "17:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-ratna",
+    "nama": "dr. Ratna Dewi, Sp.PD",
+    "spesialis": "Spesialis Penyakit Dalam",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Penyakit Dalam"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:30",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:30",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "08:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-anggi",
+    "nama": "dr. Anggi, Sp.A",
+    "spesialis": "Spesialis Anak",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Anak"
+    ],
+    "lokasi": "Lt 5 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-grace",
+    "nama": "dr. Grace Natalia Lumbantobing, Sp.A",
+    "spesialis": "Spesialis Anak",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Anak"
+    ],
+    "lokasi": "Lt 5 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "10:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-aisyah",
+    "nama": "dr. Aisyah Putri Batubara, Sp.A(K)",
+    "spesialis": "Spesialis Anak (Konsultan)",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Anak",
+      "Tumbuh Kembang"
+    ],
+    "lokasi": "Lt 5 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum"
+    ],
+    "catatan_pembayaran": "BPJS hanya ditanggung jika ada indikasi medis dari Sp.A. Sebagian besar asuransi swasta mengecualikan terapi tumbuh kembang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "13:00",
+        "selesai": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-miftah",
+    "nama": "dr. Miftah Putra, Sp.OG",
+    "spesialis": "Spesialis Obgyn",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Kebidanan & Kandungan"
+    ],
+    "lokasi": "Lt 6 South Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "10:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-siti",
+    "nama": "dr. Siti Rahmawati, Sp.OG",
+    "spesialis": "Spesialis Obgyn",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Kebidanan & Kandungan"
+    ],
+    "lokasi": "Lt 6 South Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rian",
+    "nama": "dr. Rian Hidayat, Sp.OG",
+    "spesialis": "Spesialis Obgyn",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Kebidanan & Kandungan"
+    ],
+    "lokasi": "Lt 6 South Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-budi",
+    "nama": "dr. Budi Siregar, Sp.B",
+    "spesialis": "Spesialis Bedah Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Bedah Umum"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-aditya",
+    "nama": "dr. Aditya Pratama, Sp.B",
+    "spesialis": "Spesialis Bedah Umum",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Bedah Umum"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-maria",
+    "nama": "dr. Maria Fransiska Sirait, Sp.PK",
+    "spesialis": "Spesialis Patologi Klinik",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Laboratorium"
+    ],
+    "lokasi": "Lt G Laboratorium",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "07:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-bayu",
+    "nama": "dr. Bayu Aditya, Sp.PA",
+    "spesialis": "Spesialis Patologi Anatomi",
+    "status": "Tetap",
+    "jabatan": "",
+    "poli": [
+      "Laboratorium"
+    ],
+    "lokasi": "Lt G Laboratorium",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-maya",
+    "nama": "dr. Maya Fitriani Karo-karo, Sp.DVE",
+    "spesialis": "Spesialis Kulit & Kelamin",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Kulit & Kelamin"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "13:00",
+        "selesai": "17:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "13:00",
+        "selesai": "17:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-felicia",
+    "nama": "dr. Felicia Sutanto, Sp.DVE",
+    "spesialis": "Spesialis Kulit & Kelamin",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Kulit & Kelamin"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-hendra",
+    "nama": "dr. Hendra Ginting, Sp.THT-KL",
+    "spesialis": "Spesialis THT",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "THT"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-zaki",
+    "nama": "dr. Zaki Abdullah, Sp.THT-KL",
+    "spesialis": "Spesialis THT",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "THT"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-intan",
+    "nama": "dr. Intan Permatasari, Sp.M",
+    "spesialis": "Spesialis Mata",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Mata"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-budisantoso",
+    "nama": "dr. Budi Santoso, Sp.M",
+    "spesialis": "Spesialis Mata",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Mata"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rahmathidayat",
+    "nama": "dr. Rahmat Hidayat, Sp.U",
+    "spesialis": "Spesialis Urologi",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Urologi"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "14:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "10:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-bagoes",
+    "nama": "dr. Bagoes Suryo, Sp.U",
+    "spesialis": "Spesialis Urologi",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Urologi"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "12:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rahmatia",
+    "nama": "dr. Rahmatia Nasution, Sp.KJ",
+    "spesialis": "Spesialis Kedokteran Jiwa",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Jiwa"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS ditanggung. Asuransi swasta hanya menanggung jika polis mencakup kesehatan jiwa.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Selasa",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-dani",
+    "nama": "dr. Ahmad Dani, Sp.KJ",
+    "spesialis": "Spesialis Kedokteran Jiwa",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Jiwa"
+    ],
+    "lokasi": "Lt 7 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS ditanggung. Asuransi swasta hanya menanggung jika polis mencakup kesehatan jiwa.",
+    "jadwal": [
+      {
+        "hari": "Rabu",
+        "mulai": "13:00",
+        "selesai": "18:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rudi",
+    "nama": "dr. Rudi Hartono Tanjung, Sp.BS",
+    "spesialis": "Spesialis Bedah Saraf",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Bedah Saraf"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS memerlukan rujukan medis berjenjang.",
+    "jadwal": [
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-david",
+    "nama": "dr. David Lumenta, Sp.BP-RE",
+    "spesialis": "Spesialis Bedah Plastik",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Bedah Plastik"
+    ],
+    "lokasi": "Klinik Lt 7 North Wing · Tindakan Lt 3",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS & Asuransi HANYA menanggung tindakan rekonstruksi (kecelakaan/luka bakar). Tindakan estetika 100% biaya pribadi.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "15:00",
+        "selesai": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-fitri",
+    "nama": "dr. Fitri Handayani, Sp.KFR",
+    "spesialis": "Spesialis Rehabilitasi Medik",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Rehabilitasi Medik",
+      "Fisioterapi"
+    ],
+    "lokasi": "Lt 5 South Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS sesuai protokol rujukan. Asuransi swasta tergantung klausul limit rawat jalan / Rider Kanker.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "08:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-rina",
+    "nama": "dr. Rina Amelia, Sp.KFR",
+    "spesialis": "Spesialis Rehabilitasi Medik",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Rehabilitasi Medik",
+      "Fisioterapi"
+    ],
+    "lokasi": "Lt 5 South Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS sesuai protokol rujukan. Asuransi swasta tergantung klausul limit rawat jalan / Rider Kanker.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-nadia",
+    "nama": "dr. Nadia Salsabila, Sp.GK",
+    "spesialis": "Spesialis Gizi Klinis",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Gizi Klinis"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "MCU rutin tidak ditanggung BPJS. Asuransi swasta hanya jika ada manfaat Wellness.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Kamis",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-william",
+    "nama": "dr. William Tan, Sp.Onk.Rad",
+    "spesialis": "Spesialis Onkologi Radiasi",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Kemoterapi"
+    ],
+    "lokasi": "Lt 7 North Wing · Tindakan Day Care Lt 5",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "BPJS sesuai protokol rujukan. Asuransi swasta tergantung klausul limit rawat jalan / Rider Kanker.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-budiarto",
+    "nama": "drg. Budiarto Halim",
+    "spesialis": "Dokter Gigi Umum",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Gigi Umum"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "Pasien BPJS wajib membawa rujukan dari FKTP (Puskesmas/Klinik). Asuransi swasta hanya jika memiliki Rider Dental.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "09:00",
+        "selesai": "15:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-siska",
+    "nama": "drg. Siska Lestari",
+    "spesialis": "Dokter Gigi Umum",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Gigi Umum"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "Pasien BPJS wajib membawa rujukan dari FKTP (Puskesmas/Klinik). Asuransi swasta hanya jika memiliki Rider Dental.",
+    "jadwal": [
+      {
+        "hari": "Selasa",
+        "mulai": "10:00",
+        "selesai": "16:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "09:00",
+        "selesai": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-hendrawijaya",
+    "nama": "drg. Hendrawan, Sp.KG",
+    "spesialis": "Spesialis Konservasi Gigi",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Konservasi Gigi"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "Pasien BPJS wajib membawa rujukan dari FKTP (Puskesmas/Klinik). Asuransi swasta hanya jika memiliki Rider Dental.",
+    "jadwal": [
+      {
+        "hari": "Rabu",
+        "mulai": "09:00",
+        "selesai": "13:00"
+      },
+      {
+        "hari": "Jumat",
+        "mulai": "14:00",
+        "selesai": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "doc-melati",
+    "nama": "drg. Melati Putri, Sp.BM",
+    "spesialis": "Spesialis Bedah Mulut",
+    "status": "Mitra",
+    "jabatan": "",
+    "poli": [
+      "Bedah Mulut"
+    ],
+    "lokasi": "Lt 1 North Wing",
+    "pembayaran": [
+      "BPJS",
+      "Umum",
+      "Asuransi"
+    ],
+    "catatan_pembayaran": "Pasien BPJS wajib membawa rujukan dari FKTP (Puskesmas/Klinik). Asuransi swasta hanya jika memiliki Rider Dental.",
+    "jadwal": [
+      {
+        "hari": "Senin",
+        "mulai": "14:00",
+        "selesai": "19:00"
+      },
+      {
+        "hari": "Sabtu",
+        "mulai": "10:00",
+        "selesai": "15:00"
+      }
+    ]
+  }
+]

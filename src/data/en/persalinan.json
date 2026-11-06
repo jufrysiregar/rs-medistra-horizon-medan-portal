@@ -1,0 +1,30 @@
+{
+  "paket": [
+    {
+      "nama": "Normal Delivery Package",
+      "tagline": "Comfortable delivery in a VIP room with early breastfeeding initiation",
+      "fasilitas": [
+        "VIP room 3 days 2 nights (1 companion)",
+        "Labour & delivery attended by an obgyn",
+        "Early Breastfeeding Initiation (IMD) & HBID",
+        "Newborn care & vitamin K1",
+        "Newborn screening",
+        "Pre discharge lactation education",
+        "1 postpartum control visit"
+      ]
+    },
+    {
+      "nama": "Caesarean Delivery Package",
+      "tagline": "Planned sectio caesarea with a complete surgical team",
+      "fasilitas": [
+        "Caesarean surgery by obgyn & anaesthesiologist",
+        "VIP room 4 days 3 nights (1 companion)",
+        "Newborn care & vitamin K1",
+        "Newborn screening",
+        "Pre operative laboratory",
+        "Medication & consumables during the stay",
+        "2 postpartum control visits"
+      ]
+    }
+  ]
+}

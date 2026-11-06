@@ -1,0 +1,102 @@
+# =============================================================
+#  RS Medistra Horizon Medan — Next.js 14 / TypeScript / Tailwind
+#  .gitignore dipersonalisasi untuk repo ini (Windows + npm).
+# =============================================================
+
+# ---------- Dependencies ----------
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+# jangan pakai lockfile ganda — package-lock.json di repo ini DI-COMMIT
+yarn.lock
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# ---------- Build output & cache ----------
+.next/
+out/
+build/
+dist/
+.vercel/
+.netlify/
+
+# TypeScript incremental build info (120 KB, selalu berubah — jangan dilacak)
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# ---------- Environment & secrets ----------
+# Site ini jalan tanpa env wajib; file ini tetap di-ignore supaya kredensial
+# (Formspree/ANALYTICS token dsb.) tidak pernah ikut ke repo.
+.env
+.env.*
+!.env.example
+!.env.local.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+service-account*.json
+
+# ---------- Logs & crash reports ----------
+log/
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# ---------- Test & coverage ----------
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+
+# ---------- Scratch files hasil kerja eksplorasi ----------
+# Artefak sementara yang ada di root repo saat ini.
+_extract.txt
+probe-*.ps1
+probe-*.sh
+*.tmp
+*.temp
+*.bak
+_tmp/
+
+# ---------- Editor / IDE ----------
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.qoder/cache/
+
+# ---------- OS / filesystem Windows ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---------- Misc ----------
+.eslintcache
+.stylelintcache
+.turbo/
+
+# =============================================================
+#  SENGAJA TIDAK DI-IGNORE (biarkan tetap terlacak):
+#   - next-env.d.ts        : Next.js menganjurkan file ini di-commit
+#   - package-lock.json    : dipakai untuk build yang reprodusibel
+#   - public/files/*.pdf   : brosur & tarif yang dilayani ke pasien
+#   - src/data/**          : seluruh konten JSON (source of truth situs)
+#   - src/images/**        : aset yang di-import & di-hash bundler
+# =============================================================

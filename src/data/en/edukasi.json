@@ -1,0 +1,318 @@
+{
+  "gejala": [
+    {
+      "nama_gejala": "Fever",
+      "kategori": "Mild Infection",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Take the temperature with an armpit thermometer; a fever above 38°C in an infant under 3 months must be checked by a doctor.",
+            "Continue breastfeeding or formula more often to prevent dehydration.",
+            "Use thin clothing and a cool room; do not cover with thick blankets.",
+            "Apply a lukewarm compress to the forehead, neck and armpit folds for 10 15 minutes."
+          ],
+          "saran_obat": "Paracetamol drops or syrup dosed by body weight ONLY on the advice of a doctor or pharmacist. Never give aspirin to a child.",
+          "red_flags": "An infant under 3 months with a temperature of 38°C or higher, seizures, red spots that do not fade when pressed, persistent vomiting, or appearing very floppy and hard to wake."
+        },
+        "anak": {
+          "langkah": [
+            "Full rest and check the temperature every 4 hours.",
+            "Offer plenty of drinks: water, soup broth, or a simple oral rehydration solution.",
+            "Thin clothing, a lukewarm compress on the forehead and body folds.",
+            "Bathe in lukewarm water to help bring the temperature down."
+          ],
+          "saran_obat": "Paracetamol syrup dosed by body weight every 6 to 8 hours if needed. Herbal remedies such as warm turmeric with tamarind may accompany the treatment, never replace it.",
+          "red_flags": "Fever for more than 3 days, seizures, a purple rash, fast or difficult breathing, a child refusing to drink at all, or appearing confused."
+        },
+        "dewasa": {
+          "langkah": [
+            "Rest enough and sleep 7 to 8 hours so the immune system works optimally.",
+            "Drink 2 to 3 liters of water daily, supplemented with warm tea or a ginger drink.",
+            "Eat easy to digest food and vitamin C rich soups.",
+            "Compress the forehead with lukewarm water if the temperature feels high."
+          ],
+          "saran_obat": "Paracetamol 500 mg every 6 to 8 hours or ibuprofen 200 mg after meals. Warm ginger and honey with lemon help ease the accompanying symptoms.",
+          "red_flags": "A fever above 39.5°C that does not come down after medication, lasts more than 3 days, or comes with chest pain, shortness of breath, a stiff neck, or sudden blurred vision."
+        },
+        "lansia": {
+          "langkah": [
+            "Monitor the temperature regularly; a fever in older adults can look mild yet signal a serious infection.",
+            "Assist with mobility to prevent falls when weak, and keep fluid intake going every 1 to 2 hours.",
+            "Use loose clothing and an environment with good air circulation.",
+            "Write down the regular medicines being taken as information for the doctor."
+          ],
+          "saran_obat": "Standard dose paracetamol is generally the safest, but consult a pharmacist if the person takes blood thinners or has liver disease.",
+          "red_flags": "A temperature of 38°C or higher with sudden confusion, rambling speech, extreme weakness or falls, or in people with diabetes and heart disease, take them to the emergency room immediately."
+        }
+      }
+    },
+    {
+      "nama_gejala": "Cough & Cold",
+      "kategori": "Respiratory Tract Infection",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Instil 0.9% saline drops into the nose, then suction slowly with a baby nasal aspirator.",
+            "Raise the head position slightly during sleep by propping it up under the mattress.",
+            "A cool mist humidifier in the room helps loosen breathing.",
+            "Continue breastfeeding or expressed milk more often."
+          ],
+          "saran_obat": "No over the counter cough medicine! For infants, saline drops and a doctor's advice are enough. Warm telon oil may be rubbed thinly on the back.",
+          "red_flags": "Fast breathing or rib retractions, pulling of the chest wall, bluish lips, refusing to drink, or fever in an infant under 3 months."
+        },
+        "anak": {
+          "langkah": [
+            "Drink plenty of warm water and broth soup to thin the phlegm.",
+            "Teach blowing the nose into a tissue and washing hands afterwards.",
+            "Warm steam inhalation for 5 to 10 minutes under adult supervision.",
+            "Avoid cigarette smoke and dust inside the house."
+          ],
+          "saran_obat": "Children over 1 year may take 1/2 to 1 teaspoon of honey to ease a cough. Expectorant syrup only on the advice of a doctor or pharmacist.",
+          "red_flags": "A cough lasting more than 2 weeks, shortness of breath, an accompanying high fever, bloody phlegm, or a child who looks very weak and refuses to drink."
+        },
+        "dewasa": {
+          "langkah": [
+            "Rest your voice and get enough sleep.",
+            "Gargle warm salt water 3 to 4 times a day for an accompanying sore throat.",
+            "Warm fluids: ginger tea, honey lemon, soup broth.",
+            "Sleep with the head raised a little higher to reduce nasal congestion."
+          ],
+          "saran_obat": "A decongestant (pseudoephedrine) for a maximum of 3 to 5 days for blockage, antiseptic mouthwash, and steam inhalation. Ginger plus honey and lemon is comfortably effective at easing symptoms.",
+          "red_flags": "Shortness of breath, chest pain, coughing up blood, fever for more than 3 days, or symptoms that improve and then worsen again (suspected secondary infection)."
+        },
+        "lansia": {
+          "langkah": [
+            "Keep the body and the room warm, avoiding direct cold air.",
+            "Drink warm fluids regularly to thin thick secretions.",
+            "Sit leaning forward during severe coughing fits to avoid falling.",
+            "Monitor oxygen saturation if you own a home oximeter."
+          ],
+          "saran_obat": "Take care with decongestants in people with high blood pressure and glaucoma, consult a pharmacist first. Paracetamol is safe for the accompanying body aches.",
+          "red_flags": "Saturation below 93%, fast breathing, confusion, pale or bluish lips, or a cough with high fever, pneumonia risk is high in older adults, go to the emergency room immediately."
+        }
+      }
+    },
+    {
+      "nama_gejala": "Diarrhea",
+      "kategori": "Digestive",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Continue breastfeeding without limit; for formula fed babies continue as usual (do not dilute it).",
+            "Give oral rehydration solution in small sips (one spoon every 1 to 2 minutes) after every loose stool.",
+            "Change the diaper immediately and clean the area with running water to prevent rash.",
+            "Watch for signs of dehydration: a sunken soft spot, crying without tears."
+          ],
+          "saran_obat": "Oral rehydration solution plus zinc 10 mg/day for 10 days (infant dose) as directed by a doctor. Never give adult anti diarrhea drugs to an infant.",
+          "red_flags": "Bloody or mucous stools, projectile vomiting, refusing to drink, sunken eyes or soft spot, no urination for more than 6 hours, or age under 6 months."
+        },
+        "anak": {
+          "langkah": [
+            "Give oral rehydration solution after every loose stool (half to one glass).",
+            "Eat small portions: porridge, banana, double cooked rice; avoid fatty and high sugar food.",
+            "Wash hands with soap after using the toilet and before eating.",
+            "Rest at home until free of loose stools for 24 hours."
+          ],
+          "saran_obat": "Oral rehydration solution and zinc 20 mg/day for 10 days. Probiotic yogurt may support the recovery of gut flora.",
+          "red_flags": "High fever with diarrhea, bloody stools, a child who looks very weak or drowsy, signs of dehydration (very dry mouth, no urination for more than 8 hours)."
+        },
+        "dewasa": {
+          "langkah": [
+            "Rehydrate: oral rehydration solution, coconut water, soup broth, avoid coffee and soda.",
+            "The BRAT diet (banana, rice, applesauce, toast) for the first 1 to 2 days.",
+            "Avoid spicy food, fatty food and fresh milk while the symptoms last.",
+            "Wash hands regularly so it does not spread to household members."
+          ],
+          "saran_obat": "Oral rehydration solution is the priority. Attapulgite may be used for diarrhea without blood or fever. Probiotics and a ginger decoction help calm the gut.",
+          "red_flags": "Diarrhea for more than 3 days, black or bloody stools, fever above 38.5°C, vomiting without end so no fluid stays down, signs of severe dehydration (dizziness when standing)."
+        },
+        "lansia": {
+          "langkah": [
+            "Give oral rehydration solution immediately, dehydration in older adults deteriorates fast and causes confusion.",
+            "Help them to the toilet to prevent falls during weakness or stomach cramps.",
+            "Eat warm soft food: thin mung bean porridge, carrot soup.",
+            "Stop laxatives and certain supplements only after consulting a doctor."
+          ],
+          "saran_obat": "Oral rehydration solution is mandatory. Avoid loperamide in older adults without supervision (risk of heart rhythm disorders and ileus). Probiotics are safe and helpful.",
+          "red_flags": "An older adult who looks confused or delirious, an extremely dry mouth, no urination for more than 8 hours, fever, or bloody diarrhea, this is an emergency, go to the emergency room."
+        }
+      }
+    },
+    {
+      "nama_gejala": "Headache",
+      "kategori": "Mild Neurology",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Infants cannot complain yet; suspect it from behavior: excessive fussiness, banging the head, refusing to feed.",
+            "Check for a recent immunization or fever, often the main source of head discomfort.",
+            "Dim the lights and noise, hold and rock gently.",
+            "Measure the body temperature immediately."
+          ],
+          "saran_obat": "There is no over the counter headache medicine for infants. Treat the cause (fever leads to paracetamol drops at the doctor's dose). A mother's touch and voice are the best relievers.",
+          "red_flags": "Fussiness that cannot be soothed for more than 3 hours, seizures, a bulging soft spot, projectile vomiting, or one occurring after a head bump or trauma."
+        },
+        "anak": {
+          "langkah": [
+            "Rest in a dim, quiet room away from screens for 30 60 minutes.",
+            "Offer a drink, mild dehydration is a common trigger in active children.",
+            "Gently massage the temples and the back of the neck with warm oil.",
+            "Check for eye strain from watching screens or playing with devices too long."
+          ],
+          "saran_obat": "Paracetamol syrup at the right dose if the child is in pain. A cold forehead compress and warm chamomile tea help.",
+          "red_flags": "Headaches on waking that become more frequent day by day, with vomiting, disturbed vision or strength, a stiff neck, or high fever."
+        },
+        "dewasa": {
+          "langkah": [
+            "Recognize the type: tightness around the whole head (tension) versus one throbbing side (migraine).",
+            "Reduce screen time, control your breathing, massage the temples and nape for 5 minutes.",
+            "Drink water, dehydration and skipped meals are the most frequent triggers.",
+            "A cold forehead compress for migraine; a warm neck compress for the tension type."
+          ],
+          "saran_obat": "Paracetamol or ibuprofen 200 to 400 mg at the start of an attack. A little sweet coffee or tea actually helps in an early migraine. Ginger effectively relieves migraine nausea.",
+          "red_flags": "The worst headache ever felt, arriving suddenly (thunderclap), with one sided weakness, slurred speech, seizures, double vision, or fever plus a stiff neck."
+        },
+        "lansia": {
+          "langkah": [
+            "Check blood pressure during head pain, hypertension often has no symptom besides an ache at the back of the head.",
+            "Get out of bed slowly to prevent orthostatic dizziness.",
+            "Rest with a slightly higher pillow and avoid rooms that are too dark.",
+            "Note when and where the pain appears, to report it to the doctor."
+          ],
+          "saran_obat": "Paracetamol is the safest. Avoid caffeine combination medicines if the older adult has high blood pressure or tachycardia. Do not overuse headache medicine (more than 15 days per month).",
+          "red_flags": "A new headache never experienced before in someone over 50, with sudden blurred vision, jaw pain when chewing, one sided weakness, or sudden confusion."
+        }
+      }
+    },
+    {
+      "nama_gejala": "Nosebleed",
+      "kategori": "ENT",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "A true nosebleed is rare in infants, check for any wound or impact around the nose.",
+            "Pinch the soft part of the nose with a clean soft cloth for 5 to 10 minutes, holding the baby half sitting.",
+            "Do not put tissue or dry cotton into a baby's nostril.",
+            "Breastfeed to calm them."
+          ],
+          "saran_obat": "No medicine is needed. Warm steam in the room keeps the nasal lining from drying out and cracking.",
+          "red_flags": "Bleeding that does not stop after 10 minutes of pressure, bleeding after a head injury, or bleeding with unexplained bruises elsewhere on the body."
+        },
+        "anak": {
+          "langkah": [
+            "Sit upright with the head TILTED SLIGHTLY FORWARD (not backward, so no blood is swallowed).",
+            "Gently pinch the soft part of the nose for a full 10 minutes without releasing to check.",
+            "A cold compress on the bridge of the nose.",
+            "After it stops, remind the child not to pick the nose or blow hard for 24 hours."
+          ],
+          "saran_obat": "A thin layer of petroleum ointment inside the nostril before sleep prevents a dry lining. Saline nasal spray also helps.",
+          "red_flags": "Does not stop after 20 minutes, happens very often, the child turns pale or weak, or there is a history of clotting disorders and easy bruising."
+        },
+        "dewasa": {
+          "langkah": [
+            "Pinch the soft part of the nose for 10 15 minutes while sitting leaning forward, breathing through the mouth.",
+            "An ice pack wrapped in cloth on the bridge of the nose.",
+            "Avoid bending down, lifting heavy items, and spicy or hot food for 24 hours.",
+            "Keep the room humid with a humidifier."
+          ],
+          "saran_obat": "A decongestant nasal spray (oxymetazoline) once or twice can help stop an episode in adults, but never for more than 3 days. Use saline spray for prevention.",
+          "red_flags": "Heavy bleeding that does not stop after 20 minutes, a nosebleed after head or face trauma, or nosebleeds in people taking blood thinners, go to the emergency room immediately."
+        },
+        "lansia": {
+          "langkah": [
+            "Sit upright and pinch the soft part of the nose for 15 minutes, older blood vessels need pressure longer.",
+            "Check blood pressure after the bleeding stops.",
+            "Avoid letting glasses press on the nose for a while.",
+            "Apply a thin layer of petroleum jelly inside the nose when the night air is dry."
+          ],
+          "saran_obat": "Aspirin or warfarin users risk bleeding that is hard to stop, report every nosebleed to the prescribing doctor. Do not stop the medicine on your own.",
+          "red_flags": "Does not stop after 20 minutes of pressure, blood flowing heavily down the throat, dizziness or fainting, or while taking blood thinners, go to the emergency room."
+        }
+      }
+    },
+    {
+      "nama_gejala": "Stomach Ache",
+      "kategori": "Digestive",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Suspect colic when the baby screams and is fussy in the evening or at night with a bloated belly, usually between 2 and 12 weeks of age.",
+            "Burp the baby after feeding, then hold them face down on your arm or over your tummy.",
+            "Gentle bicycle leg movements to help pass gas.",
+            "Massage the tummy clockwise with warm baby oil."
+          ],
+          "saran_obat": "Infant simethicone drops only on a doctor's advice. A little warm water for babies over 6 months is fine as a companion to complementary food.",
+          "red_flags": "A hard bloated belly, green or brownish vomit, no stool and no gas, crying when the belly is touched, or a groin lump that cannot be pushed back in."
+        },
+        "anak": {
+          "langkah": [
+            "Rest with the knees bent toward the chest to reduce cramps.",
+            "Give warm water in small sips, and avoid soda and cold food or drinks.",
+            "Ask where it hurts: around the navel is usually mild; pain moving to the lower right needs caution.",
+            "A gentle warm compress on the belly."
+          ],
+          "saran_obat": "Avoid strong stomach pain relievers in children without a doctor's advice. Warm chamomile tea and eucalyptus oil rubbed on the belly help.",
+          "red_flags": "Pain that persists for more than 8 hours, moves to the lower right abdomen with fever or vomiting (suspected appendicitis), a hard belly, bloody stools, or a child who looks very weak."
+        },
+        "dewasa": {
+          "langkah": [
+            "Recognize the pattern: burning tied to meals means gastritis or GERD; cramps plus loose stools mean mild diarrhea or colitis.",
+            "Eat small regular portions, and avoid spicy, sour, coconut milk dishes and coffee while symptoms last.",
+            "Manage stress, the gut brain axis really does trigger functional abdominal pain.",
+            "A warm belly compress plus warm ginger tea relieves cramps."
+          ],
+          "saran_obat": "Antacid for the burning of gastritis, simethicone for bloating. Turmeric and galangal traditionally help with mild stomach inflammation.",
+          "red_flags": "Severe pain concentrated at one point and getting worse, high fever, vomiting blood or black stools, a belly as hard as a board, or lower right abdominal pain (suspected appendicitis)."
+        },
+        "lansia": {
+          "langkah": [
+            "Abdominal pain in older adults more often reflects a serious problem, have it assessed earlier.",
+            "Note the location, duration and triggers (food, bowel movements, activity).",
+            "Eat soft food in small portions and avoid over the counter NSAID painkillers.",
+            "Check whether stool or gas cannot pass at all (suspected bowel obstruction)."
+          ],
+          "saran_obat": "Common antacids are safe. Watch for drug interactions: NSAIDs such as mefenamic acid can worsen gastritis and ulcers in older adults.",
+          "red_flags": "Sudden severe abdominal pain, a hard bloated belly with no gas passed, continuous vomiting, chest pain spreading into the abdomen, or bloody stools, go to the emergency room immediately."
+        }
+      }
+    }
+  ],
+  "artikel": [
+    {
+      "kategori": "Heart Health",
+      "judul": "5 Simple Steps to Keep Your Heart in Prime Condition",
+      "ringkasan": "Blood pressure, cholesterol and blood sugar can all be controlled with small, consistent changes starting today.",
+      "peninjau": "Dr. Sarah Lubis, Sp.JP"
+    },
+    {
+      "kategori": "Maternal & Child Health",
+      "judul": "A Healthy Pregnancy Guide: From the First Trimester to Delivery",
+      "ringkasan": "Control visit schedules, folate and iron needs, and the danger signs every mother and family must watch for.",
+      "peninjau": "Dr. Miftah Putra, Sp.OG"
+    },
+    {
+      "kategori": "Digestive & Metabolic",
+      "judul": "Managing Diabetes at Home: Eating Patterns and Self Monitoring",
+      "ringkasan": "Stable blood sugar starts on your plate, a regular glucometer check schedule, and light physical activity done routinely.",
+      "peninjau": "Dr. Jonathan Situmorang, Sp.PD, KKV"
+    },
+    {
+      "kategori": "Mental Health",
+      "judul": "Staying Mentally Healthy in the City Pace: Recognize Burnout Earlier",
+      "ringkasan": "Chronic work exhaustion is often mistaken for laziness. Here is a practical guide to recognizing it and getting help.",
+      "peninjau": "Dr. Rizky Ramadan Harahap, Sp.S"
+    },
+    {
+      "kategori": "Infectious Disease & Outbreaks",
+      "judul": "Watch for Dengue: The Critical Phase from Day 3 to Day 7",
+      "ringkasan": "A falling fever does not mean full recovery. Know the dengue warning signs and 3M Plus prevention at home.",
+      "peninjau": "Dr. Faisal Daulay, Sp.P"
+    },
+    {
+      "kategori": "Child Health",
+      "judul": "The Childhood Immunization Schedule: What Parents Need to Prepare",
+      "ringkasan": "Myths about post immunization fever, handling mild side effects, and how to keep a child comfortable at the clinic.",
+      "peninjau": "Dr. Aisyah Putri Batubara, Sp.A(K)"
+    }
+  ]
+}

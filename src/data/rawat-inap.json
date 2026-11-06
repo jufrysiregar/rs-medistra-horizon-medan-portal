@@ -1,0 +1,75 @@
+{
+  "kelas": [
+    {
+      "id": "kris",
+      "nama": "Rawat Inap KRIS",
+      "lantai": "Lt 6",
+      "ikon": "Users",
+      "kapasitas": "128 Bed",
+      "tarif": "BPJS KRIS Kelas 1 s.d. 3",
+      "deskripsi": "Kamar Standar Rawat Inap terpusat sesuai regulasi Kemenkes, nurse station tiap cluster, dan keluarga pendamping akses kartu.",
+      "fasilitas": [
+        "4 s.d. 6 Bed per Kamar",
+        "Call Bell Pribadi",
+        "Kamar Mandi Dalam",
+        "Dukungan Oksigen Sentral"
+      ]
+    },
+    {
+      "id": "vip",
+      "nama": "VIP Suites",
+      "lantai": "Lt 7",
+      "ikon": "Crown",
+      "kapasitas": "36 Suite",
+      "tarif": "Umum & Asuransi Premium",
+      "deskripsi": "Suite privat dengan ruang tunggu keluarga, kamar mandi bathub, dan layanan personal case manager sepanjang perawatan.",
+      "fasilitas": [
+        "1 s.d. 2 Bed + Sofa Family",
+        "Smart TV & Wi Fi Pribadi",
+        "Kamar Mandi Bathub",
+        "Meal Menu Pilihan"
+      ]
+    },
+    {
+      "id": "perinaud",
+      "nama": "Perinaud & VK",
+      "lantai": "Lt 3",
+      "ikon": "Baby",
+      "kapasitas": "24 Bed",
+      "tarif": "Umum & BPJS",
+      "deskripsi": "Area kebidanan: antenatal risiko tinggi, ruang bersalin (VK) dengan dokter obsgyn & bidan siaga 24 jam.",
+      "fasilitas": [
+        "Kamar VK Personal",
+        "Fetal Monitor Kontinyu",
+        "Ruang Laktasi",
+        "Rawat Gabung Ibu Bayi"
+      ]
+    }
+  ],
+  "intensif": {
+    "nama": "Zonasi Steril & Perawatan Intensif",
+    "lantai": "Lt 3 & Lt 8",
+    "ikon": "ShieldCheck",
+    "deskripsi": "Zona tekanan negatif dan aliran udara laminar untuk memutus rantai infeksi, dipantau IPC (Infection Prevention Control) setiap shift.",
+    "unit": [
+      {
+        "nama": "ICU / HDU",
+        "lantai": "Lt 3",
+        "kapasitas": "20 Bed ICU + 12 HDU",
+        "kunci": "Ventilator Mekanik, USG Point of Care, Monitoring 12 Lead"
+      },
+      {
+        "nama": "NICU / PICU",
+        "lantai": "Lt 3",
+        "kapasitas": "16 Bed",
+        "kunci": "Infant Radiant Warmer, Incubator Isolasi, Surfactant Therapy"
+      },
+      {
+        "nama": "Ruang Isolasi Bertekanan Negatif",
+        "lantai": "Lt 8",
+        "kapasitas": "12 Bed",
+        "kunci": "Airborne Infection Isolation Room (AIIR), HEPA Filter, Anteroom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "laboratorium-medis": {
+    "nama": "Medical Laboratory",
+    "tagline": "A central laboratory on standby 24/7, fully automated with results integrated into the electronic medical record.",
+    "paragraf": [
+      "The Medical Laboratory of RS Medistra Horizon fulfils the in vitro diagnostic needs of both outpatients and inpatients. On every shift a STR certified analyst works alongside automated haematology and clinical chemistry systems, shortening turnaround time without compromising accuracy.",
+      "Every stage, pre analytical, analytical and post analytical, sits under internal quality control with external quality evaluation. Critical values are reported directly to the responsible physician within 15 minutes of verification, and results are accessible through the hospital information system."
+    ],
+    "fitur": [
+      "Full blood count & coagulation profile",
+      "Clinical chemistry and immuno serology",
+      "Culture & antibiotic sensitivity testing",
+      "Urinalysis and basic toxicology",
+      "Emergency tests: troponin, D dimer, blood gases",
+      "MCU screening panels & pre operative workup"
+    ],
+    "lokasi": "Ground Floor, Central Laboratory, North Wing",
+    "jam": "24 Hours",
+    "akreditasi": "ISO 15189"
+  },
+  "ugd": {
+    "nama": "Emergency Unit",
+    "tagline": "An emergency department on standby around the clock, with standardised triage and a rapid response team.",
+    "paragraf": [
+      "The Emergency Unit is the hospital's entry point for emergency care and operates without interruption all day. Every patient passes a four level triage performed by a certified emergency nurse, so the order of treatment is set by the severity of the condition, not by arrival time.",
+      "The resuscitation room holds two emergency beds, a defibrillator, a transport ventilator and point of care laboratory testing. Doctor wait time for red category patients is kept under five minutes, with a direct communication line to the relevant specialist so that onward decisions are not delayed."
+    ],
+    "fitur": [
+      "4 level triage (red, yellow, green, blue)",
+      "Trauma & cardiac resuscitation room",
+      "Rapid on site laboratory and imaging tests",
+      "Duty doctor & code blue team 24 hours",
+      "Ambulance lane with a covered unloading bay",
+      "Referral in and out coordination"
+    ],
+    "lokasi": "Ground Floor, North Wing, Direct Access from the Ambulance Bay",
+    "jam": "24 Hours",
+    "akreditasi": "Ministry standard ED"
+  },
+  "radiologi": {
+    "nama": "Radiology",
+    "tagline": "Advanced diagnostic imaging read by sub specialist radiologists, with measured radiation protection.",
+    "paragraf": [
+      "The Radiology Department offers imaging from digital radiography and ultrasound up to 128 slice CT and 1.5 Tesla MRI. All equipment is calibrated periodically and radiation dose is optimised under the ALARA principle, with personnel dosimetry reported every three months.",
+      "A first read is available the same day for outpatient cases and within 30 minutes for emergencies such as stroke, head trauma or pulmonary embolism. A second opinion from a neuroradiology or musculoskeletal sub specialist can be scheduled at the referring doctor's request."
+    ],
+    "fitur": [
+      "128 Slice CT & CT angiography",
+      "1.5 Tesla MRI",
+      "4D ultrasound & Doppler studies",
+      "Digital mammography & DXA densitometry",
+      "Fluoroscopy with intraoperative C arm",
+      "Teleradiology & digital results via SIMRS"
+    ],
+    "lokasi": "Ground Floor, Diagnostic Imaging Center, South Wing",
+    "jam": "Mon to Sat 07:00 to 21:00 · Emergency CT 24 hours",
+    "akreditasi": "BAPETEN licence"
+  },
+  "fisioterapi": {
+    "nama": "Physiotherapy",
+    "tagline": "Gradual medical rehabilitation to restore movement, function and patient independence.",
+    "paragraf": [
+      "The Physiotherapy Unit occupies a 300 m² space divided into exercise areas, manual therapy, electrotherapy modalities and a temperature controlled hydrotherapy pool. Each programme is set after an initial assessment by a rehabilitation medicine specialist together with the physiotherapist, then re evaluated every four sessions.",
+      "We treat recovery after orthopaedic surgery, stroke, sports injury and chronic pain, as well as cardiorespiratory rehabilitation after severe illness. Therapists also run home visit programmes and posture education classes for office workers, so the results hold once the clinical sessions end."
+    ],
+    "fitur": [
+      "Manual therapy & joint mobilisation",
+      "Electrotherapy: TENS, ultrasound, laser",
+      "Hydrotherapy pool",
+      "Gait, balance and functional training",
+      "Post hospitalisation cardiorespiratory rehab",
+      "Speech and occupational therapy"
+    ],
+    "lokasi": "5th Floor South Wing, Physiotherapy & Rehabilitation Center",
+    "jam": "Mon to Sat 08:00 to 20:00",
+    "akreditasi": "Licensed physiotherapists"
+  },
+  "hemodialisa": {
+    "nama": "Haemodialysis",
+    "tagline": "A dialysis unit with individual machines, certified treated water and nephrologist oversight.",
+    "paragraf": [
+      "The Haemodialysis Unit serves chronic kidney disease patients as well as acute kidney episodes with twelve high flux dialysis machines. All process water passes a two stage reverse osmosis system that is tested monthly for endotoxin and chemical parameters, in line with dialysis safety standards.",
+      "Every patient has a documented dry weight, a monitored vascular access and a review schedule with an internist consultant nephrologist. Dialysis catheter insertion and arteriovenous access creation are performed in a procedure room coordinated with vascular surgery."
+    ],
+    "fitur": [
+      "12 high flux haemodialysis machines",
+      "HDF (haemodiafiltration) for selected patients",
+      "Two stage reverse osmosis water treatment",
+      "Continuous vital sign monitoring during sessions",
+      "AVF/AVG access creation & maintenance",
+      "Kidney diet and fluid control education"
+    ],
+    "lokasi": "2nd Floor South Wing, Kidney Center",
+    "jam": "Mon/Wed/Fri 06:00 to 14:00 · Tue/Thu/Sat 13:00 to 21:00",
+    "akreditasi": "Licensed dialysis provider"
+  },
+  "kemoterapi": {
+    "nama": "Chemotherapy",
+    "tagline": "Planned oncology treatment in a day care ward, with sterile drug preparation and oncology nurses.",
+    "paragraf": [
+      "The Chemotherapy Unit delivers anti cancer drugs, targeted therapy and immunotherapy on a day care basis. Regimens are compounded by an oncology pharmacist inside a sterile compounding room with a biological safety cabinet, then double checked before reaching the bedside by a chemotherapy certified nurse.",
+      "Before every cycle the patient is reviewed by an internal medicine consultant haematologist oncologist, including blood work and organ function. Side effects are handled through a 24 hour contact line, while psycho oncology support and patient groups are available at no extra charge."
+    ],
+    "fitur": [
+      "8 day care recliners with partial privacy",
+      "Sterile compounding by an oncology pharmacist",
+      "Cytotoxic safety & spill response protocol",
+      "Monitoring for infusion and extravasation reactions",
+      "Psycho oncology counselling",
+      "Multidisciplinary tumour board coordination"
+    ],
+    "lokasi": "5th Floor, Oncology Day Care",
+    "jam": "Mon to Sat 08:00 to 18:00",
+    "akreditasi": "Accredited oncology unit"
+  },
+  "endoskopi": {
+    "nama": "Endoscopy",
+    "tagline": "Gastrointestinal and biliary examination with high resolution endoscopes and monitored sedation.",
+    "paragraf": [
+      "The Endoscopy Unit performs diagnostic and therapeutic procedures of the digestive tract: gastroscopy, colonoscopy and ERCP. The video endoscopy equipment is paired with an automatic endoscope reprocessor that leak tests every cycle, the infection control standard for invasive procedures.",
+      "Sedated procedures are supervised by an anaesthesiologist and stopped if safety parameters are not met. Biopsy, polypectomy, variceal ligation and stent placement can be done in the same session, so the patient does not have to repeat the preparation."
+    ],
+    "fitur": [
+      "Diagnostic gastroscopy & colonoscopy",
+      "Polypectomy and immediate biopsy",
+      "ERCP & sphincterotomy",
+      "Emergency foreign body removal",
+      "Oesophageal variceal ligation",
+      "Sedation with anaesthetic monitoring"
+    ],
+    "lokasi": "3rd Floor North Wing, Endoscopy Suite",
+    "jam": "Mon to Fri 07:30 to 15:30 · Emergency procedures on call",
+    "akreditasi": "Endoscopy procedure room"
+  },
+  "ruang-operasi": {
+    "nama": "Operating Theatre",
+    "tagline": "A central operating theatre with positive pressure rooms and an anaesthesia team on standby 24/7.",
+    "paragraf": [
+      "The Central Operating Theatre runs four surgical rooms, including one orthopaedic room with a C arm and one negative pressure room for infectious cases. Floors, walls and the air handling system are specified for easy cleaning and maintained to Class A hygiene standards.",
+      "Every procedure opens with a surgical safety confirmation: patient identity, site and procedure verified, together with an anaesthetic risk assessment by the anaesthesiologist. Intraoperative monitoring covers ECG, oxygen saturation, capnography and, in selected cases, invasive blood pressure."
+    ],
+    "fitur": [
+      "4 positive pressure operating rooms",
+      "Negative pressure isolation theatre",
+      "General, regional and sedation anaesthesia",
+      "C arm & mono/bipolar electrosurgery",
+      "WHO Surgical Safety Checklist",
+      "Recovery room with individual monitors"
+    ],
+    "lokasi": "3rd Floor North Wing, Central Operating Theatre",
+    "jam": "Scheduled surgery 24 hours · Pre op review Mon to Fri",
+    "akreditasi": "Class A hygiene"
+  },
+  "nicu": {
+    "nama": "NICU",
+    "tagline": "Intensive care for newborns with controlled incubators and family accompaniment.",
+    "paragraf": [
+      "The Neonatal Intensive Care Unit treats premature babies, very low birth weight infants and newborns needing respiratory support or observation after a procedure. Ten incubators with temperature and humidity control, four radiant warmers, plus neonatal CPAP and ventilators are available.",
+      "The team is led by a paediatrician consultant neonatologist on 24 hour duty together with nurses certified in neonatal intensive care. Parents are involved through family centred care, including kangaroo mother method education, lactation support and growth follow up after discharge."
+    ],
+    "fitur": [
+      "10 incubators with climate control",
+      "Neonatal CPAP and ventilators",
+      "Retinopathy of prematurity (ROP) screening",
+      "Point of care blood & bilirubin testing",
+      "Kangaroo care & lactation counselling",
+      "Transport incubator neonatal referrals"
+    ],
+    "lokasi": "6th Floor North Wing, NICU & Perinatology",
+    "jam": "24 Hours · Visits on a twice daily schedule",
+    "akreditasi": "Integrated perinatology"
+  },
+  "icu-hdu": {
+    "nama": "ICU / HDU",
+    "tagline": "Critical care and step down care with strict nurse to patient ratios and haemodynamic monitoring.",
+    "paragraf": [
+      "The Intensive Care Unit provides twelve beds for life threatening conditions that need organ support, mechanical ventilation, vasoactive drugs or invasive monitoring. An intensivist keeps a 24 hour rotation and therapeutic decisions are made as a team together with the patient's responsible physician.",
+      "The High Dependency Unit is the step down stage between ICU and a regular inpatient ward. HDU patients remain under continuous monitoring but at a lower intensity of intervention, so the critical phase is passed without consuming the limited ICU capacity."
+    ],
+    "fitur": [
+      "Negative pressure isolation beds",
+      "Invasive & non invasive ventilators",
+      "Haemodynamic monitors & calibrated infusion pumps",
+      "Continuous renal replacement therapy (CRRT)",
+      "Nurse : patient ratio 1:2 (ICU) and 1:3 (HDU)",
+      "Prevention of VAP, CLABSI and pressure ulcers"
+    ],
+    "lokasi": "3rd Floor North Wing, Critical Care Center",
+    "jam": "24 Hours · Visits 16:00 to 17:30",
+    "akreditasi": "Standardised critical care"
+  },
+  "kantin": {
+    "nama": "Canteen",
+    "tagline": "Staff and visitor canteen serving nutritious, affordable food under supervised food hygiene standards.",
+    "paragraf": [
+      "The hospital canteen serves employees, on duty doctors and patients' families throughout the day. Menus are rotated by the dietetics unit so that low sugar, low salt and lean protein options are always available, not just fast food. The dining area separates the staff and visitor canteens so queues never pile up during rush hours.",
+      "Service follows food hygiene and sanitation principles: stainless equipment is cleaned after every serving turn, hot food is held above 60 °C, and each batch is kept as a test sample for 24 hours. Food handlers hold hygiene training certificates and undergo periodic medical checks."
+    ],
+    "fitur": [
+      "Rotating menus designed by the dietetics unit",
+      "Separate staff and visitor canteens",
+      "Low sugar and low salt diet options",
+      "Hot food held above 60 °C",
+      "24 hour retained food samples",
+      "Dining area disinfected every serving turn"
+    ],
+    "lokasi": "Ground Floor South Wing, Main Canteen Area",
+    "jam": "Mon Sun 06:30 to 20:00",
+    "akreditasi": "Food hygiene & sanitation certificate"
+  },
+  "staf-pastry": {
+    "nama": "Pastry Staff",
+    "tagline": "The pastry and bakery unit behind diet bread, institutional event refreshments and special patient orders.",
+    "paragraf": [
+      "The pastry staff bake bread and cakes for the canteen, official hospital events and special orders from patients' families. Because it works inside a healthcare facility, the recipes are adapted: wholemeal low sugar bread for diabetic patients, soft pastry for patients recovering from mouth or throat procedures, and nut free cakes for patients with a history of allergies.",
+      "Production runs in a separate positive pressure room with a documented cold chain. Every ingredient is logged by batch and expiry date, work surfaces are disinfected before and after production, and deliveries to patient areas use closed containers so nothing touches corridor dust."
+    ],
+    "fitur": [
+      "Low sugar bread & cakes for diabetic patients",
+      "Soft pastry for post procedure patients",
+      "Nut free and gluten free variants on request",
+      "Documented cold chain and production dates",
+      "Separate positive pressure production room",
+      "Closed container delivery to patient areas"
+    ],
+    "lokasi": "Ground Floor South Wing, Nutrition & Pastry Kitchen",
+    "jam": "Mon to Sat 07:00 to 17:00",
+    "akreditasi": "Food hygiene certificate"
+  },
+  "sterilisasi": {
+    "nama": "Medical Equipment Sterilisation",
+    "tagline": "A one way CSSD flow: dirty instruments never cross paths with clean ones.",
+    "paragraf": [
+      "The Central Sterile Supply Department receives, washes, packs, sterilises and distributes every surgical instrument and reusable device in the hospital. The room layout runs one way from the dirty zone to the clean zone, separated by walls and air pressure differences, so cross contamination is prevented structurally.",
+      "Each pack carries a batch code and an expiry date. Sterilisation effectiveness is monitored through physical indicators, a chemical indicator on every pack and a biological indicator on every cycle; all results are logged and traceable should a procedure related infection occur. Instruments that fail a test are quarantined and never released to a unit."
+    ],
+    "fitur": [
+      "Ultrasonic instrument washer & washer disinfector",
+      "Steam autoclave & plasma steriliser",
+      "Batch sealing with traceable labelling",
+      "Chemical indicator per pack, biological per cycle",
+      "Separate dirty clean sterile room zones",
+      "Sterile store with humidity control"
+    ],
+    "lokasi": "3rd Floor South Wing, Central Sterile Supply Department (CSSD)",
+    "jam": "24 Hours, aligned with the surgical schedule",
+    "akreditasi": "Standardised CSSD"
+  },
+  "laundry": {
+    "nama": "Laundry",
+    "tagline": "A segregated medical laundry: infectious linen is washed at high temperature and disinfected.",
+    "paragraf": [
+      "The Laundry Installation processes dirty linen from every unit with a strict separation between general linen, patient linen and infectious linen. Infectious linen is bagged in a water soluble bag from the ward onwards, so there is no manual contact during sorting and washing.",
+      "The wash cycle uses a tunnel washer with a thermal disinfection stage at a minimum of 71°C for 25 seconds, followed by weighing, drying and ironing. Clean linen is stored on closed shelves and delivered in trolleys kept apart from the dirty trolleys, so the clean and dirty routes never cross."
+    ],
+    "fitur": [
+      "Tunnel washer with thermal disinfection",
+      "Soluble bags for infectious linen",
+      "Separate dirty and clean delivery routes",
+      "Regular water quality & chlorine residue testing",
+      "Clean linen stored on closed shelving",
+      "Per unit linen weighing and tracking"
+    ],
+    "lokasi": "Ground Floor South Wing, Laundry & Sorting Room",
+    "jam": "Mon to Sat 06:00 to 18:00",
+    "akreditasi": "Standardised laundry"
+  },
+  "staf-it": {
+    "nama": "IT Staff",
+    "tagline": "The team that keeps SIMRS, the electronic medical record and patient data security running.",
+    "paragraf": [
+      "The Information Technology Unit manages the hospital's network infrastructure, servers and clinical applications, from the hospital information system (SIMRS) and electronic medical records to the laboratory and radiology interfaces (PACS) and online registration channels. System availability is watched on a dashboard, with a recovery time objective tested through quarterly simulations.",
+      "Patient data confidentiality is protected by tiered access rights, encrypted application traffic, audit logs and mandatory information security training for all staff. The unit also governs technology management and personal data protection compliance across the hospital."
+    ],
+    "fitur": [
+      "Helpdesk support for every unit",
+      "24 hour server & network monitoring",
+      "LIS, RIS/PACS and cashier integration",
+      "Tiered access rights & audit logs",
+      "Daily backup with regular restore testing",
+      "Data security education for staff"
+    ],
+    "lokasi": "Ground Floor South Wing, IT & SIMRS Office",
+    "jam": "Mon to Sat 07:00 to 19:00 · Emergency support 24 hours",
+    "akreditasi": "ISO 27001"
+  },
+  "staf-operasional": {
+    "nama": "Other Operational Staff",
+    "tagline": "The administration, logistics and quality gears that keep clinical services on time.",
+    "paragraf": [
+      "The operational staff group covers medical records, asset and medical logistics management, procurement, finance, insurance and BPJS billing, up to the quality management and patient safety unit. Their work is rarely visible to patients, yet it decides whether medicine is in stock, claims are not delayed and equipment is always ready to use.",
+      "Each process runs on a written procedure with performance indicators reviewed at the monthly management review meeting. Complaints from patients and staff alike become improvement input that is tracked until fully closed in the hospital quality management system."
+    ],
+    "fitur": [
+      "Medical records & ICD 10 diagnostic coding",
+      "Procurement and medical logistics warehousing",
+      "Guarantee verification & insurance/BPJS claims",
+      "Quality management & patient safety",
+      "Facility maintenance & asset management",
+      "Incident reporting and root cause analysis"
+    ],
+    "lokasi": "8th Floor South Wing, Management & Operations Office",
+    "jam": "Mon to Fri 08:00 to 16:00",
+    "akreditasi": "Clinical & administrative governance"
+  },
+  "staf-keamanan": {
+    "nama": "Hospital Security Staff",
+    "tagline": "Physical security, ambulance traffic control and early emergency response.",
+    "paragraf": [
+      "The Security Team guards the whole hospital through an integrated post, scheduled patrols and camera monitoring at 64 points. Its main focus is keeping the ambulance lane clear at all times, controlling access to critical areas such as the ICU, NICU and operating theatre, and preventing potential violence in the waiting rooms.",
+      "All officers are trained in disaster response procedures, multi storey building evacuation and security threat handling. They are also the first service point for confused patient families, so visitors are directed to the right unit without losing critical time."
+    ],
+    "fitur": [
+      "Integrated post & 24 hour CCTV monitoring",
+      "Ambulance vehicle access control",
+      "Patrols of critical areas & narcotic storage",
+      "Code red, code blue and evacuation procedures",
+      "Bag checks at the main gate",
+      "Disaster drill twice a year"
+    ],
+    "lokasi": "Security Post, Main Gate & Lobby",
+    "jam": "24 Hours, 3 shifts",
+    "akreditasi": "Gada Pratama certified officers"
+  },
+  "staf-housekeeping": {
+    "nama": "Hospital Housekeeping Staff",
+    "tagline": "Environmental cleaning, infection control and medical waste handling across every area.",
+    "paragraf": [
+      "Housekeeping carries out both routine cleaning and terminal cleaning of procedure rooms, operating theatres and isolation rooms. A colour code system on cloths and mops distinguishes dirty zones from clean ones, while disinfectants are chosen to suit the surface and the manufacturer's recommended contact time.",
+      "Waste is separated at the point of generation: infectious medical waste, sharps, cytotoxic waste and domestic waste each go into labelled containers collected at different times. This lowers the risk of needle stick injury and prevents environmental contamination around the hospital."
+    ],
+    "fitur": [
+      "Terminal cleaning of theatres & isolation rooms",
+      "Colour coded cleaning equipment per risk zone",
+      "Handling of hazardous medical waste & sharps",
+      "Guideline based surface and air disinfection",
+      "Vector control & canteen area sanitation",
+      "Cleaning audits with a checklist form"
+    ],
+    "lokasi": "Cleaning Service Unit, All Floors",
+    "jam": "24 Hours with scheduled terminal cleaning",
+    "akreditasi": "Environmental infection control"
+  },
+  "taman-bermain": {
+    "nama": "Mini Children's Playground",
+    "tagline": "A child friendly play space in the waiting area, with disinfected equipment within sight of staff.",
+    "paragraf": [
+      "The Mini Children's Playground exists to ease a child's anxiety before an examination or while a parent finishes administration. The floor is padded with shock absorbing rubber, play equipment is chosen without sharp edges, and the area stays within sight of the nurses' station so it is easy to supervise.",
+      "Equipment is cleaned and disinfected at least twice a day, with a monthly wear inspection of every component. We ask that children remain accompanied, remove their shoes, and cover their mouth when coughing in the play area so shared cleanliness is maintained."
+    ],
+    "fitur": [
+      "Shock absorbing rubber flooring",
+      "Educational toys & a children's reading corner",
+      "Equipment disinfected twice daily",
+      "Adjoining breastfeeding room",
+      "Visual supervision from the nurses' station",
+      "Shoe free and smoke free zone"
+    ],
+    "lokasi": "5th Floor North Wing, Children's Playground Area",
+    "jam": "Daily 08:00 to 20:00",
+    "akreditasi": "Child friendly area"
+  }
+}

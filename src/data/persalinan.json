@@ -1,0 +1,38 @@
+{
+  "nomor_wa": "6281267890123",
+  "nomor_wa_tampil": "+62 812 6789 0123",
+  "paket": [
+    {
+      "id": "melahirkan-normal",
+      "nama": "Paket Melahirkan Normal",
+      "tagline": "Persalinan nyaman dengan kamar VIP & inisiasi menyusu dini",
+      "harga": 7850000,
+      "popular": false,
+      "fasilitas": [
+        "Kamar VIP 3 hari 2 malam (1 pendamping)",
+        "Aksi persalinan oleh dokter obsgyn",
+        "Inisiasi Menyusu Dini (IMD) & HBID",
+        "Perawatan bayi baru lahir & vitamin K1",
+        "Skrining bayi baru lahir",
+        "Edukasi laktasi pra pulang",
+        "Kontrol nifas 1x"
+      ]
+    },
+    {
+      "id": "melahirkan-caesar",
+      "nama": "Paket Melahirkan Caesar",
+      "tagline": "Sectio caesarea terencana dengan tim bedah lengkap",
+      "harga": 18500000,
+      "popular": false,
+      "fasilitas": [
+        "Operasi caesar oleh dokter obsgyn & anestesi",
+        "Kamar VIP 4 hari 3 malam (1 pendamping)",
+        "Perawatan bayi baru lahir & vitamin K1",
+        "Skrining bayi baru lahir",
+        "Laboratorium pra operasi",
+        "Obat & bahan habis pakai selama perawatan",
+        "Kontrol nifas 2x"
+      ]
+    }
+  ]
+}

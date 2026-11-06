@@ -1,0 +1,123 @@
+{
+  "mitra": [
+    {
+      "id": "bpjs-kesehatan",
+      "nama": "BPJS Kesehatan",
+      "inisial": "BJS",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg emerald 100 text emerald 700"
+    },
+    {
+      "id": "prudential",
+      "nama": "Prudential Indonesia",
+      "inisial": "PRU",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg violet 100 text violet 700"
+    },
+    {
+      "id": "allianz",
+      "nama": "Allianz Life",
+      "inisial": "ALZ",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg blue 100 text blue 700"
+    },
+    {
+      "id": "manulife",
+      "nama": "Manulife",
+      "inisial": "MNL",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg red 100 text red 700"
+    },
+    {
+      "id": "aia",
+      "nama": "AIA Financial",
+      "inisial": "AIA",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg sky 100 text sky 700"
+    },
+    {
+      "id": "axa-mandiri",
+      "nama": "AXA Mandiri",
+      "inisial": "AXA",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg indigo 100 text indigo 700"
+    },
+    {
+      "id": "sinarmas",
+      "nama": "Sinarmas Health",
+      "inisial": "SMH",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg amber 100 text amber 700"
+    },
+    {
+      "id": "fwd",
+      "nama": "FWD Insurance",
+      "inisial": "FWD",
+      "kategori": "Asuransi & Jaminan",
+      "aksen": "bg pink 100 text pink 700"
+    },
+    {
+      "id": "pt-telkom",
+      "nama": "PT Telkom Indonesia",
+      "inisial": "TLKM",
+      "kategori": "Korporat & BUMN",
+      "aksen": "bg orange 100 text orange 700"
+    },
+    {
+      "id": "pln",
+      "nama": "PT PLN (Persero)",
+      "inisial": "PLN",
+      "kategori": "Korporat & BUMN",
+      "aksen": "bg lime 100 text lime 700"
+    },
+    {
+      "id": "pertamina",
+      "nama": "PT Pertamina",
+      "inisial": "PRTM",
+      "kategori": "Korporat & BUMN",
+      "aksen": "bg rose 100 text rose 700"
+    },
+    {
+      "id": "astra",
+      "nama": "Astra International",
+      "inisial": "ASTR",
+      "kategori": "Korporat & BUMN",
+      "aksen": "bg teal 100 text teal 700"
+    }
+  ],
+  "alur": [
+    {
+      "id": "alur-rujukan",
+      "langkah": 1,
+      "ikon": "Landmark",
+      "judul": "Rujukan Faskes 1",
+      "deskripsi": "Pasien BPJS memperoleh surat rujukan dari Fasilitas Kesehatan Tingkat Pertama (Puskesmas/Klinik) yang terdaftar, kecuali kasus darurat yang langsung ditangani di IGD."
+    },
+    {
+      "id": "alur-pendaftaran",
+      "langkah": 2,
+      "ikon": "ClipboardCheck",
+      "judul": "Pendaftaran & Verifikasi",
+      "deskripsi": "Tunjukkan KTP, kartu BPJS/KIS, dan surat rujukan di loket Pendaftaran Lt 1 atau konfirmasikan lewat aplikasi Mobile JKN. Verifikasi eligibilitas kepesertaan dilakukan secara realtime."
+    },
+    {
+      "id": "alur-rawat-inap",
+      "langkah": 3,
+      "ikon": "BedDouble",
+      "judul": "Rawat Inap Zonasi BPJS (Lt 3)",
+      "deskripsi": "Bila diperlukan perawatan inap, pasien ditempatkan pada kamar standar KRIS di Zonasi Lt 3 sesuai indikasi medis, tanpa biaya tambahan selama hak dan kelas penjaminan terpenuhi."
+    }
+  ],
+  "ketentuan": [
+    "Surat rujukan berjenjang dari Faskes 1 yang terdaftar (kecuali keadaan darurat medis dapat langsung ditangani di IGD).",
+    "Kartu KIS / BPJS Kesehatan aktif atas nama pasien, status kepesertaan diverifikasi saat pendaftaran.",
+    "Perawatan mengacu pada Clinical Pathway dan standar tarif nasional INA CBG, tanpa iur biaya di kamar standar KRIS.",
+    "Bila obat esensial atau alat kesehatan tertentu tidak tersedia, pihak petugas admisi akan memberi edukasi prosedur rujukan silang.",
+    "Pulang atas indikasi medis atau permintaan sendiri (APS) wajib ditandatangani keluarga dan Tim BPJS Care Center."
+  ],
+  "kontak": {
+    "email": "kemitraan@medistrahorizon.co.id",
+    "telepon": "(061) 456 7890",
+    "lokasi": "Direktur Kerjasama & Kemitraan, Lt 9, Tower Administration"
+  }
+}

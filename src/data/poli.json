@@ -1,0 +1,242 @@
+[
+  {
+    "id": "poli-penyakit-dalam",
+    "nama_poli": "Poli Penyakit Dalam",
+    "nama_poli_en": "Internal Medicine Clinic",
+    "ikon": "Stethoscope",
+    "poli_kunci": "Penyakit Dalam",
+    "kode_antrean": "A",
+    "antrean_awal": 15,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-anak",
+    "nama_poli": "Poli Anak",
+    "nama_poli_en": "Pediatrics Clinic",
+    "ikon": "Baby",
+    "poli_kunci": "Anak",
+    "kode_antrean": "B",
+    "antrean_awal": 8,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-kebidanan",
+    "nama_poli": "Poli Kebidanan & Kandungan (Obgyn)",
+    "nama_poli_en": "Obstetrics & Gynecology Clinic",
+    "ikon": "Flower2",
+    "poli_kunci": "Kebidanan & Kandungan",
+    "kode_antrean": "C",
+    "antrean_awal": 11,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-bedah-umum",
+    "nama_poli": "Poli Bedah Umum",
+    "nama_poli_en": "General Surgery Clinic",
+    "ikon": "Syringe",
+    "poli_kunci": "Bedah Umum",
+    "kode_antrean": "D",
+    "antrean_awal": 6,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-jantung",
+    "nama_poli": "Poli Jantung",
+    "nama_poli_en": "Cardiology Clinic",
+    "ikon": "HeartPulse",
+    "poli_kunci": "Jantung",
+    "kode_antrean": "E",
+    "antrean_awal": 9,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-umum",
+    "nama_poli": "Poli Umum",
+    "nama_poli_en": "General Clinic",
+    "ikon": "Stethoscope",
+    "poli_kunci": "Poli Umum",
+    "kode_antrean": "F",
+    "antrean_awal": 22,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-saraf",
+    "nama_poli": "Poli Saraf",
+    "nama_poli_en": "Neurology Clinic",
+    "ikon": "Brain",
+    "poli_kunci": "Saraf",
+    "kode_antrean": "G",
+    "antrean_awal": 5,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-paru",
+    "nama_poli": "Poli Paru",
+    "nama_poli_en": "Pulmonology Clinic",
+    "ikon": "Wind",
+    "poli_kunci": "Paru",
+    "kode_antrean": "H",
+    "antrean_awal": 4,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-orthopedi",
+    "nama_poli": "Poli Orthopedi",
+    "nama_poli_en": "Orthopedics Clinic",
+    "ikon": "Bone",
+    "poli_kunci": "Orthopedi",
+    "kode_antrean": "I",
+    "antrean_awal": 7,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-tht",
+    "nama_poli": "Poli THT",
+    "nama_poli_en": "ENT Clinic",
+    "ikon": "Ear",
+    "poli_kunci": "THT",
+    "kode_antrean": "J",
+    "antrean_awal": 3,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-mata",
+    "nama_poli": "Poli Mata",
+    "nama_poli_en": "Ophthalmology Clinic",
+    "ikon": "Eye",
+    "poli_kunci": "Mata",
+    "kode_antrean": "K",
+    "antrean_awal": 6,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-urologi",
+    "nama_poli": "Poli Urologi",
+    "nama_poli_en": "Urology Clinic",
+    "ikon": "Droplet",
+    "poli_kunci": "Urologi",
+    "kode_antrean": "L",
+    "antrean_awal": 4,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-bedah-saraf",
+    "nama_poli": "Poli Bedah Saraf",
+    "nama_poli_en": "Neurosurgery Clinic",
+    "ikon": "Scan",
+    "poli_kunci": "Bedah Saraf",
+    "kode_antrean": "M",
+    "antrean_awal": 2,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-bedah-plastik",
+    "nama_poli": "Poli Bedah Plastik",
+    "nama_poli_en": "Plastic Surgery Clinic",
+    "ikon": "Sparkles",
+    "poli_kunci": "Bedah Plastik",
+    "kode_antrean": "N",
+    "antrean_awal": 3,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-kulit",
+    "nama_poli": "Poli Kulit & Kelamin",
+    "nama_poli_en": "Dermatology & Venerology Clinic",
+    "ikon": "Hand",
+    "poli_kunci": "Kulit & Kelamin",
+    "kode_antrean": "O",
+    "antrean_awal": 8,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-jiwa",
+    "nama_poli": "Poli Jiwa (Psikiatri)",
+    "nama_poli_en": "Psychiatry Clinic",
+    "ikon": "Heart",
+    "poli_kunci": "Jiwa",
+    "kode_antrean": "P",
+    "antrean_awal": 5,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-gigi-umum",
+    "nama_poli": "Poli Gigi Umum",
+    "nama_poli_en": "General Dentistry Clinic",
+    "ikon": "Smile",
+    "poli_kunci": "Gigi Umum",
+    "kode_antrean": "Q",
+    "antrean_awal": 17,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-konservasi-gigi",
+    "nama_poli": "Poli Konservasi Gigi",
+    "nama_poli_en": "Conservative Dentistry Clinic",
+    "ikon": "Gem",
+    "poli_kunci": "Konservasi Gigi",
+    "kode_antrean": "R",
+    "antrean_awal": 6,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-bedah-mulut",
+    "nama_poli": "Poli Bedah Mulut",
+    "nama_poli_en": "Oral Surgery Clinic",
+    "ikon": "SmilePlus",
+    "poli_kunci": "Bedah Mulut",
+    "kode_antrean": "S",
+    "antrean_awal": 2,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-tumbuh-kembang",
+    "nama_poli": "Poli Tumbuh Kembang",
+    "nama_poli_en": "Growth & Development Clinic",
+    "ikon": "Puzzle",
+    "poli_kunci": "Tumbuh Kembang",
+    "kode_antrean": "T",
+    "antrean_awal": 9,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-kemoterapi",
+    "nama_poli": "Poli Kemoterapi",
+    "nama_poli_en": "Chemotherapy Day Care",
+    "ikon": "Pill",
+    "poli_kunci": "Kemoterapi",
+    "kode_antrean": "U",
+    "antrean_awal": 4,
+    "butuh_antrean": true
+  },
+  {
+    "id": "poli-rehabilitasi-medik",
+    "nama_poli": "Rehabilitasi Medik",
+    "nama_poli_en": "Rehabilitation Medicine",
+    "ikon": "Accessibility",
+    "poli_kunci": "Rehabilitasi Medik",
+    "kode_antrean": null,
+    "antrean_awal": null,
+    "butuh_antrean": false
+  },
+  {
+    "id": "poli-fisioterapi",
+    "nama_poli": "Fisioterapi",
+    "nama_poli_en": "Physiotherapy",
+    "ikon": "Dumbbell",
+    "poli_kunci": "Fisioterapi",
+    "kode_antrean": null,
+    "antrean_awal": null,
+    "butuh_antrean": false
+  },
+  {
+    "id": "poli-gizi-klinis",
+    "nama_poli": "Gizi Klinis",
+    "nama_poli_en": "Clinical Nutrition",
+    "ikon": "Apple",
+    "poli_kunci": "Gizi Klinis",
+    "kode_antrean": null,
+    "antrean_awal": null,
+    "butuh_antrean": false
+  }
+]

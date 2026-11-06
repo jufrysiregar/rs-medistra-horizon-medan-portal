@@ -1,0 +1,195 @@
+[
+  {
+    "slug": "promo-mcu",
+    "type": "promo",
+    "title": "Promo Paket Medical Check-Up (Investasi Terbaik untuk Kesehatan Anda & Keluarga)",
+    "date": "Berlaku Selama Bulan Ini",
+    "location": "Center MCU Lt 2",
+    "description": "Investasi terbaik untuk kesehatan Anda & keluarga. Tersedia tiga tingkatan paket pemeriksaan, mulai dari screening dasar hingga paket premium dengan rontgen dan USG. Seluruh harga promo sudah termasuk konsultasi dokter dan penjelasan hasil pemeriksaan.",
+    "image_fit": "contain",
+    "image_alt": "Poster promo medical check-up RS Medistra Horizon Medan",
+    "cta_label": "Booking via WhatsApp",
+    "cta_link": "https://wa.me/6281280000911?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20booking%20paket%20Medical%20Check-Up",
+    "rincian": [
+      {
+        "nama": "Paket Dasar",
+        "harga": 249000,
+        "hargaCoret": 450000,
+        "item": ["Konsultasi dokter umum", "Gula darah puasa", "Asam urat", "Kolesterol total", "Tensi & pemeriksaan fisik"]
+      },
+      {
+        "nama": "Paket Jantung & Metabolik",
+        "harga": 599000,
+        "hargaCoret": 1100000,
+        "item": [
+          "Seluruh manfaat Paket Dasar",
+          "EKG (rekam jantung)",
+          "Fungsi ginjal (ureum/kreatinin)",
+          "Fungsi hati (SGOT/SGPT)",
+          "Kolesterol lengkap (HDL/LDL/trigliserida)"
+        ]
+      },
+      {
+        "nama": "Paket Lengkap (Premium)",
+        "harga": 999000,
+        "hargaCoret": 1950000,
+        "item": [
+          "Seluruh manfaat Paket Jantung & Metabolik",
+          "Hematologi lengkap",
+          "Urine lengkap",
+          "Foto rontgen thorax",
+          "USG abdomen"
+        ]
+      }
+    ],
+    "catatan": [
+      "Khusus pasien umum & jaminan pribadi",
+      "Wajib puasa 10-12 jam sebelum pemeriksaan",
+      "Harga promo berlaku selama kuota paket bulan ini masih tersedia"
+    ],
+    "kontak": "Booking & informasi: WhatsApp 0812-8000-0911 | Telepon (061) 1500247"
+  },
+  {
+    "slug": "promo-mata",
+    "type": "promo",
+    "title": "Paket Cek Kesehatan Mata (Deteksi Dini untuk Penglihatan yang Lebih Jelas)",
+    "date": "Berlaku Setiap Hari Kerja (Senin s.d. Sabtu)",
+    "location": "Poli Mata, Lt 2 North Wing",
+    "description": "Deteksi dini untuk penglihatan yang lebih jelas. Tiga paket pemeriksaan mata tersedia, mulai dari tes tajam penglihatan hingga pemeriksaan menyeluruh saraf mata dan lapang pandang, dikerjakan oleh dokter spesialis mata dengan peralatan medis modern serta proses yang cepat dan nyaman.",
+    "image_fit": "contain",
+    "image_alt": "Poster promo paket pemeriksaan kesehatan mata",
+    "cta_label": "Daftar via WhatsApp",
+    "cta_link": "https://wa.me/62614567890?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20Pemeriksaan%20Mata",
+    "rincian": [
+      {
+        "nama": "Paket Basic",
+        "harga": 150000,
+        "item": ["Pemeriksaan visus (ketajaman mata)", "Konsultasi dokter umum", "Pemeriksaan buta warna"]
+      },
+      {
+        "nama": "Paket Populer / Screening",
+        "harga": 250000,
+        "item": [
+          "Pemeriksaan visus & refraksi",
+          "Konsultasi dokter spesialis mata",
+          "Tes tekanan bola mata (tonometri)",
+          "Pemeriksaan buta warna"
+        ]
+      },
+      {
+        "nama": "Paket Lengkap (Comprehensive)",
+        "harga": 450000,
+        "item": [
+          "Seluruh layanan Paket Screening",
+          "Pemeriksaan saraf mata (funduskopi)",
+          "Pemeriksaan lapang pandang",
+          "Konsultasi mendalam dengan dokter spesialis mata"
+        ]
+      }
+    ],
+    "catatan": [
+      "Ditangani dokter spesialis berpengalaman dengan peralatan medis modern dan akurat",
+      "Proses pemeriksaan cepat dan nyaman",
+      "Melayani pasien umum, BPJS Kesehatan, dan asuransi mitra"
+    ],
+    "kontak": "Lokasi: Jl. Balai Kota No. 1, Kesawan, Medan"
+  },
+  {
+    "slug": "promo-gigi",
+    "type": "promo",
+    "title": "Promo Senyum Sehat: Diskon Spesial Perawatan & Pembersihan Gigi",
+    "date": "Berlaku Sepanjang Bulan November 2026",
+    "location": "Poli Gigi & Mulut",
+    "description": "Perawatan dan pembersihan gigi oleh Dokter Spesialis Gigi (Sp.KG) dan Dokter Gigi Umum berpengalaman, menggunakan alat ultrasonik modern yang minim rasa sakit.",
+    "image_fit": "contain",
+    "image_alt": "Poster promo senyum sehat perawatan dan pembersihan gigi RS Medistra Horizon Medan",
+    "cta_label": "Daftar via WhatsApp",
+    "cta_link": "https://wa.me/6281299887766?text=Halo%20RS%20Medistra%20Horizon%2C%20saya%20ingin%20daftar%20Promo%20Senyum%20Sehat%20(perawatan%20%26%20pembersihan%20gigi)",
+    "rincian": [
+      {
+        "nama": "Paket Scaling & Polishing (Pembersihan Karang Gigi)",
+        "harga": 229000,
+        "hargaCoret": 450000,
+        "item": [
+          "Pembersihan karang gigi (scaling)",
+          "Pemolesan gigi (polishing)",
+          "Dikerjakan dengan alat ultrasonik modern yang minim rasa sakit"
+        ]
+      },
+      {
+        "nama": "Paket Bleaching / Whitening (Pemutihan Gigi)",
+        "harga": 1699000,
+        "hargaCoret": 2500000,
+        "item": [
+          "Pemutihan gigi (whitening)",
+          "Ditangani dokter gigi berpengalaman"
+        ]
+      },
+      {
+        "nama": "Paket Penambalan / Tumpatan Estetik",
+        "item": [
+          "Diskon 20% untuk penambalan gigi berlubang",
+          "Menggunakan bahan komposit berkualitas tinggi"
+        ]
+      }
+    ],
+    "catatan": [
+      "Ditangani langsung oleh Dokter Spesialis Gigi (Sp.KG) dan Dokter Gigi Umum berpengalaman",
+      "Pemeriksaan menggunakan alat ultrasonik modern yang minim rasa sakit",
+      "Diskon 20% berlaku untuk penambalan dengan bahan komposit"
+    ],
+    "kontak": "Pendaftaran & informasi: WhatsApp 0812-9988-7766 | Telepon (061) 1500247 (Jl. Balai Kota No. 1, Medan Barat)"
+  },
+  {
+    "slug": "webinar-stunting",
+    "type": "event",
+    "title": "Webinar Kesehatan Keluarga: \"Peran Nutrisi Tepat dalam Tumbuh Kembang Anak & Pencegahan Stunting\"",
+    "date": "Sabtu, 07 November 2026",
+    "location": "Live Zoom & YouTube (Daring)",
+    "description": "Seminar daring edukatif yang dirancang khusus bagi para orang tua dan ibu hamil. Menghadirkan dokter spesialis anak dan ahli gizi klinis untuk membahas panduan pemberian gizi seimbang serta cara memantau tumbuh kembang anak secara optimal di era modern.",
+    "image_fit": "cover",
+    "image_alt": "Dokter menyampaikan pemaparan kesehatan keluarga di ruang siaran",
+    "cta_label": "Join Zoom Meeting",
+    "cta_link": "https://us02web.zoom.us/j/84261192076?pwd=TnV0cmlzaTIwMjY=",
+    "rincian": [
+      {
+        "nama": "Yang Dibahas dalam Sesi",
+        "item": [
+          "Panduan pemberian gizi seimbang untuk anak dan ibu hamil",
+          "Cara memantau tumbuh kembang anak secara optimal",
+          "Tahapan pencegahan stunting sejak 1.000 hari pertama kehidupan",
+          "Sesi tanya jawab langsung dengan dokter spesialis anak dan ahli gizi klinis"
+        ]
+      }
+    ],
+    "catatan": [
+      "Peserta: orang tua, ibu hamil, dan caregiver",
+      "Kehadiran tercatat otomatis oleh sistem Zoom saat login dengan nama lengkap"
+    ],
+    "kontak": "Meeting ID: 842 6119 2076 | Passcode: Nutrisi2026"
+  },
+  {
+    "slug": "sunat-massal",
+    "type": "event",
+    "title": "Bakti Sosial Sunat Massal Gratis Bersama RS. Medistra Horizon Medan",
+    "date": "Jumat, 30 Oktober 2026 (Pukul 08.00 WIB s.d. Selesai)",
+    "location": "Gedung Serbaguna RS. Medistra Horizon Medan",
+    "description": "Bakti sosial sunat massal gratis bersama tim medis profesional RS. Medistra Horizon Medan. Tindakan dilakukan secara steril di ruang tindakan yang telah disiapkan panitia, dan kuota peserta terbatas sehingga pendaftaran ditutup saat kuota terpenuhi.",
+    "image_fit": "contain",
+    "image_alt": "Poster bakti sosial sunat massal gratis RS Medistra Horizon Medan",
+    "cta_label": "Kuota Terbatas.! Ayo, Segera Daftar",
+    "cta_link": "https://forms.gle/7kQm4VtRzPbN9dLs3",
+    "cta_link_teks": "https://forms.gle/7kQm4VtRzPbN9dLs3",
+    "rincian": [
+      {
+        "nama": "Fasilitas Gratis yang Didapatkan",
+        "item": ["Tindakan sunat", "Obat-obatan & kontrol", "Bingkisan", "Uang saku", "Sarung & peci"]
+      }
+    ],
+    "catatan": [
+      "Khusus anak usia 5-12 tahun",
+      "Wajib membawa Kartu Keluarga (KK)",
+      "Kuota terbatas, pendaftaran ditutup saat kuota terpenuhi"
+    ]
+  }
+]

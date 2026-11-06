@@ -1,0 +1,29 @@
+{
+  "testimoni": [
+    {
+      "profil": "Patient companion, Cardiology Clinic",
+      "teks": "My father had a stent fitted in the Cardiology Clinic and was handled extremely fast from the emergency room. The nurses patiently explained every procedure, and the rooms were spotlessly clean. We do not regret moving to Medistra Horizon."
+    },
+    {
+      "profil": "Executive MCU patient",
+      "teks": "The executive MCU results arrived the same day by email, complete with the consultation schedule. The process was well organized without long queues, ideal for employees with limited leave allowance."
+    },
+    {
+      "profil": "Caesarean delivery, VIP Room",
+      "teks": "I delivered my second child by caesarean here and the experience was far from frightening. The obgyn team contacted the family at every phase of the operation, the VIP room was as comfortable as a hotel, and the lactation consultant was enormously helpful."
+    },
+    {
+      "profil": "BPJS participant, Zoned Inpatient Care",
+      "teks": "I hesitated to come through the BPJS route, but the service was just as friendly. Membership verification took only a few minutes and the KRIS room was decent and clean. Thank you, Level 3!"
+    },
+    {
+      "nama": "Drg. Felicia Wijaya",
+      "profil": "Dental & Orthodontics patient",
+      "teks": "The braces were fitted neatly, with transparent cost estimates from the very first visit. The sterilized equipment always felt brand new, and control appointments were always on time without being strung along."
+    },
+    {
+      "profil": "Patient's family, ICU",
+      "teks": "Updates on my family member's condition in the ICU were always phoned through by the doctor before visiting hours. The nurses were deeply humane. Compassion and care are genuinely felt here."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "lantai": "G",
+    "nama_lantai": "Ground Floor",
+    "north_wing": ["Emergency (UGD)", "Emergency Pharmacy", "24-Hour Laboratory", "Security & CCTV"],
+    "south_wing": ["Canteen & Kitchen", "Laundry & Linen", "Technician Room", "IT / Server Office", "Staff Room"],
+    "titik_kumpul": "Main Parking Area & Front Lobby",
+    "water_treatment": "Ground Floor (Rear Area / South Wing)",
+    "ipal": "Ground Floor (Rear Area / South Wing)",
+    "tps_limbah_b3": "Ground Floor (Rear Area, special access)",
+    "tps_domestik": "Ground Floor (Near Loading Dock)"
+  },
+  {
+    "lantai": "1",
+    "nama_lantai": "Floor 1",
+    "north_wing": ["Main Registration", "General Clinic", "Dental Clinic"],
+    "south_wing": ["Outpatient Pharmacy", "Cashier & Medical Records", "Multipurpose / Meeting Room"]
+  },
+  {
+    "lantai": "2",
+    "nama_lantai": "Floor 2",
+    "north_wing": ["Standard Inpatient / KRIS (North)"],
+    "south_wing": ["Standard Inpatient / KRIS (South)"]
+  },
+  {
+    "lantai": "3",
+    "nama_lantai": "Floor 3",
+    "north_wing": ["Operating Theatre", "ICU", "HDU", "Endoscopy"],
+    "south_wing": ["Central Sterile Supply Department (CSSD)"]
+  },
+  {
+    "lantai": "4",
+    "nama_lantai": "Floor 4 (Not in Operation)",
+    "north_wing": ["-"],
+    "south_wing": ["-"]
+  },
+  {
+    "lantai": "5",
+    "nama_lantai": "Floor 5",
+    "north_wing": ["Paediatric Inpatient Ward", "Paediatric Clinic"],
+    "south_wing": ["Physiotherapy & Rehabilitation Medicine Unit"]
+  },
+  {
+    "lantai": "6",
+    "nama_lantai": "Floor 6",
+    "north_wing": ["NICU", "Lactation Room"],
+    "south_wing": ["Delivery Room (VK)", "Maternity Inpatient Ward"]
+  },
+  {
+    "lantai": "7",
+    "nama_lantai": "Floor 7",
+    "north_wing": ["Internal Medicine Clinic", "Cardiac Clinic", "Neurology Clinic"],
+    "south_wing": ["Satellite Pharmacy", "General Inpatient Ward"]
+  },
+  {
+    "lantai": "8",
+    "nama_lantai": "Floor 8",
+    "north_wing": ["VIP Inpatient Ward"],
+    "south_wing": ["Management Office", "Central Pharmacy Depot"],
+    "catatan_keamanan": "Staff access card for the VIP inpatient ward and management area"
+  },
+  {
+    "lantai": "9",
+    "nama_lantai": "Floor 9 (VVIP Zone)",
+    "north_wing": ["VVIP Presidential Suite"],
+    "south_wing": ["VVIP Lounge", "Private Chef", "Rooftop"]
+  }
+]

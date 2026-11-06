@@ -1,0 +1,274 @@
+{
+  "profil": {
+    "nama_rs": "Medistra Horizon Hospital Medan",
+    "sejarah": [
+      "Medistra Horizon began operations on 26 October 2026 as a Type B private general hospital in the heart of Medan, on a mission to deliver internationally graded referral care at a price that stays affordable for families across North Sumatra."
+    ],
+    "gedung": [
+      {
+        "judul": "10 Storey Twin Wing Building",
+        "ket": "Two building wings, North and South, joined by a main corridor on every floor."
+      },
+      {
+        "judul": "300+ Beds",
+        "ket": "Standard KRIS inpatient wards, VIP wards and VVIP presidential suites."
+      },
+      {
+        "judul": "Heart & Oncology Flagship Services",
+        "ket": "The cardiac and internal medicine clinics sit on Floor 7 North Wing while the integrated chemotherapy centre runs from Floor 5, linked by a one-stop tumor board referral."
+      },
+      {
+        "judul": "Negative Pressure Sterile Zoning",
+        "ket": "Negative pressure isolation rooms with separate air circulation and lift systems."
+      }
+    ],
+    "visi": "To become the leading and most trusted referral hospital in Western Indonesia with world class service standards.",
+    "misi": "To deliver safe, high quality healthcare that puts patient safety first, and to provide modern medical and supporting facilities.",
+    "misi_poin": [
+      "To deliver holistic, safe healthcare that is oriented towards patient safety.",
+      "To continuously develop the competence of medical and nursing staff to international standards.",
+      "To provide modern and precise facilities, medical technology and diagnostic support.",
+      "To build strategic partnerships with the community and stakeholders to improve regional health standards."
+    ],
+    "nilai": [
+      {
+        "nama": "Integrity",
+        "ket": "Honest, transparent and consistent in applying sound clinical governance."
+      },
+      {
+        "nama": "Compassion",
+        "ket": "Caring for every patient and their family with empathy and humanity."
+      },
+      {
+        "nama": "Accountability",
+        "ket": "Accountable for every clinical action, response time and quality of outcome."
+      },
+      {
+        "nama": "Respect",
+        "ket": "Valuing the privacy, background and rights of patients in every service."
+      },
+      {
+        "nama": "Excellence",
+        "ket": "Continuously raising quality through ongoing education and current technology."
+      }
+    ]
+  },
+  "akreditasi": [
+    {
+      "nama": "KARS Accreditation",
+      "peringkat": "Highest Level"
+    },
+    {
+      "nama": "ISO 27001",
+      "peringkat": "Medical Record Data Security"
+    },
+    {
+      "nama": "ISO 9001:2015",
+      "peringkat": "Service Quality"
+    },
+    {
+      "nama": "Clinical Governance Standard Certificate",
+      "peringkat": "Indonesian Ministry of Health"
+    },
+    {
+      "nama": "KRIS Cooperation",
+      "peringkat": "Classified by the Ministry of Health"
+    },
+    {
+      "nama": "JCI Accreditation Roadmap",
+      "peringkat": "In Progress"
+    }
+  ],
+  "lowongan": [
+    {
+      "posisi": "24 Hour Emergency Nurse",
+      "departemen": "Emergency Unit",
+      "tipe": "Full time · Shift",
+      "lokasi": "Level G, North Wing",
+      "deskripsi": "Handle triage and emergency interventions under the blue, yellow and green codes together with the Code Stroke & Trauma team.",
+      "kualifikasi": [
+        "D3 / Bachelor of Nursing + Ners",
+        "Active practice license (STR)",
+        "BTCLS/ATLS certificate preferred",
+        "Willing to work shifts"
+      ]
+    },
+    {
+      "posisi": "Pharmacist, Pharmacy Installation",
+      "departemen": "Pharmacy Installation",
+      "lokasi": "Level G & Level 3 (Sterile Compounding)",
+      "deskripsi": "Manage sterile IVRS compounding, control essential drug stock, and educate polyclinic patients on rational medicine use.",
+      "kualifikasi": [
+        "Pharmacist profession degree",
+        "Active STRAP license",
+        "PICRA/IVRS experience preferred"
+      ]
+    },
+    {
+      "posisi": "Hospital Information System IT Staff",
+      "departemen": "IT & Electronic Medical Records",
+      "lokasi": "Level 9, Management Office",
+      "deskripsi": "Maintain SIMRS, BPJS V Claim interoperability, ISO 27001 data security and clinical application support.",
+      "kualifikasi": [
+        "Bachelor in Informatics / Information Systems",
+        "Proficient in SQL Server and medical networks",
+        "Understanding of HL7/FHIR preferred"
+      ]
+    },
+    {
+      "posisi": "CT Scan & MRI Radiographer",
+      "departemen": "128 Slice Radiology",
+      "tipe": "Full time · Shift",
+      "lokasi": "Level G, Radiology",
+      "deskripsi": "Carry out advanced imaging procedures including cardiac CTA and neuro MRI with the lowest possible radiation protocol.",
+      "kualifikasi": [
+        "D4 Radiology + active STR",
+        "Radiation protection certificate",
+        "Experienced with CT/MRI modalities"
+      ]
+    },
+    {
+      "posisi": "Medical Records Administrator",
+      "departemen": "Medical Records & Health Information",
+      "tipe": "1 Year Contract (renewal option)",
+      "lokasi": "Level G, North Wing",
+      "deskripsi": "Verify the completeness of electronic medical records, code BPJS INA CBG claims, and serve patient requests for medical summaries.",
+      "kualifikasi": [
+        "D3 Medical Records (RMIK)",
+        "Skilled in ICD 10 & INA CBG coding",
+        "Detail oriented & communicative"
+      ]
+    }
+  ],
+  "denah": {
+    "catatan_lift": "4 lift systems (Public, Bed/Stretcher, VIP, Service)",
+    "lantai": [
+      {
+        "zona": "Emergency, Diagnostics & Service Zone",
+        "north_wing": [
+          { "nama": "24 Hour Emergency & Trauma Center" },
+          { "nama": "Emergency Pharmacy" },
+          { "nama": "24 Hour Central Laboratory" },
+          { "nama": "128 Slice Radiology" },
+          { "nama": "Blood Bank" },
+          { "nama": "Security Post & CCTV" }
+        ],
+        "south_wing": [
+          { "nama": "Canteen & Kitchen" },
+          { "nama": "Laundry & Linen" },
+          { "nama": "Technician Room" },
+          { "nama": "IT & Server Office" },
+          { "nama": "Staff Room" }
+        ]
+      },
+      {
+        "zona": "Registration & Basic Polyclinic Zone",
+        "north_wing": [
+          { "nama": "Main Registration" },
+          { "nama": "General Clinic" },
+          { "nama": "Dental Clinic" }
+        ],
+        "south_wing": [
+          { "nama": "Outpatient Pharmacy" },
+          { "nama": "Cashier & Medical Records" },
+          { "nama": "Multipurpose & Meeting Room" },
+          { "nama": "Auditorium & Seminar Room" }
+        ]
+      },
+      {
+        "zona": "Regular KRIS Inpatient",
+        "north_wing": [
+          { "nama": "KRIS Ward North Wing" },
+          { "nama": "Nurse Station & Family Waiting Room" }
+        ],
+        "south_wing": [
+          { "nama": "KRIS Ward South Wing" },
+          { "nama": "Nurse Station & Clean Pantry" }
+        ]
+      },
+      {
+        "zona": "Surgery & Critical Care Zone",
+        "north_wing": [
+          { "nama": "Operating Theatres (6 rooms)" },
+          { "nama": "ICU" },
+          { "nama": "HDU" },
+          { "nama": "Endoscopy Unit" }
+        ],
+        "south_wing": [
+          { "nama": "Central Sterile Supply Dept. (CSSD)" },
+          { "nama": "Sterile Laundry & Instrument Store" }
+        ]
+      },
+      {
+        "zona": "Floor 4 Not in Operation",
+        "north_wing": [],
+        "south_wing": []
+      },
+      {
+        "zona": "Chemotherapy & Medical Rehabilitation Center",
+        "north_wing": [
+          { "nama": "Paediatric Ward" },
+          { "nama": "Paediatric & Growth Development Clinic" },
+          { "nama": "Integrated Cancer Center (Chemotherapy)" },
+          { "nama": "Tumor Board & Counseling Room" },
+          { "nama": "Children's Playground" }
+        ],
+        "south_wing": [
+          { "nama": "Physiotherapy & Medical Rehabilitation Installation" }
+        ]
+      },
+      {
+        "zona": "Mother, Baby & Maternity Zone",
+        "north_wing": [
+          { "nama": "NICU & Perinatology" },
+          { "nama": "Lactation Room" }
+        ],
+        "south_wing": [
+          { "nama": "Integrated Delivery & Maternity Suite" },
+          { "nama": "Postpartum Ward" }
+        ]
+      },
+      {
+        "zona": "Specialist Clinic & General Inpatient Zone",
+        "north_wing": [
+          { "nama": "Internal Medicine Clinic" },
+          { "nama": "Cardiology Clinic" },
+          { "nama": "Neurology Clinic" },
+          { "nama": "Eye, ENT, Dermatology & Venereology Clinics" },
+          { "nama": "Heart Catheterization Laboratory" },
+          { "nama": "Heart Failure & Stress ECG Clinic" }
+        ],
+        "south_wing": [
+          { "nama": "General Inpatient Ward" },
+          { "nama": "Level 7 Satellite Pharmacy" }
+        ]
+      },
+      {
+        "zona": "VIP & Management Center",
+        "north_wing": [
+          { "nama": "VIP Twin & Single Suites" },
+          { "nama": "Executive Suite & Honeymoon Room" },
+          { "nama": "VIP Nurse Station" }
+        ],
+        "south_wing": [
+          { "nama": "Management & Board Office" },
+          { "nama": "HRD Office" },
+          { "nama": "Boardroom & Medical Committee Room" },
+          { "nama": "Central Pharmacy Depot" }
+        ]
+      },
+      {
+        "zona": "Exclusive VVIP & Rooftop Zone",
+        "north_wing": [
+          { "nama": "VVIP Presidential Suite" },
+          { "nama": "VVIP Lounge" }
+        ],
+        "south_wing": [
+          { "nama": "Private Chef & Butler Service" },
+          { "nama": "Rooftop Garden Therapy" },
+          { "nama": "Medevac Helipad (Ministry of Transport Certified)" }
+        ]
+      }
+    ]
+  }
+}

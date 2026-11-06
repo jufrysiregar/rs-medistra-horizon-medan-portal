@@ -1,0 +1,342 @@
+{
+  "gejala": [
+    {
+      "id": "ed-demam",
+      "nama_gejala": "Demam",
+      "kategori": "Infeksi Ringan",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Ukur suhu dengan termometer ketiak; demam pada bayi < 3 bulan di atas 38°C wajib periksa ke dokter.",
+            "Lanjutkan ASI atau susu formula lebih sering untuk mencegah dehidrasi.",
+            "Gunakan pakaian tipis dan ruangan sejuk, jangan diselimuti tebal.",
+            "Kompres air hangat di dahi, leher, dan lipatan ketiak selama 10 s.d. 15 menit."
+          ],
+          "saran_obat": "Tetes/parasetamol sirup sesuai dosis berat badan HANYA atas anjuran dokter atau apoteker. Jangan pernah memberi aspirin pada anak.",
+          "red_flags": "Bayi usia < 3 bulan bersuhu ≥ 38°C, kejang, muncul bintik merah tidak hilang saat ditekan, muntah terus menerus, atau tampak sangat lemas/sulit dibangunkan."
+        },
+        "anak": {
+          "langkah": [
+            "Istirahat total dan cek suhu tiap 4 jam.",
+            "Berikan banyak minum: air putih, kuah sup, atau oralit kecil kecilan.",
+            "Pakaian tipis, kompres air hangat pada dahi dan lipatan tubuh.",
+            "Mandikan air hangat suam kuku untuk membantu menurunkan suhu."
+          ],
+          "saran_obat": "Parasetamol sirup sesuai dosis berat badan tiap 6 s.d. 8 jam bila perlu. Obat herbal seperti kunyit asam hangat boleh sebagai pendamping, bukan pengganti.",
+          "red_flags": "Demam > 3 hari, kejang, ruam keunguan, napas cepat/kesulitan bernapas, anak tidak mau minum sama sekali atau tampak bingung."
+        },
+        "dewasa": {
+          "langkah": [
+            "Istirahat cukup, tidur 7 s.d. 8 jam agar imun bekerja optimal.",
+            "Minum 2 s.d. 3 liter air harian, bisa ditambah teh hangat atau wedang jahe.",
+            "Konsumsi makanan mudah dicerna dan kaya sup vitamin C.",
+            "Kompres dahi dengan air hangat bila suhu terasa tinggi."
+          ],
+          "saran_obat": "Parasetamol 500 mg tiap 6 s.d. 8 jam atau ibuprofen 200 mg setelah makan. Jahe hangat dan madu lemon membantu meredakan gejala penyerta.",
+          "red_flags": "Demam di atas 39.5°C tidak turun setelah obat, berlangsung lebih dari 3 hari, disertai nyeri dada, sesak napas, kaku leher, atau pandangan kabur mendadak."
+        },
+        "lansia": {
+          "langkah": [
+            "Pantau suhu rutin; demam pada lansia bisa tampak ringan padahal infeksi serius.",
+            "Bantu mobilitas agar tidak jatuh saat lemas, dan jaga asupan cairan tiap 1 s.d. 2 jam.",
+            "Gunakan pakaian longgar dan lingkungan dengan sirkulasi udara baik.",
+            "Catat obat rutin yang sedang dikonsumsi untuk informasi dokter."
+          ],
+          "saran_obat": "Parasetamol dosis standar umumnya paling aman, namun konsultasikan dengan apoteker bila sedang mengonsumsi obat pengencer darah atau penyakit hati.",
+          "red_flags": "Suhu ≥ 38°C disertai bingung mendadak, bicara melantur, jatuh/lemas ekstrem, atau pada penderita diabetes dan jantung, segera bawa ke IGD."
+        }
+      }
+    },
+    {
+      "id": "ed-batuk-pilek",
+      "nama_gejala": "Batuk & Pilek",
+      "kategori": "Infeksi Saluran Napas",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Teteskan cairan NaCl 0.9% ke hidung lalu hisap perlahan dengan alat pengisap ingus bayi.",
+            "Tinggikan posisi kepala sedikit saat tidur (bantal diganjal di bawah kasur).",
+            "Humidifier uap air dingin di kamar membantu melonggarkan napas.",
+            "Teruskan ASI/ASIP lebih sering."
+          ],
+          "saran_obat": "Tanpa obat batuk bebas! Pada bayi, cukup NaCl tetes dan konsultasi dokter. Minyak telon hangat boleh dioles tipis di punggung.",
+          "red_flags": "Napas cepat/berdenyut di sela rusuk, tarikan dinding dada, bibir kebiruan, tidak mau minum, atau demam pada bayi < 3 bulan."
+        },
+        "anak": {
+          "langkah": [
+            "Banyak minum air hangat dan sup kaldu untuk mengencerkan dahak.",
+            "Ajarkan membuang ingus pada tisu dan cuci tangan setelahnya.",
+            "Uap air hangat di bawah pengawasan orang tua 5 s.d. 10 menit.",
+            "Hindari asap rokok dan debu di dalam rumah."
+          ],
+          "saran_obat": "Anak > 1 tahun boleh madu 1/2 s.d. 1 sendok teh untuk meredakan batuk. Sirup ekspektoran hanya sesuai anjuran dokter/apoteker.",
+          "red_flags": "Batuk > 2 minggu, sesak napas, demam tinggi menyertai, dahak berdarah, atau anak tampak sangat lemas dan tidak mau minum."
+        },
+        "dewasa": {
+          "langkah": [
+            "Istirahat suara dan cukup tidur.",
+            "Kumur air garam hangat 3 s.d. 4 kali sehari untuk radang tenggorokan penyerta.",
+            "Hidrasi hangat: teh jahe, lemon madu, kuah sup.",
+            "Posisikan kepala lebih tinggi saat tidur untuk mengurangi hidung tersumbat."
+          ],
+          "saran_obat": "Dekongestan (pseudoefedrin) maks 3 s.d. 5 hari untuk sumbatan, obat kumur antiseptik, dan inhaler uap. Jahe + madu + lemon terbukti nyaman meredakan gejala.",
+          "red_flags": "Sesak napas, nyeri dada, batuk darah, demam > 3 hari, atau gejala membaik lalu memburuk kembali (curiga infeksi sekunder)."
+        },
+        "lansia": {
+          "langkah": [
+            "Jaga kehangatan tubuh dan ruangan, hindari udara dingin langsung.",
+            "Minum hangat rutin untuk mengencerkan sekret kental.",
+            "Duduk condong ke depan saat batuk hebat agar tidak jatuh.",
+            "Pantau saturasi oksigen bila memiliki oksimeter rumah."
+          ],
+          "saran_obat": "Hati hati dekongestan pada penderita darah tinggi dan glaukoma, konsultasi apoteker dulu. Parasetamol aman untuk nyeri badan penyerta.",
+          "red_flags": "Saturasi < 93%, napas cepat, bingung, bibir pucat/kebiruan, atau batuk dengan demam tinggi, risiko pneumonia pada lansia tinggi, segera ke IGD."
+        }
+      }
+    },
+    {
+      "id": "ed-diare",
+      "nama_gejala": "Diare",
+      "kategori": "Pencernaan",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Teruskan ASI tanpa batas; pada susu formula, lanjutkan seperti biasa (jangan diencerkan).",
+            "Berikan oralit sedikit sedikit (sendok tiap 1 s.d. 2 menit) setiap kali BAB cair.",
+            "Ganti popok segera dan bersihkan area dengan air mengalir agar tidak ruam.",
+            "Pantau tanda dehidrasi: ubun ubun cekung, menangis tanpa air mata."
+          ],
+          "saran_obat": "Oralit + zinc 10 mg/hari selama 10 hari (dosis bayi) sesuai panduan dokter. Jangan berikan obat anti diare orang dewasa pada bayi.",
+          "red_flags": "BAB berdarah/lendir, muntah menyemprot, tidak mau minum, mata/ubun ubun cekung, tidak buang air kecil > 6 jam, atau usia < 6 bulan."
+        },
+        "anak": {
+          "langkah": [
+            "Berikan oralit tiap habis BAB cair (1/2 s.d. 1 gelas belimbing).",
+            "Makan porsi kecil: bubur, pisang, nasi tim, hindari makanan berminyak dan tinggi gula.",
+            "Cuci tangan pakai sabun setelah dari toilet dan sebelum makan.",
+            "Istirahat di rumah sampai 24 jam bebas BAB cair."
+          ],
+          "saran_obat": "Oralit dan zinc 20 mg/hari selama 10 hari. Yoghurt probiotik boleh sebagai pendukung pemulihan flora usus.",
+          "red_flags": "Demam tinggi disertai diare, tinja berdarah, anak tampak sangat lemas/ mengantuk, tanda dehidrasi (mulut sangat kering, tidak pipis > 8 jam)."
+        },
+        "dewasa": {
+          "langkah": [
+            "Rehidrasi: oralit, air kelapa, kuah sup, hindari kopi dan soda.",
+            "Diet BRAT (banana, rice, applesauce, toast) 1 s.d. 2 hari pertama.",
+            "Hindari makanan pedas, berminyak, dan susu segar selama gejala ada.",
+            "Cuci tangan rutin agar tidak menular ke anggota rumah."
+          ],
+          "saran_obat": "Oralit sebagai prioritas. Attapulgite boleh untuk diare tanpa darah/demam. Probiotik dan rebusan jahe membantu menenangkan usus.",
+          "red_flags": "Diare > 3 hari, tinja hitam/berdarah, demam > 38.5°C, muntah tanpa henti sehingga tidak ada cairan masuk, tanda dehidrasi berat (pusing saat berdiri)."
+        },
+        "lansia": {
+          "langkah": [
+            "Segera beri oralit, dehidrasi pada lansia memburuk cepat dan memicu kebingungan.",
+            "Bantu ke toilet agar tidak jatuh saat lemas/kram perut.",
+            "Makan lunak yang dihangatkan: bubur kacang hijau encer, sup wortel.",
+            "Hentikan obat pencahar/suplemen tertentu setelah konsultasi dokter."
+          ],
+          "saran_obat": "Oralit wajib. Hindari loperamid pada lansia tanpa supervisi (risiko gangguan irama jantung dan ileus). Probiotik aman membantu.",
+          "red_flags": "Lansia tampak bingung/mengigau, mulut kering ekstrem, tidak pipis > 8 jam, demam, atau diare berdarah, kondisi ini gawat, bawa ke IGD."
+        }
+      }
+    },
+    {
+      "id": "ed-sakit-kepala",
+      "nama_gejala": "Sakit Kepala",
+      "kategori": "Neurologi Ringan",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Bayi belum bisa mengeluh; curigai dari perilaku: rewel berlebihan, memukul mukul kepala, menolak makan.",
+            "Cek apakah baru imunisasi atau panas, sering sumber utama keluhan kepala.",
+            "Redupkan lampu dan suara, gendong dan ayun lembut.",
+            "Segera ukur suhu tubuh."
+          ],
+          "saran_obat": "Tidak ada obat kepala bebas untuk bayi. Atasi penyebabnya (demam → parasetamol tetes sesuai dosis dokter). Sentuhan dan suara ibu adalah pereda terbaik.",
+          "red_flags": "Rewel tidak bisa ditenangkan > 3 jam, kejang, ubun ubun menonjol, muntah menyemprot, atau setelah benturan/trauma kepala."
+        },
+        "anak": {
+          "langkah": [
+            "Istirahat di ruangan redup dan tenang tanpa layar 30 s.d. 60 menit.",
+            "Beri minum, dehidrasi ringan sering jadi pemicu pada anak aktif.",
+            "Pijat lembut pelipis dan belakang leher dengan minyak hangat.",
+            "Cek apakah mata lelah karena terlalu lama menonton/bermain gawai."
+          ],
+          "saran_obat": "Parasetamol sirup sesuai dosis bila anak kesakitan. Kompres dingin di dahi dan teh chamomile hangat membantu.",
+          "red_flags": "Sakit kepala bangun tidur yang makin hari makin sering, disertai muntah, gangguan penglihatan/kekuatan, kaku leher, atau demam tinggi."
+        },
+        "dewasa": {
+          "langkah": [
+            "Kenali tipe: tegang di sekeliling kepala (tension) vs satu sisi berdenyut (migrain).",
+            "Kurangi layar, atur napas, pijat pelipis dan tengkuk 5 menit.",
+            "Minum air, dehidrasi dan telat makan adalah pemicu tersering.",
+            "Kompres dingin dahi untuk migrain; kompres hangat leher untuk tipe tegang."
+          ],
+          "saran_obat": "Parasetamol atau ibuprofen 200 s.d. 400 mg di awal serangan. Kopi/teh manis sedikit justru membantu pada migrain awal. Jahe efektif meredakan mual migrain.",
+          "red_flags": "Sakit kepala terburuk yang pernah dirasakan dan mendadak (thunderclap), disertai lemah separuh badan, bicara pelo, kejang, pandangan ganda, atau demam + kaku leher."
+        },
+        "lansia": {
+          "langkah": [
+            "Cek tekanan darah saat kepala nyeri, hipertensi sering tanpa gejala selain nyeri kepala belakang.",
+            "Bangun dari tempat tidur pelan pelan untuk mencegah pusing orthostatic.",
+            "Istirahat dengan bantal sedikit lebih tinggi, hindari ruangan terlalu gelap.",
+            "Catat kapan dan di mana nyeri muncul untuk dilaporkan ke dokter."
+          ],
+          "saran_obat": "Parasetamol paling aman. Hindari obat kombinasi kafein bila lansia punya darah tinggi/takikardia. Jangan gunakan obat kepala berlebihan (> 15 hari/bulan).",
+          "red_flags": "Nyeri kepala baru yang belum pernah dialami usia > 50 tahun, disertai pandangan kabur mendadak, nyeri rahang saat mengunyah, lemah separuh badan, atau bingung mendadak."
+        }
+      }
+    },
+    {
+      "id": "ed-mimisan",
+      "nama_gejala": "Mimisan",
+      "kategori": "THT",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Mimisan murni jarang pada bayi, cek apakah ada luka/benturan di sekitar hidung.",
+            "Jepit bagian lunak hidung dengan kain bersih lembut 5 s.d. 10 menit, posisikan bayi setengah duduk.",
+            "Jangan memasukkan tisu/kapas kering ke lubang hidung bayi.",
+            "Beri ASI untuk menenangkan."
+          ],
+          "saran_obat": "Tidak perlu obat. Uap air hangat di kamar menjaga selaput hidung tidak kering dan pecah.",
+          "red_flags": "Perdarahan tidak berhenti setelah 10 menit ditekan, terjadi setelah cedera kepala, atau disertai memar tanpa sebab di bagian tubuh lain."
+        },
+        "anak": {
+          "langkah": [
+            "Duduk tegak, kepala MENDONGAK SEDIKIT ke DEPAN (bukan ke belakang agar darah tidak tertelan).",
+            "Jepit lembut bagian lunak hidung 10 menit penuh tanpa dilepas check.",
+            "Kompres dingin pangkal hidung.",
+            "Setelah berhenti, ingatkan anak tidak mengorek/membuang ingus keras 24 jam."
+          ],
+          "saran_obat": "Salep petroleum tipis di dalam lubang hidung sebelum tidur mencegah selaput kering. Cairan hidung saline spray membantu.",
+          "red_flags": "Tidak berhenti > 20 menit, terjadi sangat sering, anak pucat/lemas, atau disertai riwayat gangguan pembekuan darah dan memar mudah."
+        },
+        "dewasa": {
+          "langkah": [
+            "Jepit bagian lunak hidung 10 s.d. 15 menit sambil duduk condong ke depan, bernapas dari mulut.",
+            "Kompres es dibalut kain di pangkal hidung.",
+            "Hindari membungkuk, mengangkat berat, dan makanan pedas/panas 24 jam.",
+            "Jaga kelembapan ruangan dengan humidifier."
+          ],
+          "saran_obat": "Semprot hidung dekongestan (oxymetazolin) 1 s.d. 2 kali dapat membantu menghentikan episode pada orang dewasa, jangan > 3 hari. Salmon spray untuk pencegahan.",
+          "red_flags": "Perdarahan deras tidak berhenti > 20 menit, mimisan setelah trauma kepala/wajah, atau pada pengguna pengencer darah, segera ke IGD."
+        },
+        "lansia": {
+          "langkah": [
+            "Posisikan duduk, jepit lunak hidung 15 menit, pembuluh darah lansia butuh tekanan lebih lama.",
+            "Cek tekanan darah setelah perdarahan berhenti.",
+            "Hindari kacamata menekan hidung sementara waktu.",
+            "Oles tipis salep/ petroleum jelly di dalam hidung pada udara kering malam hari."
+          ],
+          "saran_obat": "Pengguna aspirin/warfarin berisiko sulit berhenti, laporkan setiap mimisan ke dokter yang meresepkan. Jangan hentikan obat sendiri.",
+          "red_flags": "Tidak berhenti setelah 20 menit ditekan, darah mengalir deras ke tenggorokan, pusing/pingsan, atau sedang memakai obat pengencer darah, ke IGD."
+        }
+      }
+    },
+    {
+      "id": "ed-sakit-perut",
+      "nama_gejala": "Sakit Perut",
+      "kategori": "Pencernaan",
+      "data_usia": {
+        "bayi": {
+          "langkah": [
+            "Curigai kolik bila rewel menjerit sore/malam dengan perut kembung, biasanya usia 2 s.d. 12 minggu.",
+            "Sendawakan bayi setelah menyusu, gendong telungkup di lengan/perut.",
+            "Gerakan sepeda kaki lembut untuk membantu buang gas.",
+            "Lakukan pijat perut searah jarum jam dengan minyak bayi hangat."
+          ],
+          "saran_obat": "Simethicone tetes bayi hanya atas saran dokter. Air hangat sedikit pada bayi > 6 bulan boleh sebagai pendamping MPASI.",
+          "red_flags": "Perut kembung keras, muntah hijau/kecokelatan, tidak BAB+tidak kentut, menangis saat perut disentuh, atau ada benjolan di selangkangan yang tidak bisa masuk."
+        },
+        "anak": {
+          "langkah": [
+            "Istirahat dengan posisi lutut ditekuk ke dada untuk mengurangi kram.",
+            "Berikan air hangat sedikit sedikit, hindari soda dan makanan/minuman dingin.",
+            "Tanyakan lokasi nyeri: sekitar pusar biasanya ringan; menjalar ke kanan bawah perlu waspada.",
+            "Kompres hangat lembut di perut."
+          ],
+          "saran_obat": "Hindari obat pereda nyeri perut yang keras pada anak tanpa anjuran dokter. Teh chamomile hangat dan minyak kayu putih oles pada perut membantu.",
+          "red_flags": "Nyeri menetap > 8 jam, berpindah ke perut kanan bawah disertai demam/muntah (curiga usus buntu), perut keras, tinja berdarah, atau anak tampak sangat lemas."
+        },
+        "dewasa": {
+          "langkah": [
+            "Kenali pola: perih terkait makan = maag/GERD; kram + BAB = diare/kolitis ringan.",
+            "Makan porsi kecil rutin, hindari pedas, asam, bersantan, dan kopi saat gejala.",
+            "Kelola stres, sumbu usus otak nyata memicu nyeri perut fungsional.",
+            "Kompres hangat perut + teh jahe hangat meredakan kram."
+          ],
+          "saran_obat": "Antasida untuk perih maag, simethicone untuk kembung. Kunyit/temu lawak secara tradisional membantu inflamasi ringan lambung.",
+          "red_flags": "Nyeri hebat memusat di satu titik dan memburuk, demam tinggi, muntah darah atau BAB hitam, perut keras seperti papan, atau nyeri perut bawah kanan (curiga apendisitis)."
+        },
+        "lansia": {
+          "langkah": [
+            "Sakit perut pada lansia lebih sering mencerminkan masalah serius, evaluasi lebih awal.",
+            "Catat lokasi, durasi, dan pemicunya (makanan, BAB, aktivitas).",
+            "Makan lunak, porsi kecil, dan hindari obat pereda nyeri NSAID lepas.",
+            "Periksa apakah disertai tidak bisa BAB/kentut (curiga sumbatan usus)."
+          ],
+          "saran_obat": "Antasida umum aman. Waspadai interaksi obat: NSAID (asam mefenamat dll) pada lansia dapat memperburuk gastritis/ tukak.",
+          "red_flags": "Nyeri perut hebat mendadak, perut kembung keras tidak kentut, muntah terus, nyeri dada menjalar ke perut, atau disertai BAB berdarah, segera ke IGD."
+        }
+      }
+    }
+  ],
+  "artikel": [
+    {
+      "id": "art-ed-jantung",
+      "kategori": "Kesehatan Jantung",
+      "judul": "5 Langkah Sederhana Menjaga Jantung Tetap Prima",
+      "ringkasan": "Tekanan darah, kolesterol, dan gula darah bisa dikendalikan dengan perubahan kecil yang konsisten mulai hari ini.",
+      "peninjau": "dr. Sarah Lubis, Sp.JP",
+      "tanggal": "2026-10-18",
+      "image": "https://images.unsplash.com/photo-1628348068-740c17f2153f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "art-ed-kehamilan",
+      "kategori": "Kesehatan Ibu & Anak",
+      "judul": "Panduan Kehamilan Sehat: Dari Trimester Pertama hingga Persalinan",
+      "ringkasan": "Jadwal kontrol, kebutuhan asam folat dan zat besi, hingga tanda bahaya kehamilan yang wajib diwaspadai ibu dan keluarga.",
+      "peninjau": "dr. Miftah Putra, Sp.OG",
+      "tanggal": "2026-10-10",
+      "image": "https://images.unsplash.com/photo-1555252396-1686b0871093?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "art-ed-diabetes",
+      "kategori": "Pencernaan & Metabolik",
+      "judul": "Mengelola Diabetes di Rumah: Pola Makan & Pemantauan Mandiri",
+      "ringkasan": "Kunci gula darah stabil ada di piring makan, jadwal cek glucometer, dan aktivitas fisik ringan yang rutin dilakukan.",
+      "peninjau": "dr. Jonathan Situmorang, Sp.PD, KKV",
+      "tanggal": "2026-10-04",
+      "image": "https://images.unsplash.com/photo-1631549916768-4119b2e8d05c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "art-ed-mental",
+      "kategori": "Kesehatan Mental",
+      "judul": "Sehat Mental di Tengah Ritme Kota: Kenali Burnout Lebih Awal",
+      "ringkasan": "Gejala kelelahan kerja kronis sering disalahartikan sebagai malas. Ini panduan praktis mengenalinya dan mencari pertolongan.",
+      "peninjau": "dr. Rizky Ramadan Harahap, Sp.S",
+      "tanggal": "2026-09-27",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "art-ed-dengue",
+      "kategori": "Penular & Wabah",
+      "judul": "Waspadai Demam Berdarah: Fase Kritis Hari ke 3 hingga ke 7",
+      "ringkasan": "Setelah demam turun bukan berarti sembuh total. Kenali tanda warning syndrome DBD dan pencegahan 3M Plus di rumah.",
+      "peninjau": "dr. Faisal Daulay, Sp.P",
+      "tanggal": "2026-09-20",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "art-ed-imunisasi",
+      "kategori": "Kesehatan Anak",
+      "judul": "Jadwal Imunisasi Anak: Apa yang Perlu Disiapkan Orang Tua",
+      "ringkasan": "Mitos demam pasca imunisasi, penanganan KIPI ringan, dan cara membawa anak yang nyaman saat ke klinik.",
+      "peninjau": "dr. Aisyah Putri Batubara, Sp.A(K)",
+      "tanggal": "2026-09-12",
+      "image": "https://images.unsplash.com/photo-1616336730063-78f346b20437?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}

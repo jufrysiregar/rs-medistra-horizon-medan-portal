@@ -1,0 +1,98 @@
+[
+  {
+    "lantai": "G",
+    "nama_lantai": "Lantai Ground",
+    "north_wing": ["UGD", "Farmasi UGD", "Lab 24 Jam", "Security & CCTV"],
+    "south_wing": ["Kantin & Kitchen", "Laundry & Linen", "Ruang Teknisi", "Kantor IT/Server", "Ruang Staf"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true,
+    "titik_kumpul": "Area Parkir Utama & Lobi Depan",
+    "water_treatment": "Lt G (Area Belakang / Sayap Selatan)",
+    "ipal": "Lt G (Area Belakang / Sayap Selatan)",
+    "tps_limbah_b3": "Lt G (Area Belakang, akses khusus)",
+    "tps_domestik": "Lt G (Dekat Loading Dock)"
+  },
+  {
+    "lantai": "1",
+    "nama_lantai": "Lantai 1",
+    "north_wing": ["Pendaftaran Utama", "Poli Umum", "Poli Gigi"],
+    "south_wing": ["Farmasi Rawat Jalan", "Kasir & Rekam Medis", "Ruang Serbaguna/Meeting"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "2",
+    "nama_lantai": "Lantai 2",
+    "north_wing": ["Rawat Inap Reguler/KRIS (North)"],
+    "south_wing": ["Rawat Inap Reguler/KRIS (South)"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "3",
+    "nama_lantai": "Lantai 3",
+    "north_wing": ["Ruang Operasi", "ICU", "HDU", "Endoskopi"],
+    "south_wing": ["Ruang Sterilisasi/CSSD"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "4",
+    "nama_lantai": "Lantai 4 (Tidak Beroperasi)",
+    "north_wing": ["-"],
+    "south_wing": ["-"],
+    "restricted": "skip",
+    "tangga_darurat": false,
+    "apar": false
+  },
+  {
+    "lantai": "5",
+    "nama_lantai": "Lantai 5",
+    "north_wing": ["Rawat Inap Anak", "Poli Anak"],
+    "south_wing": ["Instalasi Fisioterapi & Rehabilitasi Medik"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "6",
+    "nama_lantai": "Lantai 6",
+    "north_wing": ["NICU", "Ruang Laktasi"],
+    "south_wing": ["Ruang Bersalin (VK)", "Rawat Inap Ibu"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "7",
+    "nama_lantai": "Lantai 7",
+    "north_wing": ["Poli Penyakit Dalam", "Poli Jantung", "Poli Saraf"],
+    "south_wing": ["Farmasi Satelit", "Rawat Inap Umum"],
+    "restricted": false,
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "8",
+    "nama_lantai": "Lantai 8",
+    "north_wing": ["Rawat Inap VIP"],
+    "south_wing": ["Kantor Manajemen", "Depo Farmasi Pusat"],
+    "restricted": true,
+    "catatan_keamanan": "Akses kartu staf untuk rawat inap VIP dan area manajemen",
+    "tangga_darurat": true,
+    "apar": true
+  },
+  {
+    "lantai": "9",
+    "nama_lantai": "Lantai 9 (VVIP Zone)",
+    "north_wing": ["VVIP Presidential Suite"],
+    "south_wing": ["VVIP Lounge", "Private Chef", "Rooftop"],
+    "restricted": true,
+    "tangga_darurat": true,
+    "apar": true
+  }
+]

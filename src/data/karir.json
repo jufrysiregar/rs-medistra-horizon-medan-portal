@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1,
+    "posisi": "Perawat IGD",
+    "kategori": "Keperawatan & Kebidanan",
+    "tanggal_posting": "2026-11-02T08:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan minimal D3 Keperawatan (S1 Ners diutamakan)",
+      "Memiliki STR aktif yang masih berlaku",
+      "Pengalaman bekerja di IGD minimal 1 tahun",
+      "Bersedia bekerja dengan sistem shift termasuk hari libur",
+      "Memiliki sertifikat BTCLS atau ACLS yang masih berlaku",
+      "Mampu bertindak cepat dan tenang dalam kondisi gawat darurat"
+    ]
+  },
+  {
+    "id": 2,
+    "posisi": "Perawat Rawat Inap",
+    "kategori": "Keperawatan & Kebidanan",
+    "tanggal_posting": "2026-11-01T09:30:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan minimal D3 Keperawatan",
+      "Memiliki STR aktif yang masih berlaku",
+      "Pengalaman rawat inap minimal 1 tahun diutamakan",
+      "Bersedia bekerja dengan sistem shift pagi, sore, dan malam",
+      "Mampu melakukan asuhan keperawatan secara dokumentatif",
+      "Berkomunikasi dengan baik kepada pasien dan keluarga"
+    ]
+  },
+  {
+    "id": 3,
+    "posisi": "Dokter Umum",
+    "kategori": "Medis & Spesialis",
+    "tanggal_posting": "2026-10-31T14:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Profesi dokter umum dengan STR aktif",
+      "Memiliki sertifikat ACLS dan ATLS yang masih berlaku",
+      "Bersedia menjalani dinas jaga malam dan akhir pekan",
+      "Mampu menangani pasien rawat jalan dan rawat inap",
+      "Terbiasa bekerja dengan sistem rekam medis elektronik",
+      "Komunikatif, teliti, dan berorientasi pada keselamatan pasien"
+    ]
+  },
+  {
+    "id": 4,
+    "posisi": "Apoteker",
+    "kategori": "Penunjang Medis & Farmasi",
+    "tanggal_posting": "2026-10-30T10:15:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Profesi Apoteker dengan STRA aktif",
+      "Memahami regulasi perbekalan kesehatan rumah sakit",
+      "Bersedia bekerja dengan sistem shift sesuai jadwal instalasi",
+      "Mampu melakukan pelayanan farmasi klinik dan peracikan",
+      "Teliti dalam pengelolaan stok dan pelaporan obat narkotika",
+      "Memiliki jiwa kepemimpinan untuk mengawasi asisten apoteker"
+    ]
+  },
+  {
+    "id": 5,
+    "posisi": "Asisten Apoteker",
+    "kategori": "Penunjang Medis & Farmasi",
+    "tanggal_posting": "2026-10-29T08:45:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D3 Farmasi dengan STRTTK aktif",
+      "Mampu melakukan peracikan dan penyiapan obat sesuai resep",
+      "Bersedia bekerja dengan sistem shift",
+      "Teliti dalam pencatatan stok dan tanggal kedaluwarsa obat",
+      "Memahami dasar pelayanan farmasi di rumah sakit"
+    ]
+  },
+  {
+    "id": 6,
+    "posisi": "Radiografer",
+    "kategori": "Penunjang Medis & Farmasi",
+    "tanggal_posting": "2026-10-28T13:30:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D3/D4 Radiografi dengan STR aktif",
+      "Memiliki sertifikat BAPETEK dan lisensi pesawat sinar-X",
+      "Mampu melakukan pemeriksaan rontgen, CT-Scan, dan MRI dasar",
+      "Bersedia bekerja dengan sistem shift termasuk dinas jaga",
+      "Memahami prinsip proteksi radiasi untuk pasien dan staf",
+      "Pengalaman di instalasi radiologi rumah sakit minimal 1 tahun"
+    ]
+  },
+  {
+    "id": 7,
+    "posisi": "Analis Laboratorium",
+    "kategori": "Penunjang Medis & Farmasi",
+    "tanggal_posting": "2026-10-27T09:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D3/D4 Analis Kesehatan dengan STR aktif",
+      "Mampu mengoperasikan alat hematologi, kimia darah, dan urinalisis",
+      "Memahami pengendalian mutu internal dan eksternal",
+      "Bersedia bekerja dengan sistem shift termasuk pengambilan sampel dini hari",
+      "Teliti dalam pencatatan hasil dan pelaporan nilai kritis",
+      "Pengalaman di laboratorium rumah sakit diutamakan"
+    ]
+  },
+  {
+    "id": 8,
+    "posisi": "Staf IT",
+    "kategori": "Umum, IT & Operasional",
+    "tanggal_posting": "2026-10-24T15:20:00",
+    "lokasi": "Medan (Hybrid)",
+    "kualifikasi": [
+      "Pendidikan S1 Teknik Informatika/Sistem Informasi/Ilmu Komputer",
+      "Mampu mengelola jaringan, server, dan sistem operasi",
+      "Mengenal aplikasi SIMRS dan basis data (SQL) menjadi nilai tambah",
+      "Mampu melakukan troubleshooting hardware, software, dan printer medis",
+      "Bersedia mendukung penanganan insiden di luar jam kerja",
+      "Terbiasa bekerja dengan dokumentasi dan tiket dukungan",
+      "Memahami dasar keamanan informasi dan perlindungan data pasien"
+    ]
+  },
+  {
+    "id": 9,
+    "posisi": "Staf HRD",
+    "kategori": "Manajemen & Administrasi",
+    "tanggal_posting": "2026-10-22T11:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan S1 Psikologi/Manajemen/Hukum Ketenagakerjaan",
+      "Pengalaman rekrutmen dan administrasi kepegawaian minimal 1 tahun",
+      "Memahami UU Cipta Kerja, BPJS Ketenagakerjaan, dan BPJS Kesehatan",
+      "Menguasai Microsoft Excel dan aplikasi penggajian",
+      "Terampil mengurus dokumen STR/STRA dan perpanjangan kontrak staf medis",
+      "Komunikatif, rapi dalam arsip, dan menjaga kerahasiaan data"
+    ]
+  },
+  {
+    "id": 10,
+    "posisi": "Staf Kasir",
+    "kategori": "Umum, IT & Operasional",
+    "tanggal_posting": "2026-10-20T08:30:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan minimal SMA/SMK, diutamakan D3 Akuntansi",
+      "Jujur, teliti, dan terbiasa menangani transaksi tunai serta non-tunai",
+      "Mampu mengoperasikan mesin EDC dan aplikasi kasir",
+      "Bersedia bekerja dengan sistem shift termasuk akhir pekan",
+      "Memahami alur penjaminan BPJS dan asuransi menjadi nilai tambah"
+    ]
+  },
+  {
+    "id": 11,
+    "posisi": "Staf Marketing",
+    "kategori": "Umum, IT & Operasional",
+    "tanggal_posting": "2026-10-18T16:00:00",
+    "lokasi": "Medan & Sekitarnya",
+    "kualifikasi": [
+      "Pendidikan minimal D3 Semua Jurusan, diutamakan Marketing/Manajemen",
+      "Pengalaman pemasaran, diutamakan industri rumah sakit atau kesehatan",
+      "Mampu membangun relasi dengan korporasi, asuransi, dan komunitas",
+      "Bersedia bekerja di lapangan dengan target kunjungan",
+      "Mampu mengoperasikan media sosial dan membuat konten sederhana",
+      "Komunikatif, berpenampilan rapi, dan memiliki SIM A atau SIM C"
+    ]
+  },
+  {
+    "id": 12,
+    "posisi": "Bidan",
+    "kategori": "Keperawatan & Kebidanan",
+    "tanggal_posting": "2026-10-15T10:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D3/D4 Kebidanan dengan STR aktif",
+      "Memiliki sertifikat PNPK dan APN yang masih berlaku",
+      "Bersedia bekerja dengan sistem shift termasuk dinas jaga kebidanan",
+      "Mampu melakukan asuhan kehamilan, persalinan, dan nifas",
+      "Pengalaman di ruang bersalin rumah sakit minimal 1 tahun",
+      "Siap mengikuti program peningkatan kompetensi maternal-neonatal"
+    ]
+  },
+  {
+    "id": 13,
+    "posisi": "Ahli Gizi (Dietisien)",
+    "kategori": "Penunjang Medis & Farmasi",
+    "tanggal_posting": "2026-10-12T09:15:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D4/S1 Gizi dengan gelar Dietisien (S.Gz, Diet)",
+      "Memiliki STR dietisien yang masih berlaku",
+      "Mampu melakukan asesmen dan konsultasi gizi pasien rawat inap",
+      "Memahami penyusunan menu dan sanitasi makanan instalasi gizi",
+      "Bersedia bekerja dengan sistem shift pagi hingga sore"
+    ]
+  },
+  {
+    "id": 14,
+    "posisi": "Teknisi Alat Medis",
+    "kategori": "Umum, IT & Operasional",
+    "tanggal_posting": "2026-10-08T13:45:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan D3/D4 Elektromedis atau Teknik Biomedik",
+      "Mampu melakukan kalibrasi dan pemeliharaan alat medis",
+      "Mengenal alat IGD, hemodialisa, radiologi, dan laboratorium",
+      "Bersedia dipanggil untuk penanganan darurat alat di luar jam kerja",
+      "Mampu membuat laporan berkala dan dokumen K3 alat kesehatan",
+      "Teliti, terbiasa membaca manual book, dan berorientasi keselamatan",
+      "Pengalaman di rumah sakit atau perusahaan alat kesehatan minimal 1 tahun"
+    ]
+  },
+  {
+    "id": 15,
+    "posisi": "Petugas Keamanan (Security)",
+    "kategori": "Umum, IT & Operasional",
+    "tanggal_posting": "2026-10-05T08:00:00",
+    "lokasi": "Medan",
+    "kualifikasi": [
+      "Pendidikan minimal SMA/SMK, usia maksimal 40 tahun",
+      "Memiliki sertifikat Gada Madya atau Gada Utama",
+      "Bebas NAPZA, sehat jasmani, dan tidak bertato terlihat",
+      "Bersedia bekerja dengan sistem shift termasuk malam hari",
+      "Mampu mengatur lalu lintas ambulans dan menjaga ketertiban pengunjung"
+    ]
+  }
+]

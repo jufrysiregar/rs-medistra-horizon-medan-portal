@@ -1,0 +1,58 @@
+{
+  "testimoni": [
+    {
+      "id": "tmn-1",
+      "nama": "Rina Simanjuntak",
+      "inisial": "RS",
+      "profil": "Pendamping pasien, Poli Jantung",
+      "rating": 5,
+      "tanggal": "September 2026",
+      "teks": "Ayah saya dipasang ring di Poli Jantung dan ditangani sangat cepat sejak IGD. Perawatnya sabar menjelaskan setiap tindakan, dan ruangannya bersih sekali. Tidak menyesal pindah ke Medistra Horizon."
+    },
+    {
+      "id": "tmn-2",
+      "nama": "Ahmad Fauzan Hasibuan",
+      "inisial": "AH",
+      "profil": "Pasien MCU Executive",
+      "rating": 5,
+      "tanggal": "Agustus 2026",
+      "teks": "Hasil MCU executive keluar di hari yang sama lewat email, lengkap dengan jadwal konsultasinya. Prosesnya terstruktur tanpa antre lama, cocok banget untuk karyawan yang jatah cutinya terbatas."
+    },
+    {
+      "id": "tmn-3",
+      "nama": "Maria Lorina Tanjung",
+      "inisial": "MT",
+      "profil": "Persalinan caesar, Kamar VIP",
+      "rating": 5,
+      "tanggal": "Juli 2026",
+      "teks": "Lahiran caesar anak kedua di sini dan pengalamannya jauh dari menakutkan. Tim obsgyn menghubungi keluarga tiap fase operasi, kamar VIP nya senyaman hotel, dan konselor laktasinya sangat membantu."
+    },
+    {
+      "id": "tmn-4",
+      "nama": "Budi Santoso",
+      "inisial": "BS",
+      "profil": "Peserta BPJS, Rawat Inap Zonasi",
+      "rating": 5,
+      "tanggal": "Juni 2026",
+      "teks": "Sempat ragu masuk lewat jalur BPJS, ternyata dilayani sama ramahnya. Verifikasi kepesertaan cuma beberapa menit dan kamar KRIS nya layak serta bersih. Terima kasih lantai 3!"
+    },
+    {
+      "id": "tmn-5",
+      "nama": "drg. Felicia Wijaya",
+      "inisial": "FW",
+      "profil": "Pasien Poli Gigi & Ortodonti",
+      "rating": 5,
+      "tanggal": "Mei 2026",
+      "teks": "Pemasangan behelnya rapi dan transparan soal estimasi biaya dari kunjungan pertama. Alat sterilnya terasa baru terus, dan jadwal kontrolnya selalu tepat waktu tanpa diulur ulur."
+    },
+    {
+      "id": "tmn-6",
+      "nama": "Khairunnisa Siregar",
+      "inisial": "KS",
+      "profil": "Keluarga pasien, ICU",
+      "rating": 5,
+      "tanggal": "April 2026",
+      "teks": "Update kondisi keluarga di ICU selalu diinformasikan dokter lewat telepon sebelum jam besuk. Perawatnya sangat manusiawi. Doa dan pelayanan di sini benar benar terasa."
+    }
+  ]
+}

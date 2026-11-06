@@ -1,0 +1,558 @@
+[
+  {
+    "age_id": "bayi",
+    "age_label": { "id": "Bayi & Balita", "en": "Infants & Toddlers" },
+    "age_range": { "id": "0-5 tahun", "en": "0-5 years" },
+    "icon": "Baby",
+    "symptoms": [
+      {
+        "id": "batuk-grok",
+        "label": { "id": "Batuk Grok-Grok", "en": "Rattly Cough" },
+        "icon": "Wind",
+        "category": "pernapasan",
+        "first_aid": [
+          { "id": "Berikan ASI atau susu lebih sering agar cairan terjaga dan lendir mengencer.", "en": "Offer breast milk or formula more often to keep fluids up and thin the mucus." },
+          { "id": "Teteskan cairan saline (NaCl 0,9%) lalu hisap lendir hidung perlahan dengan alat hisap bayi.", "en": "Apply saline (NaCl 0.9%) drops, then gently suction the nose with a baby aspirator." },
+          { "id": "Nyalakan humidifier uap dingin di kamar dan tidurkan dengan kepala sedikit lebih tinggi.", "en": "Run a cool-mist humidifier in the room and sleep with the head slightly elevated." }
+        ],
+        "herbal": [
+          { "id": "Balsam chamomile hangat, usap sangat lembut di dada dan punggung.", "en": "Warm chamomile balm, rubbed very gently on the chest and back." },
+          { "id": "Uap air hangat di ruangan untuk membantu melegakan saluran napas.", "en": "Warm steam in the room to help soothe the airways." }
+        ],
+        "herbal_warning": { "id": "DILARANG memberi madu pada anak di bawah 1 tahun karena risiko botulisme. Hindari obat batuk bebas tanpa anjuran dokter.", "en": "NEVER give honey to children under 1 year due to botulism risk. Avoid over-the-counter cough medicine without medical advice." },
+        "red_flag": [
+          { "id": "Sesak napas, tarikan dinding dada, atau cuping hidung kembang kempis.", "en": "Labored breathing, chest pulling-in, or nostril flaring." },
+          { "id": "Demam di atas 38,5 derajat, terutama pada bayi di bawah 3 bulan.", "en": "Fever above 38.5 degrees, especially in infants under 3 months." },
+          { "id": "Menolak menyusu, tampak sangat lemas, atau bibir kebiruan.", "en": "Refusing feeds, extreme floppiness, or bluish lips." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A)", "en": "Pediatrician (Sp.A)" }
+      },
+      {
+        "id": "demam-rewel",
+        "label": { "id": "Demam & Rewel", "en": "Fever & Fussiness" },
+        "icon": "Thermometer",
+        "category": "imunitas",
+        "first_aid": [
+          { "id": "Perbanyak ASI, susu, atau cairan dan pakaikan pakaian tipis yang menyerap keringat.", "en": "Offer more breast milk, formula, or fluids and dress the child in thin, sweat-absorbing clothing." },
+          { "id": "Kompres air hangat pada lipatan ketiak dan selangkangan, bukan air dingin.", "en": "Use a lukewarm compress on the armpits and groin, never cold water." },
+          { "id": "Jaga ruangan tetap sejuk dan bersirkulasi baik, pantau suhu secara berkala.", "en": "Keep the room cool and well ventilated, and check the temperature regularly." }
+        ],
+        "herbal": [
+          { "id": "Teh chamomile hangat untuk balita di atas 1 tahun, tanpa gula berlebih.", "en": "Warm chamomile tea for toddlers over 1 year, with little or no sugar." },
+          { "id": "Air kaldu bening atau jus buah encer untuk menjaga cairan tubuh.", "en": "Clear broth or diluted fruit juice to keep fluid intake up." }
+        ],
+        "herbal_warning": { "id": "Madu dilarang untuk bayi di bawah 1 tahun. Ikuti dosis obat penurun panas sesuai berat badan anak.", "en": "Honey is forbidden for infants under 1 year. Follow fever-reducer dosing by body weight." },
+        "red_flag": [
+          { "id": "Demam 38 derajat atau lebih pada bayi di bawah 3 bulan.", "en": "Fever of 38 degrees or higher in an infant under 3 months." },
+          { "id": "Kejang, sangat mengantuk, atau sulit dibangunkan.", "en": "Seizures, unusual drowsiness, or difficulty waking." },
+          { "id": "Bintik merah yang tidak pudar saat ditekan atau kuduk kaku.", "en": "A red rash that does not blanch when pressed, or a stiff neck." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A)", "en": "Pediatrician (Sp.A)" }
+      },
+      {
+        "id": "diare-bayi",
+        "label": { "id": "Diare & Feses Cair", "en": "Diarrhea & Loose Stools" },
+        "icon": "Droplets",
+        "category": "pencernaan",
+        "first_aid": [
+          { "id": "Berikan cairan rehidrasi oral (oralit) sedikit-sedikit tapi sering setelah setiap buang air besar cair.", "en": "Give oral rehydration solution in small frequent sips after every loose stool." },
+          { "id": "Lanjutkan ASI, susu, dan makanan biasa; jangan memuasakan anak.", "en": "Continue breastfeeding, milk, and normal food; do not starve the child." },
+          { "id": "Berikan zinc sesuai dosis anjuran dokter selama 10 hari berturut-turut.", "en": "Give zinc at the doctor-recommended dose for 10 consecutive days." }
+        ],
+        "herbal": [
+          { "id": "Air tajin (air rebusan beras) hangat tanpa gula sebagai tambahan cairan.", "en": "Warm rice water (strained) without sugar as extra fluid." },
+          { "id": "Kaldu bening dengan sedikit garam untuk membantu mengganti elektrolit.", "en": "Lightly salted clear broth to help replace electrolytes." }
+        ],
+        "herbal_warning": { "id": "Jangan memberikan obat anti diare milik orang dewasa pada anak. Susu formula tetap lanjut kecuali disarankan dokter.", "en": "Never give adult anti-diarrhea drugs to children. Keep formula feeds unless a doctor advises otherwise." },
+        "red_flag": [
+          { "id": "Tanda dehidrasi: menangis tanpa air mata, mulut kering, mata cekung, atau tidak buang air kecil 6 jam.", "en": "Dehydration signs: crying without tears, dry mouth, sunken eyes, or no urine for 6 hours." },
+          { "id": "Feses berdarah atau berwarna hitam.", "en": "Stools with blood or black in color." },
+          { "id": "Muntah terus sehingga tidak ada cairan masuk, atau anak sangat lemas.", "en": "Persistent vomiting with no fluids staying down, or extreme weakness." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A)", "en": "Pediatrician (Sp.A)" }
+      },
+      {
+        "id": "ruam-popok",
+        "label": { "id": "Ruam Popok", "en": "Diaper Rash" },
+        "icon": "Flower2",
+        "category": "kulit",
+        "first_aid": [
+          { "id": "Ganti popok setiap 2-3 jam atau segera setelah bayi buang air.", "en": "Change the diaper every 2-3 hours, or right after the baby soils it." },
+          { "id": "Bersihkan area popok dengan air hangat, lalu tepuk kering, jangan digosok.", "en": "Clean the diaper area with warm water, then pat dry, never rub." },
+          { "id": "Oleskan lapisan tebal salep pelindung (barrier/petroleum jelly) dan biarkan kulit tanpa popok sebentar.", "en": "Apply a thick layer of barrier ointment and give the baby some diaper-free air time." }
+        ],
+        "herbal": [
+          { "id": "Minyak kelapa murni tipis pada kulit bersih setelah mandi.", "en": "A thin layer of virgin coconut oil on clean skin after bathing." },
+          { "id": "Kompres air hangat rebusan daun asmara jering dingin untuk menenangkan kulit, lalu keringkan benar.", "en": "A cooled compress of brewed witch-hazel leaves, then dry the skin thoroughly." }
+        ],
+        "herbal_warning": { "id": "Hindari bedak tabur, tisu basah beralkohol, dan wewangian pada area yang sedang ruam.", "en": "Avoid talcum powder, alcohol wipes, and fragrances on the rash area." },
+        "red_flag": [
+          { "id": "Ruam merah menyala dengan lesi kecil di sekitarnya (dugaan infeksi jamur).", "en": "Bright red rash with satellite spots (possible yeast infection)." },
+          { "id": "Lepuh, bernanah, atau luka yang melebar di luar area popok.", "en": "Blisters, pus, or sores spreading beyond the diaper area." },
+          { "id": "Ruam disertai demam tinggi dan bayi rewel terus.", "en": "Rash with high fever and constant fussiness." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A) atau Dokter Kulit (Sp.KK/Sp.DVE)", "en": "Pediatrician (Sp.A) or Dermatologist (Sp.DVE)" }
+      },
+      {
+        "id": "sariawan-bayi",
+        "label": { "id": "Sariawan / Tumbuh Gigi", "en": "Mouth Sores & Teething" },
+        "icon": "Sparkles",
+        "category": "khusus",
+        "first_aid": [
+          { "id": "Lap mulut bayi dengan kasa bersih basahi air hangat, satu sampai dua kali sehari.", "en": "Wipe the baby's mouth with a clean, warm-dampened gauze once or twice a day." },
+          { "id": "Berikan teething ring dingin atau gigitan wortel matang besar untuk balita.", "en": "Offer a chilled teething ring or a large cooked-carrot gnaw for toddlers." },
+          { "id": "Hindari makanan asin, asam, atau keras yang membuat luka perih; sajikan makanan lunak sejuk.", "en": "Avoid salty, acidic, or hard foods that sting the sore; serve soft cool meals instead." }
+        ],
+        "herbal": [
+          { "id": "Teh chamomile seduh dingin untuk mengelap sekitar bibir (bukan bagian dalam mulut bayi).", "en": "Cooled brewed chamomile to wipe around the lips (not inside a baby's mouth)." },
+          { "id": "Olesan tipis minyak kelapa murni pada area sariawan balita.", "en": "A thin coat of virgin coconut oil on a toddler's mouth sore." }
+        ],
+        "herbal_warning": { "id": "Jangan menempelkan madu, pasta gigi, atau ramuan orang dewasa ke dalam mulut bayi.", "en": "Never apply honey, toothpaste, or adult remedies inside a baby's mouth." },
+        "red_flag": [
+          { "id": "Anak menolak minum karena nyeri dan buang air kecil berkurang drastis.", "en": "The child refuses fluids due to pain and urinates much less." },
+          { "id": "Luka di mulut tidak membaik setelah 2 minggu atau berdarah.", "en": "Mouth sores that do not heal after 2 weeks or that bleed." },
+          { "id": "Demam tinggi dengan lepuh menyebar ke tangan dan kaki (dugaan Flu Singapura).", "en": "High fever with blisters spreading to hands and feet (possible Hand, Foot and Mouth disease)." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A) atau Dokter Gigi (drg.)", "en": "Pediatrician (Sp.A) or Dentist (drg.)" }
+      },
+      {
+        "id": "kejang-demam",
+        "label": { "id": "Kejang Demam", "en": "Febrile Seizure" },
+        "icon": "Brain",
+        "category": "kepala",
+        "first_aid": [
+          { "id": "Letakkan anak miring di permukaan datar dan jauhkan benda keras di sekitarnya.", "en": "Place the child on their side on a flat surface, away from hard objects." },
+          { "id": "JANGAN memasukkan apa pun ke dalam mulut saat kejang; longgarkan pakaian di leher.", "en": "Do NOT put anything in the mouth during a seizure; loosen clothing around the neck." },
+          { "id": "Catat waktu dan pola kejang, lalu bawa ke fasilitas kesehatan setelah kejang berhenti.", "en": "Note the time and pattern of the seizure, then seek care once it stops." }
+        ],
+        "herbal": [
+          { "id": "Setelah anak sadar penuh, teh chamomile hangat untuk balita di atas 1 tahun membantu menenangkan.", "en": "After full recovery, warm chamomile tea for toddlers over 1 year can help calm the child." },
+          { "id": "Kompres air hangat pada lipatan tubuh membantu menurunkan demam pasca kejang.", "en": "A lukewarm compress on body folds helps bring down the fever after the seizure." }
+        ],
+        "herbal_warning": { "id": "Tidak ada pertolongan herbal saat kejang berlangsung. Fokus pada posisi aman dan penanganan demam setelahnya.", "en": "No herbal remedy is appropriate during an active seizure. Focus on safe positioning and after-care of the fever." },
+        "red_flag": [
+          { "id": "Kejang berlangsung lebih dari 5 menit.", "en": "A seizure lasting longer than 5 minutes." },
+          { "id": "Kejang lebih dari satu kali dalam satu serangan demam.", "en": "More than one seizure during the same febrile episode." },
+          { "id": "Kesadaran lama pulih pasca kejang, kuduk kaku, muntah, atau kejang pertama pada bayi di bawah 6 bulan.", "en": "Slow recovery of consciousness, stiff neck, vomiting, or a first seizure in an infant under 6 months." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A), bila berulang dirujuk ke Konsultan Neurologi Anak", "en": "Pediatrician (Sp.A); refer to a Pediatric Neurology Consultant if recurrent" }
+      }
+    ]
+  },
+  {
+    "age_id": "anak",
+    "age_label": { "id": "Anak & Remaja", "en": "Children & Teens" },
+    "age_range": { "id": "6-17 tahun", "en": "6-17 years" },
+    "icon": "GraduationCap",
+    "symptoms": [
+      {
+        "id": "amandel",
+        "label": { "id": "Radang Amandel", "en": "Tonsillitis" },
+        "icon": "Thermometer",
+        "category": "imunitas",
+        "first_aid": [
+          { "id": "Kumur air garam hangat (setengah sendok teh per gelas) bagi anak yang sudah bisa berkumur.", "en": "Warm salt-water gargle (half a teaspoon per glass) for children who can gargle." },
+          { "id": "Berikan minuman hangat, sup hangat, dan makanan lunak.", "en": "Offer warm drinks, warm soup, and soft foods." },
+          { "id": "Istirahat cukup dan penuhi kebutuhan cairan sehari-hari.", "en": "Plenty of rest and full daily fluid intake." }
+        ],
+        "herbal": [
+          { "id": "Teh jahe hangat dengan madu aman untuk anak di atas 1 tahun.", "en": "Warm ginger tea with honey is safe for children over 1 year." },
+          { "id": "Teh chamomile membantu anak istirahat lebih nyaman.", "en": "Chamomile tea helps the child rest more comfortably." }
+        ],
+        "red_flag": [
+          { "id": "Sulit menelan hingga menolak minum atau air liur menetes.", "en": "Trouble swallowing, refusing drinks, or drooling." },
+          { "id": "Suara sengau berat, mulut bau, atau kaku kuduk.", "en": "Heavy nasal voice, bad breath, or a stiff neck." },
+          { "id": "Demam lebih dari 3 hari atau hanya bernapas lewat mulut.", "en": "Fever beyond 3 days, or breathing only through the mouth." }
+        ],
+        "referral": { "id": "Dokter Spesialis Telinga Hidung Tenggorok (Sp.THT-KL)", "en": "ENT Specialist (Sp.THT-KL)" }
+      },
+      {
+        "id": "sakit-perut",
+        "label": { "id": "Sakit Perut / Mulas", "en": "Stomach Ache & Cramps" },
+        "icon": "Citrus",
+        "category": "pencernaan",
+        "first_aid": [
+          { "id": "Istirahat berbaring miring dengan lutut sedikit terlipat.", "en": "Rest on the side with the knees gently bent." },
+          { "id": "Kompres hangat pada perut dan minum air hangat sedikit-sedikit.", "en": "A warm compress on the tummy and small sips of warm water." },
+          { "id": "Hentikan sejenak camilan pedas, asam, dan bersoda; lanjut makanan lunak.", "en": "Pause spicy, sour, and fizzy snacks; continue with bland soft food." }
+        ],
+        "herbal": [
+          { "id": "Teh jahe hangat membantu meredakan mulas.", "en": "Warm ginger tea helps ease cramps." },
+          { "id": "Teh peppermint hangat untuk mengendurkan perut yang kembung.", "en": "Warm peppermint tea to relax a bloated tummy." }
+        ],
+        "herbal_warning": { "id": "Jangan memberikan obat pereda nyeri keras yang mengiritasi lambung; dosis obat anak mengikuti berat badan.", "en": "Do not give harsh painkillers that irritate the stomach; dose children's medicine by body weight." },
+        "red_flag": [
+          { "id": "Nyeri berpindah dan menetap di perut kanan bawah (dugaan usus buntu).", "en": "Pain moving to and settling in the lower right abdomen (possible appendicitis)." },
+          { "id": "Nyeri disertai demam, muntah terus, atau perut keras.", "en": "Pain with fever, repeated vomiting, or a rigid abdomen." },
+          { "id": "Buang air besar berdarah atau nyeri membangunkan anak dari tidur.", "en": "Bloody stools or pain that wakes the child from sleep." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A)", "en": "Pediatrician (Sp.A)" }
+      },
+      {
+        "id": "dbd",
+        "label": { "id": "Demam Berdarah (DBD), Gejala Awal", "en": "Dengue Fever (Early Signs)" },
+        "icon": "Activity",
+        "category": "imunitas",
+        "first_aid": [
+          { "id": "Perbanyak cairan: air putih, oralit, jus buah; catat jumlah yang diminum.", "en": "Push fluids: water, oral rehydration, fruit juice; log how much is drunk." },
+          { "id": "Parasetamol sesuai dosis untuk demam; hindari ibuprofen dan aspirin.", "en": "Paracetamol at the right dose for fever; avoid ibuprofen and aspirin." },
+          { "id": "Istirahat total dan pantau munculnya bintik merah serta perdarahan tiap hari.", "en": "Full bed rest; check daily for red spots and any bleeding." }
+        ],
+        "herbal": [
+          { "id": "Jus buah jambu biji merah sebagai tambahan cairan dan vitamin C.", "en": "Red guava juice as extra fluid and vitamin C." },
+          { "id": "Teh chamomile hangat membantu anak beristirahat.", "en": "Warm chamomile tea helps the child rest." }
+        ],
+        "herbal_warning": { "id": "Ramuan tidak menggantikan pemantauan dokter dan cek trombosit saat demam hari ke-3 sampai ke-5.", "en": "Herbal remedies do not replace doctor monitoring and platelet checks on days 3-5 of the fever." },
+        "red_flag": [
+          { "id": "Bintik merah kecil yang tidak pudar saat ditekan, atau mimisan dan gusi berdarah.", "en": "Tiny red spots that do not blanch on pressure, or nose and gum bleeding." },
+          { "id": "Nyeri perut hebat, muntah terus, tangan kaki dingin.", "en": "Severe abdominal pain, persistent vomiting, cold hands and feet." },
+          { "id": "Anak sangat lemas, gelisah, atau tampak membaik lalu memburuk mendadak.", "en": "Extreme lethargy or restlessness, or seeming to recover then suddenly worsening." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A); tanda bahaya segera ke IGD", "en": "Pediatrician (Sp.A); go to the ER immediately at warning signs" }
+      },
+      {
+        "id": "gatal-alergi",
+        "label": { "id": "Gatal Alergi", "en": "Allergic Itching" },
+        "icon": "Flower2",
+        "category": "kulit",
+        "first_aid": [
+          { "id": "Hentikan paparan pemicu yang baru dikenal: makanan, sabun, atau obat baru.", "en": "Stop contact with any new possible trigger: food, soap, or medicine." },
+          { "id": "Kompres dingin pada area gatal dan mandi air suam-suam kuku.", "en": "Cold compress on itchy patches and a lukewarm bath." },
+          { "id": "Pakaian katun longgar, kuku pendek bersih agar kulit tidak luka garuk.", "en": "Loose cotton clothing and short clean nails to prevent scratch wounds." }
+        ],
+        "herbal": [
+          { "id": "Air rebusan daun sirih dingin untuk mengompres area gatal (bukan luka terbuka).", "en": "Cooled betel-leaf decoction as a compress for itchy skin (not open wounds)." },
+          { "id": "Lulur oatmeal koloid pada mandi terakhir untuk menenangkan kulit.", "en": "Colloidal oatmeal in the final bath rinse to calm the skin." }
+        ],
+        "herbal_warning": { "id": "Jangan menggaruk atau mengoleskan lotion berpewangi pada kulit yang sedang meradang.", "en": "Do not scratch or apply scented lotions to inflamed skin." },
+        "red_flag": [
+          { "id": "Bengkak pada bibir, kelopak mata, atau seluruh wajah.", "en": "Swelling of the lips, eyelids, or whole face." },
+          { "id": "Sesak napas, mengi, atau suara serak (reaksi alergi berat).", "en": "Wheezing, breathlessness, or a hoarse voice (severe allergic reaction)." },
+          { "id": "Ruam melepuh meluas dengan demam.", "en": "A spreading blistering rash with fever." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A), Dokter Kulit (Sp.DVE), atau Konsultan Alergi Imunologi (Sp.A(K))", "en": "Pediatrician (Sp.A), Dermatologist (Sp.DVE), or Allergy-Immunology Consultant (Sp.A(K))" }
+      },
+      {
+        "id": "sakit-gigi",
+        "label": { "id": "Sakit Gigi", "en": "Toothache" },
+        "icon": "Sparkles",
+        "category": "kepala",
+        "first_aid": [
+          { "id": "Sikat lembut dan bersihkan sisa makanan yang terselip di sekitar gigi nyeri.", "en": "Brush gently and clear food trapped around the painful tooth." },
+          { "id": "Kumur air garam hangat, lalu kompres dingin dari luar pipi.", "en": "Rinse with warm salt water, then cold-compress the cheek from outside." },
+          { "id": "Hindari makanan terlalu panas, dingin, atau manis di sisi yang sakit.", "en": "Avoid very hot, cold, or sweet foods on the sore side." }
+        ],
+        "herbal": [
+          { "id": "Minyak cengkeh satu tetes pada kapas kecil untuk menambal sementara gigi yang berlubang.", "en": "A drop of clove oil on a small cotton pad placed over the cavity as a temporary cover." },
+          { "id": "Kumusan air teh chamomile hangat yang sudah dingin sebagai penetral nyeri ringan.", "en": "A cooled warm chamomile rinse as a mild soothing mouthwash." }
+        ],
+        "herbal_warning": { "id": "Jangan menempelkan aspirin langsung ke gusi; obat minum sesuai dosis anak.", "en": "Never place aspirin directly on the gum; oral painkillers follow the child's dose." },
+        "red_flag": [
+          { "id": "Bengkak wajah atau rahang, terutama disertai demam.", "en": "Facial or jaw swelling, especially with fever." },
+          { "id": "Nanah di sekitar gigi, kelenjar leher membengkak.", "en": "Pus around the tooth with swollen neck glands." },
+          { "id": "Nyeri tidak membaik lebih dari 2 hari atau muncul setelah jatuh dan cedera kepala.", "en": "Pain beyond 2 days, or tooth pain after a fall or head injury." }
+        ],
+        "referral": { "id": "Dokter Gigi Umum (drg.) atau Dokter Gigi Anak (Sp.KGA)", "en": "General Dentist (drg.) or Pediatric Dentist (Sp.KGA)" }
+      },
+      {
+        "id": "sembelit-anak",
+        "label": { "id": "Sembelit", "en": "Constipation" },
+        "icon": "Soup",
+        "category": "pencernaan",
+        "first_aid": [
+          { "id": "Tambah serat: pepaya, pir, sayur, dan oat; kurangi gorengan dan jajanan kemasan.", "en": "Add fibre: papaya, pear, vegetables, oats; cut fried and packaged snacks." },
+          { "id": "Minum air putih 6-8 gelas sehari dan ajak anak bergerak aktif.", "en": "Six to eight glasses of water a day plus plenty of active play." },
+          { "id": "Biasakan jadwal ke toilet tiap pagi setelah sarapan tanpa terburu-buru.", "en": "Train a relaxed morning toilet routine right after breakfast." }
+        ],
+        "herbal": [
+          { "id": "Jus pepaya atau smoothie buah naga tanpa gula.", "en": "Unsweetened papaya juice or dragon-fruit smoothie." },
+          { "id": "Seduh daun jati manis atau teh senna hanya jangka pendek atas saran dokter.", "en": "Senna-leaf tea only short-term and on medical advice." }
+        ],
+        "red_flag": [
+          { "id": "Ada darah pada feses atau celana dalam anak.", "en": "Blood on stools or on the child's underwear." },
+          { "id": "Perut sangat kembung, muntah, tidak buang air besar lebih dari 7 hari.", "en": "A very bloated belly, vomiting, or no bowel movement for over 7 days." },
+          { "id": "Berat badan turun, nafsu makan hilang, atau sembelit sejak bayi baru lahir.", "en": "Weight loss, lost appetite, or constipation since newborn days." }
+        ],
+        "referral": { "id": "Dokter Spesialis Anak (Sp.A)", "en": "Pediatrician (Sp.A)" }
+      }
+    ]
+  },
+  {
+    "age_id": "dewasa",
+    "age_label": { "id": "Dewasa", "en": "Adults" },
+    "age_range": { "id": "18-59 tahun", "en": "18-59 years" },
+    "icon": "UserRound",
+    "symptoms": [
+      {
+        "id": "gerd",
+        "label": { "id": "GERD / Asam Lambung", "en": "GERD / Acid Reflux" },
+        "icon": "Soup",
+        "category": "pencernaan",
+        "first_aid": [
+          { "id": "Makan porsi kecil namun lebih sering, kunyah perlahan dan jangan terburu-buru.", "en": "Eat small frequent meals, chew slowly and do not rush." },
+          { "id": "Hindari berbaring minimal 2 jam setelah makan; tinggikan kepala tempat tidur.", "en": "Stay upright at least 2 hours after eating; raise the head of the bed." },
+          { "id": "Kurangi makanan pedas, bersantan, asam, kopi, dan minuman bersoda.", "en": "Cut back on spicy, coconut-milk, acidic food, coffee, and fizzy drinks." }
+        ],
+        "herbal": [
+          { "id": "Ekstrak kunyit (satu ruas seduh air hangat) diminum pagi sebelum makan.", "en": "Turmeric decoction (one knuckle, brewed warm) drunk before breakfast." },
+          { "id": "Teh chamomile hangat setelah makan untuk menenangkan lambung.", "en": "Warm chamomile tea after meals to soothe the stomach." }
+        ],
+        "herbal_warning": { "id": "Hindari minuman berkafein di sore dan malam hari; penggunaan antasida jangka panjang harus dalam pengawasan dokter.", "en": "Avoid caffeinated drinks in the afternoon and evening; long-term antacid use needs medical supervision." },
+        "red_flag": [
+          { "id": "Nyeri dada menjalar ke lengan, rahang, atau punggung disertai keringat dingin.", "en": "Chest pain spreading to the arm, jaw, or back with cold sweat." },
+          { "id": "Muntah darah atau berwarna seperti ampas kopi, feses hitam seperti aspal.", "en": "Vomiting blood or coffee-ground material, black tarry stools." },
+          { "id": "Sulitan atau terasa tersangkut saat menelan, berat badan turun tanpa sebab.", "en": "Trouble swallowing or food getting stuck, unexplained weight loss." }
+        ],
+        "referral": { "id": "Dokter Spesialis Penyakit Dalam (Sp.PD) / Konsultan Gastroenterologi-Hepatologi (Sp.PD-KGEH)", "en": "Internist (Sp.PD) / Gastroenterology-Hepatology Consultant (Sp.PD-KGEH)" }
+      },
+      {
+        "id": "migrain",
+        "label": { "id": "Migrain", "en": "Migraine" },
+        "icon": "Brain",
+        "category": "kepala",
+        "first_aid": [
+          { "id": "Berhenti beraktivitas, beristirahat di ruangan gelap, tenang, dan sejuk.", "en": "Stop activity and rest in a dark, quiet, cool room." },
+          { "id": "Kompres dingin pada dahi atau pelipis selama 10-15 menit.", "en": "Cold compress on the forehead or temples for 10-15 minutes." },
+          { "id": "Minum sedikit minuman berkafein di awal serangan; jangan telat makan.", "en": "Sip a small caffeinated drink at attack onset; never skip meals." }
+        ],
+        "herbal": [
+          { "id": "Teh jahe hangat di awal serangan membantu meredakan mual.", "en": "Warm ginger tea at onset helps ease the nausea." },
+          { "id": "Minyak peppermint yang sudah diencerkan, usap pada pelipis dan belakang leher.", "en": "Diluted peppermint oil rubbed on the temples and neck." }
+        ],
+        "herbal_warning": { "id": "Batasi obat pereda nyeri maksimal 2-3 hari per minggu; pemakaian berlebihan justru memicu sakit kepala rebound.", "en": "Limit painkillers to 2-3 days a week; overuse triggers rebound headaches." },
+        "red_flag": [
+          { "id": "Sakit kepala hebat mendadak seperti sambar petir, berbeda dari migrain biasanya.", "en": "A sudden thunderclap headache unlike your usual migraines." },
+          { "id": "Disertai lemah separuh badan, bicara pelo, atau pandangan ganda.", "en": "One-sided weakness, slurred speech, or double vision." },
+          { "id": "Sakit kepala dengan demam tinggi, kaku kuduk, atau pola baru setelah usia 40 tahun.", "en": "Headache with high fever, stiff neck, or a new pattern after age 40." }
+        ],
+        "referral": { "id": "Dokter Spesialis Neurologi (Sp.N)", "en": "Neurologist (Sp.N)" }
+      },
+      {
+        "id": "nyeri-pinggang",
+        "label": { "id": "Nyeri Pinggang", "en": "Lower Back Pain" },
+        "icon": "Bone",
+        "category": "otot-sendi",
+        "first_aid": [
+          { "id": "Istirahat relatif 1-2 hari, lalu kembali bergerak bertahap; jangan berbaring berminggu-minggu.", "en": "Relative rest for 1-2 days, then resume moving gradually; do not stay in bed for weeks." },
+          { "id": "Kompres hangat atau dingin selang-seling pada area nyeri, 15-20 menit.", "en": "Alternate heat and cold packs on the sore area, 15-20 minutes each." },
+          { "id": "Angkat beban dengan tekukan lutut, bukan membungkuk; peregangan ringan tiap hari.", "en": "Lift with bent knees, not a bent back; stretch lightly every day." }
+        ],
+        "herbal": [
+          { "id": "Air seduh kunyit dan temulawak hangat tanpa gula.", "en": "Warm unsweetened turmeric and temulawak infusion." },
+          { "id": "Pijat lembut dengan minyak jahe di otot sekitar pinggang, bukan menekan tulang belakang.", "en": "Gentle massage with ginger oil on the surrounding muscles, never pressing the spine." }
+        ],
+        "herbal_warning": { "id": "Hindari terapi pijat atau 'patah back' agresif tanpa kompetensi; keluhan saraf butuh diagnosis tepat.", "en": "Avoid aggressive massage or 'back cracking' therapy by unqualified handlers; nerve symptoms need proper diagnosis." },
+        "red_flag": [
+          { "id": "Nyeri menjalar ke kaki disertai kesemutan atau kaki lemah.", "en": "Pain shooting down the leg with tingling or foot weakness." },
+          { "id": "Gangguan buang air kecil atau besar mendadak (kondisi darurat saraf).", "en": "Sudden loss of bladder or bowel control (a neurological emergency)." },
+          { "id": "Nyeri dengan demam, berat badan turun, atau setelah jatuh keras; tidak membaik 2 minggu.", "en": "Pain with fever, weight loss, or after a hard fall; not improving in 2 weeks." }
+        ],
+        "referral": { "id": "Dokter Spesialis Neurologi (Sp.N), Ortopedi (Sp.OT), atau Rehabilitasi Medik (Sp.KFR)", "en": "Neurologist (Sp.N), Orthopedist (Sp.OT), or Rehabilitation Medicine Specialist (Sp.KFR)" }
+      },
+      {
+        "id": "vertigo",
+        "label": { "id": "Vertigo", "en": "Vertigo" },
+        "icon": "Waves",
+        "category": "kepala",
+        "first_aid": [
+          { "id": "Duduk atau berbaring segera, fokuskan pandangan pada satu titik tetap.", "en": "Sit or lie down right away and fix your gaze on one steady point." },
+          { "id": "Ubah posisi perlahan; hindari layar, ketinggian, dan gerakan kepala mendadak.", "en": "Change position slowly; avoid screens, heights, and sudden head turns." },
+          { "id": "Cukupi cairan, jangan telat makan, dan hindari alkohol serta kafein berlebih.", "en": "Stay hydrated, eat on time, and avoid alcohol and excess caffeine." }
+        ],
+        "herbal": [
+          { "id": "Teh jahe hangat membantu melancarkan sirkulasi dan meredakan mual.", "en": "Warm ginger tea supports circulation and eases nausea." },
+          { "id": "Ekstrak ginkgo biloba hanya setelah berkonsultasi, terutama bila minum obat pengencer darah.", "en": "Ginkgo biloba extract only after consultation, especially if you take blood thinners." }
+        ],
+        "red_flag": [
+          { "id": "Vertigo dengan bicara pelo, pandangan ganda, atau lemah separuh badan (tanda stroke).", "en": "Vertigo with slurred speech, double vision, or one-sided weakness (stroke signs)." },
+          { "id": "Gangguan pendengaran mendadak pada satu telinga.", "en": "Sudden hearing loss in one ear." },
+          { "id": "Tidak mampu berdiri atau berjalan sama sekali, muntah hebat sampai dehidrasi.", "en": "Cannot stand or walk at all, or severe vomiting with dehydration." }
+        ],
+        "referral": { "id": "Dokter Spesialis Neurologi (Sp.N) atau Telinga Hidung Tenggorok (Sp.THT-KL)", "en": "Neurologist (Sp.N) or ENT Specialist (Sp.THT-KL)" }
+      },
+      {
+        "id": "tipes",
+        "label": { "id": "Tipes / Tifus (Demam Lama)", "en": "Typhoid (Prolonged Fever)" },
+        "icon": "Thermometer",
+        "category": "imunitas",
+        "first_aid": [
+          { "id": "Perbaiki diet lunak bertahap: bubur, nasi tim, lauk rendah serat kasar.", "en": "Step down to soft bland food: porridge, steamed rice, low-fibre side dishes." },
+          { "id": "Cek suhu rutin pagi dan malam; perbanyak minum air matang.", "en": "Check temperature every morning and night; drink plenty of safe water." },
+          { "id": "Minum antibiotik resep dokter sampai tuntas meski demam sudah turun.", "en": "Finish the doctor-prescribed antibiotics even after the fever drops." }
+        ],
+        "herbal": [
+          { "id": "Air rebusan kunyit hangat tanpa gula sebagai pendamping, bukan pengganti obat.", "en": "Warm unsweetened turmeric water as a companion, not a replacement for medicine." },
+          { "id": "Kaldu ayam bening dengan telur rebus lunak untuk menjaga asupan kalori.", "en": "Clear chicken broth with softly boiled egg to keep calorie intake up." }
+        ],
+        "herbal_warning": { "id": "Hindari makanan pedas, asam, dan tinggi serat kasar yang mengiritasi usus; jamu berat tidak disarankan selama fase demam.", "en": "Avoid spicy, sour, and high-fibre foods that irritate the gut; heavy herbal tonics are not advised during the fever phase." },
+        "red_flag": [
+          { "id": "Demam di atas 39 derajat lebih dari seminggu atau menurun lalu naik lagi.", "en": "Fever above 39 degrees for over a week, or down then up again." },
+          { "id": "Buang air besar berdarah, muntah darah, atau nyeri perut hebat.", "en": "Bloody stool, vomiting blood, or severe abdominal pain." },
+          { "id": "Kesadaran menurun, badan sangat lemas, atau tidak kuat minum.", "en": "Drowsiness, profound weakness, or inability to drink." }
+        ],
+        "referral": { "id": "Dokter Spesialis Penyakit Dalam (Sp.PD)", "en": "Internist (Sp.PD)" }
+      },
+      {
+        "id": "hipertensi",
+        "label": { "id": "Hipertensi (Sakit Kepala Tegang)", "en": "Hypertension (Tension Headache)" },
+        "icon": "HeartPulse",
+        "category": "kepala",
+        "first_aid": [
+          { "id": "Ukur tensi di rumah dengan manset lengan, catat pagi dan malam.", "en": "Measure home blood pressure with a cuff, logging morning and evening." },
+          { "id": "Tarik napas dalam perlahan 5 menit saat kepala terasa tegang; relaksasi bahu leher.", "en": "Breathe in slowly and deeply for 5 minutes during tension; relax shoulder and neck." },
+          { "id": "Turunkan garam, micin, dan makanan olahan; jalan kaki rutin 30 menit.", "en": "Cut salt, MSG, and processed food; walk 30 minutes regularly." }
+        ],
+        "herbal": [
+          { "id": "Jus seledri segar tanpa gula, satu gelas kecil sehari.", "en": "Unsweetened fresh celery juice, one small glass a day." },
+          { "id": "Teh rosela (hibiscus) hangat membantu tekanan darah lebih stabil.", "en": "Warm hibiscus tea helps keep blood pressure steadier." }
+        ],
+        "herbal_warning": { "id": "Ramuan tidak menggantikan obat anti hipertensi; jangan menghentikan obat tanpa izin dokter.", "en": "Herbal remedies do not replace anti-hypertensive drugs; never stop medication without your doctor's approval." },
+        "red_flag": [
+          { "id": "Sakit kepala hebat mendadak dengan pandangan kabur atau nyeri dada.", "en": "A sudden severe headache with blurred vision or chest pain." },
+          { "id": "Tekanan darah 180/120 atau lebih disertai mimisan, pusing, dan mual.", "en": "Blood pressure at 180/120 or higher with nosebleed, dizziness, and nausea." },
+          { "id": "Bicara pelo, lemah separuh badan, atau kejang (darurat hipertensi).", "en": "Slurred speech, one-sided weakness, or seizure (hypertensive emergency)." }
+        ],
+        "referral": { "id": "Dokter Spesialis Penyakit Dalam (Sp.PD) atau Jantung (Sp.JP) bila ada keluhan jantung", "en": "Internist (Sp.PD) or Cardiologist (Sp.JP) if there are heart symptoms" }
+      }
+    ]
+  },
+  {
+    "age_id": "lansia",
+    "age_label": { "id": "Lansia", "en": "Seniors" },
+    "age_range": { "id": "60 tahun ke atas", "en": "60 years and above" },
+    "icon": "Accessibility",
+    "symptoms": [
+      {
+        "id": "osteoartritis",
+        "label": { "id": "Osteoarthritis (Nyeri Lutut)", "en": "Osteoarthritis (Knee Pain)" },
+        "icon": "Bone",
+        "category": "otot-sendi",
+        "first_aid": [
+          { "id": "Kompres hangat pada lutut kaku 15-20 menit, dua kali sehari.", "en": "Warm compress on the stiff knee for 15-20 minutes, twice a day." },
+          { "id": "Gerakan lingkup sendi ringan tiap hari; jalan pelan dengan tongkat bila nyeri menumpu.", "en": "Daily gentle range-of-motion moves; use a cane for slow walks if weight-bearing hurts." },
+          { "id": "Elevasi tungkai saat duduk dan jaga berat badan ideal untuk mengurangi beban lutut.", "en": "Elevate the leg when seated and keep an ideal weight to unload the knee." }
+        ],
+        "herbal": [
+          { "id": "Kunyit dan temulawak (kurkumin) sebagai pereda nyeri alami.", "en": "Turmeric and temulawak (curcumin) as natural pain relief." },
+          { "id": "Parem (boreh) jahe merah hangat pada lutut, bilas setelah 20 menit.", "en": "A warm red-ginger pouce on the knee, rinsed off after 20 minutes." }
+        ],
+        "herbal_warning": { "id": "Konsultasi dulu bila rutin minum obat pengencer darah; hentikan ramuan bila nyeri ulu hati atau alergi.", "en": "Consult first if you take blood thinners daily; stop the remedy if heartburn or allergy appears." },
+        "red_flag": [
+          { "id": "Sendi merah, panas membara, dan bengkak besar.", "en": "A red, hot, and markedly swollen joint." },
+          { "id": "Tidak dapat menumpu beban sama sekali atau lutut terkunci.", "en": "Unable to bear any weight, or the knee locks." },
+          { "id": "Bentuk sendi berubah setelah jatuh, nyeri disertai demam.", "en": "A changed joint shape after a fall, or pain with fever." }
+        ],
+        "referral": { "id": "Dokter Spesialis Orthopedi (Sp.OT) atau Rehabilitasi Medik (Sp.KFR)", "en": "Orthopedist (Sp.OT) or Rehabilitation Medicine Specialist (Sp.KFR)" }
+      },
+      {
+        "id": "nyeri-punggung-kronis",
+        "label": { "id": "Nyeri Punggung Kronis", "en": "Chronic Back Pain" },
+        "icon": "BedDouble",
+        "category": "otot-sendi",
+        "first_aid": [
+          { "id": "Kompres hangat sebelum aktivitas dan ubah posisi duduk tiap 30 menit.", "en": "Warm compress before activity and change sitting position every 30 minutes." },
+          { "id": "Gunakan bantal penyangga punggung saat duduk dan tidur miring dengan bantal di antara lutut.", "en": "Use a lumbar support when sitting and sleep on the side with a pillow between the knees." },
+          { "id": "Lakukan peregangan lembut atau senam lansia bersama instruktur terlatih.", "en": "Do gentle stretching or senior exercise classes with a trained instructor." }
+        ],
+        "herbal": [
+          { "id": "Air seduh kunyit hangat rutin pagi hari.", "en": "Warm turmeric infusion every morning." },
+          { "id": "Parem jahe merah atau minyak kelapa hangat untuk pijat punggung ringan.", "en": "Red-ginger pouce or warm coconut oil for a light back massage." }
+        ],
+        "red_flag": [
+          { "id": "Nyeri menjalar ke kaki dengan kesemutan atau kekuatan kaki berkurang.", "en": "Pain radiating to the leg with tingling or reduced leg strength." },
+          { "id": "Gangguan buang air kecil atau besar baru muncul.", "en": "New bladder or bowel problems appear." },
+          { "id": "Nyeri malam yang tidak berubah posisi, dengan demam atau berat badan turun.", "en": "Night pain unaffected by position, with fever or weight loss." }
+        ],
+        "referral": { "id": "Dokter Spesialis Orthopedi (Sp.OT), Neurologi (Sp.N), atau Poliklinik Nyeri / Rehab Medik (Sp.KFR)", "en": "Orthopedist (Sp.OT), Neurologist (Sp.N), or a Pain Clinic / Rehabilitation Medicine Specialist (Sp.KFR)" }
+      },
+      {
+        "id": "sesak-napas",
+        "label": { "id": "Sesak Napas / Mengi", "en": "Breathlessness & Wheezing" },
+        "icon": "Wind",
+        "category": "pernapasan",
+        "first_aid": [
+          { "id": "Duduk condong ke depan dengan tangan bertumpu di lutut (posisi tripod).", "en": "Sit leaning forward with hands braced on the knees (tripod position)." },
+          { "id": "Longgarkan pakaian di leher dan dada, lakukan napas bibir terpelan (pursed-lip).", "en": "Loosen clothing at the neck and chest; breathe slowly through pursed lips." },
+          { "id": "Gunakan inhaler atau obat rutin yang memang sudah diresepkan dokter.", "en": "Use the inhaler or routine medicine already prescribed by the doctor." }
+        ],
+        "herbal": [
+          { "id": "Teh jahe hangat dengan madu untuk melegakan jalan napas (bukan pengganti obat).", "en": "Warm ginger tea with honey to ease the airways (not a medicine replacement)." },
+          { "id": "Hirup uap air hangat dengan tetesan minyak kayu putih untuk melegakan hidung.", "en": "Inhale warm steam with a drop of eucalyptus oil to clear the nose." }
+        ],
+        "herbal_warning": { "id": "Pada penderita asma, uap aromatik pekat justru bisa memicu bronkospasme; hentikan bila makin sesak.", "en": "In asthma, strong aromatic steam can trigger bronchospasm; stop if breathing worsens." },
+        "red_flag": [
+          { "id": "Sesak saat istirahat, tidak bisa menyelesaikan satu kalimat bicara.", "en": "Breathlessness at rest, unable to finish a full sentence." },
+          { "id": "Bibir atau ujung jari kebiruan, mengi tidak membaik dengan inhaler.", "en": "Bluish lips or fingertips, wheezing not relieved by the inhaler." },
+          { "id": "Disertai nyeri dada, bengkak kaki, atau harus tidur tinggi agar bisa napas.", "en": "With chest pain, leg swelling, or needing extra pillows to breathe." }
+        ],
+        "referral": { "id": "Dokter Spesialis Paru (Sp.P) atau Jantung (Sp.JP); sesak berat segera ke IGD", "en": "Pulmonologist (Sp.P) or Cardiologist (Sp.JP); go to the ER for severe breathlessness" }
+      },
+      {
+        "id": "kesemutan-kram",
+        "label": { "id": "Kesemutan / Kram", "en": "Tingling & Cramps" },
+        "icon": "Activity",
+        "category": "otot-sendi",
+        "first_aid": [
+          { "id": "Luruskan dan pijat perlahan otot yang kram ke arah jantung; jalan pelan untuk kram betis malam hari.", "en": "Straighten and gently massage the cramped muscle toward the heart; walk slowly for night calf cramps." },
+          { "id": "Hindari duduk menyilang atau posisi satu sisi terlalu lama; ubah posisi tiap 30 menit.", "en": "Avoid crossed legs or one-sided postures too long; shift position every 30 minutes." },
+          { "id": "Kompres hangat pada area kesemutan dan cukupi cairan sehari.", "en": "Warm compress on the tingling area and keep daily fluids up." }
+        ],
+        "herbal": [
+          { "id": "Air kelapa murni sebagai elektrolit alami pengganti kalium.", "en": "Plain coconut water as a natural potassium-electrolyte drink." },
+          { "id": "Seduhan kunyit hangat rutin membantu mengurangi kram otot malam.", "en": "A daily warm turmeric drink helps reduce night muscle cramps." }
+        ],
+        "herbal_warning": { "id": "Periksa ke dokter sebelum menambah suplemen kalium atau magnesium, terutama bila punya penyakit ginjal atau rutin minum obat.", "en": "Check with your doctor before adding potassium or magnesium supplements, especially with kidney disease or daily medication." },
+        "red_flag": [
+          { "id": "Kesemutan mendadak separuh badan dengan bicara pelo atau lemah sudut (tanda stroke).", "en": "Sudden one-sided tingling with slurred speech or facial droop (stroke sign)." },
+          { "id": "Kesemutan meluas disertai kelemahan kaki atau gangguan keseimbangan.", "en": "Spreading tingling with leg weakness or balance problems." },
+          { "id": "Luka di kaki yang tidak terasa perih pada penderita diabetes.", "en": "A foot wound that does not hurt in a person with diabetes." }
+        ],
+        "referral": { "id": "Dokter Spesialis Neurologi (Sp.N) atau Penyakit Dalam (Sp.PD) untuk cek gula darah dan saraf", "en": "Neurologist (Sp.N) or Internist (Sp.PD) for blood sugar and nerve checks" }
+      },
+      {
+        "id": "sembelit-kronis",
+        "label": { "id": "Sembelit Kronis", "en": "Chronic Constipation" },
+        "icon": "Soup",
+        "category": "pencernaan",
+        "first_aid": [
+          { "id": "Naikkan serat 25-30 gram per hari bertahap agar tidak kembung.", "en": "Raise fibre to 25-30 g a day, gradually, to avoid bloating." },
+          { "id": "Minum air hangat di pagi hari dan gerak jalan rutin setelah makan.", "en": "Drink warm water in the morning and walk regularly after meals." },
+          { "id": "Gunakan bangku injakan kaki saat di toilet dan jangan menunda rasa ingin Buang Air Besar.", "en": "Use a foot stool on the toilet and never delay the urge to go." }
+        ],
+        "herbal": [
+          { "id": "Smoothie pepaya dan buah naga tanpa gula.", "en": "Unsweetened papaya and dragon-fruit smoothie." },
+          { "id": "Oat hangan dengan pisang matang sebagai sarapan penarik air ke feses.", "en": "Warm oatmeal with a ripe banana as a fibre-rich breakfast." }
+        ],
+        "herbal_warning": { "id": "Obat pencahar stimulan hanya atas anjuran dokter; pemakaian terus-menerus membuat usus bergantung.", "en": "Stimulant laxatives only on doctor's advice; continuous use makes the bowel dependent." },
+        "red_flag": [
+          { "id": "Darah pada feses atau feses hitam, perubahan bentuk feses menjadi pipih.", "en": "Blood in stool, black stool, or pencil-thin stools." },
+          { "id": "Nyeri perut hebat dengan kembung dan tidak buang angin.", "en": "Severe pain with bloating and no passing of wind." },
+          { "id": "Berat badan turun tanpa sebab atau sembelit bergantian diare yang baru muncul di usia lanjut.", "en": "Unexplained weight loss, or new constipation alternating with diarrhea in old age." }
+        ],
+        "referral": { "id": "Dokter Spesialis Penyakit Dalam (Sp.PD), evaluasi kolonoskopi sesuai anjuran", "en": "Internist (Sp.PD); colonoscopy evaluation as advised" }
+      },
+      {
+        "id": "nyeri-dada-ringan",
+        "label": { "id": "Nyeri Dada Ringan", "en": "Mild Chest Pain" },
+        "icon": "HeartPulse",
+        "category": "khusus",
+        "first_aid": [
+          { "id": "Hentikan aktivitas, duduk atau setengah berbaring, longgarkan pakaian sempit.", "en": "Stop activity, sit or half-recline, and loosen tight clothing." },
+          { "id": "Tarik napas dalam perlahan, tetap tenang, dan catat pemicu, lokasi, serta lamanya nyeri.", "en": "Breathe in slowly and deep, stay calm, and note the trigger, location, and duration." },
+          { "id": "Ukur tensi dan nadi; hubungi keluarga untuk mendampingi ke fasilitas kesehatan.", "en": "Check blood pressure and pulse; call a family member to escort you to care." }
+        ],
+        "herbal": [
+          { "id": "Tidak ada ramuan untuk nyeri dada; jangan menunda pemeriksaan medis.", "en": "No herbal remedy treats chest pain; never delay a medical check." },
+          { "id": "Teh hangat non-kafein hanya bila nyeri jelas berasal dari lambung (perih ulu hati).", "en": "Warm non-caffeine tea only if the pain is clearly heartburn from the stomach." }
+        ],
+        "herbal_warning": { "id": "Jangan minum obat sendiri tanpa diagnosis; saat ragu, perlakukan nyeri dada sebagai keadaan darurat.", "en": "Do not self-medicate; when in doubt, treat chest pain as an emergency." },
+        "red_flag": [
+          { "id": "Nyeri menjalar ke lengan kiri, rahang, atau punggung.", "en": "Pain spreading to the left arm, jaw, or back." },
+          { "id": "Keringat dingin, mual, sesak, atau pusing menyertai nyeri.", "en": "Cold sweat, nausea, breathlessness, or dizziness with the pain." },
+          { "id": "Nyeri lebih dari 15 menit saat istirahat, atau sempat pingsan.", "en": "Pain over 15 minutes at rest, or any fainting." }
+        ],
+        "referral": { "id": "Dokter Spesialis Jantung (Sp.JP); tanda bahaya merah segera ke IGD", "en": "Cardiologist (Sp.JP); go to the ER immediately for red-flag signs" }
+      }
+    ]
+  }
+]
