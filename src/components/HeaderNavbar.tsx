@@ -106,7 +106,7 @@ const HEADER_MENU: HeaderMenu[] = [
 const LogoWordmark: React.FC = () => {
   const { language } = useLanguage();
   return (
-    <span className="ml-2 flex min-w-0 flex-col leading-none whitespace-nowrap overflow-hidden sm:ml-3 xl:hidden 2xl:flex">
+    <span className="ml-2 flex min-w-0 flex-col leading-none whitespace-nowrap overflow-hidden sm:ml-3 lg:hidden 2xl:flex">
       <span className="font-extrabold tracking-[0.18em] text-[11px] text-slate-900 sm:tracking-[0.22em] sm:text-[13px]">{language === 'en' ? 'HOSPITAL' : 'RUMAH SAKIT'}</span>
       <span className="mt-1 font-extrabold tracking-tight text-sm text-lime-600 sm:text-base">MEDISTRA HORIZON MEDAN</span>
     </span>
@@ -322,9 +322,10 @@ const HeaderNavbar: React.FC = () => {
           {/* LOGO */}
           <LogoLockup statik={logoStatik} className="flex min-w-0 items-center" tinggiImg="h-11 sm:h-12" />
 
-          {/* MENU UTAMA (desktop xl+) -- grup merapat ke kanan (ml-auto), jarak antar menu
-              dirapatkan ke gap-4 (xl) / gap-6 (2xl) supaya baris tidak terlalu melebar. */}
-          <div className="ml-auto hidden items-center gap-4 xl:flex 2xl:gap-6">
+          {/* MENU UTAMA (lg+ = 1024px ke atas) -- grup merapat ke kanan (ml-auto). Di pita
+              lg..xl label dipakai versi rapat (gap-2 + px-2/text-sm) supaya enam menu muat
+              di 1024px; mulai xl kembali ke ukuran penuh (gap-4, px-3, text-base). */}
+          <div className="ml-auto hidden items-center gap-2 lg:flex xl:gap-4 2xl:gap-6">
             {HEADER_MENU.map((menu, idx) => {
               const active = isMenuActive(menu);
               const isOpen = openMenu === menu.id;
@@ -335,7 +336,7 @@ const HeaderNavbar: React.FC = () => {
                             -> teks cyan tebal + pil cyan-50 + garis bawah 2px;
                  - terbuka: kursor baru masuk, dropdown tampil -> pil tipis saja;
                  - diam   -> slate, hover memberi pil netral. */
-              const labelCls = `relative flex cursor-pointer items-center gap-1.5 whitespace-nowrap rounded-lg px-3 py-2.5 text-base font-medium transition-colors duration-200 ${
+              const labelCls = `relative flex cursor-pointer items-center gap-1.5 whitespace-nowrap rounded-lg px-2 py-2 text-sm font-medium transition-colors duration-200 xl:px-3 xl:py-2.5 xl:text-base ${
                 active
                   ? 'bg-cyan-50 text-cyan-700 font-semibold'
                   : isOpen
@@ -461,15 +462,15 @@ const HeaderNavbar: React.FC = () => {
             })}
           </div>
 
-          {/* KANAN: hanya hamburger (< xl) — CTA UGD & Buat Janji Temu dihapus dari header */}
-          <div className="flex shrink-0 items-center gap-2.5">
+          {/* KANAN: hanya hamburger (< lg) — CTA UGD & Buat Janji Temu dihapus dari header */}
+          <div className="flex shrink-0 items-center gap-2.5 lg:hidden">
             {/* Hamburger (< xl) -- diperbesar: ikon 32px + padding 12px + border tipis
                 supaya kotaknya jelas terlihat (tinggi total ~56px, jauh di atas tap
                 target minimum 44px). */}
             <button
               onClick={() => setMobileOpen(true)}
               aria-label={language === 'id' ? 'Buka menu' : 'Open menu'}
-              className="inline-flex min-h-[44px] items-center justify-center rounded-xl border border-slate-200 bg-white p-3 text-slate-800 shadow-sm transition-colors hover:bg-slate-100 xl:hidden"
+              className="inline-flex min-h-[44px] items-center justify-center rounded-xl border border-slate-200 bg-white p-3 text-slate-800 shadow-sm transition-colors hover:bg-slate-100 lg:hidden"
             >
               <Menu className="h-8 w-8" />
             </button>
@@ -485,7 +486,7 @@ const HeaderNavbar: React.FC = () => {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: '-100%' }}
             transition={{ duration: 0.3, ease: 'easeOut' }}
-            className="fixed inset-0 z-[9999] flex flex-col bg-white xl:hidden"
+            className="fixed inset-0 z-[9999] flex flex-col bg-white lg:hidden"
           >
             {/* Bar atas: logo + tutup */}
             <div className="flex shrink-0 items-center justify-between gap-4 border-b border-slate-100 px-5 py-4">

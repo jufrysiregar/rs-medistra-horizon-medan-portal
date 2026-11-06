@@ -116,7 +116,7 @@ export const MeetOurDoctors: React.FC = () => {
   ).length;
 
   return (
-    <section className="w-full bg-white py-12 sm:py-16 lg:py-24 xl:py-32">
+    <section className="w-full overflow-x-clip bg-white py-12 sm:py-16 lg:py-24 xl:py-32">
       <div className="mx-auto grid w-full max-w-[1500px] grid-cols-1 gap-10 px-6 lg:grid-cols-[minmax(0,3fr)_minmax(0,5fr)] lg:items-center lg:gap-16 lg:px-10">
         {/* KOLOM KIRI: rating, judul, deskripsi, tombol lihat semua — masuk dari kiri,
             meluncur ke kanan (x: -48 -> 0) sambil memudar jadi terlihat. */}

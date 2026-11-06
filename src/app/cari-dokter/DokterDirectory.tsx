@@ -175,7 +175,7 @@ const FotoDokter: React.FC<{ d: Dokter }> = ({ d }) => {
           fill
           /* Lebar kartu sebenarnya: 1 kolom di ponsel (~100vw), 2 kolom di tablet (~50vw),
              4 kolom di desktop (maks ~286px karena container max-w-7xl). */
-          sizes="(max-width: 767px) 100vw, (max-width: 1023px) 50vw, 300px"
+          sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, (max-width: 1279px) 33vw, 300px"
           quality={100}
           className="h-full w-full object-cover object-center"
           loading="lazy"
@@ -555,7 +555,7 @@ const DokterDirectory: React.FC = () => {
             </p>
           </div>
         ) : (
-          <div className="relative z-10 mt-6 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4">
+          <div className="relative z-10 mt-6 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {hasil.map((d) => (
               <DokterCard key={d.id} d={d} lang={lang} labelPoli={labelPoli} onBooking={(id) => openBookingModal({ id })} onDetail={setDokterDetail} />
             ))}
