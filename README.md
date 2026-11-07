@@ -20,29 +20,6 @@ The site is a static-first **Next.js 14 App Router** application: every page is 
 
 ---
 
-## 📸 Screenshots / Preview
-
-Replace the placeholders below with real captures stored in `public/images/readme/` (1440×900 recommended for desktop, 390×844 for mobile).
-
-| Home — hero & quick access | Find a Doctor — directory & schedules | Service Detail — ICU / HDU |
-|---|---|---|
-| ![Home](public/images/readme/beranda.png) | ![Find a doctor](public/images/readme/cari-dokter.png) | ![ICU HDU](public/images/readme/icu-hdu.png) |
-
-| Appointment Booking Modal | Events & Promos / Membership | Health Education — Self-Care Guide |
-|---|---|---|
-| ![Booking](public/images/readme/booking-modal.png) | ![Promos](public/images/readme/event-promo.png) | ![Self care](public/images/readme/panduan-sehat.png) |
-
-<details>
-<summary>Mobile layout & English mode</summary>
-
-| Mobile — Home | Mobile — Navigation | English Mode (`mhm_lang=en`) |
-|---|---|---|
-| ![mobile home](public/images/readme/mobile-beranda.png) | ![mobile nav](public/images/readme/mobile-nav.png) | ![english mode](public/images/readme/en-mode.png) |
-
-</details>
-
----
-
 ## ✨ Key Features
 
 - **Bilingual down to the data layer (ID ⇄ EN).** The active language is stored in the `mhm_lang` cookie, read server-side through `getLang()`, and merged into each dataset via `localize()` using English overlay files in `src/data/en/*.json`. Switching languages re-renders Server Components, so SEO metadata, `alt` text, and `<title>` all change with it — this is not a client-only string swap.
